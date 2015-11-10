@@ -1,19 +1,26 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Home 
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
+- title: "About"
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
+  - title: "About LPL"
     url: "#"
-  - title: "Dropdown Menu 2"
+  - title: "Board of Directors"
     url: "#"
-  - title: "Dropdown Menu 3"
+
+- title: "Projects"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Narcotics Audit"
+    url: "#"
+  - title: "Project #1"
     url: "#"
 
 - title: Blog
