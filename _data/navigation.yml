@@ -10,25 +10,20 @@
   side: left
   dropdown:
   - title: "About LPL"
-    url: "#"
+    url: "/about/"
   - title: "Board of Directors"
-    url: "#"
+    url: "/board/"
 
 - title: "Projects"
-  url: "#"
+  url: "/projects/"
   side: left
   dropdown:
   - title: "Narcotics Audit"
-    url: "#"
-  - title: "Project #1"
-    url: "#"
+    url: "/projects/narcotics/"
 
 - title: Blog
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
