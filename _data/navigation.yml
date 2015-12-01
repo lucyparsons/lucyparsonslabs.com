@@ -6,20 +6,29 @@
   side: left
 
 - title: "About"
-  url: "#"
+  url: "/about/"
   side: left
   dropdown:
   - title: "About LPL"
     url: "/about/"
   - title: "Board of Directors"
     url: "/board/"
+  - title: "In the Press"
+    url: "/media/"
 
 - title: "Projects"
   url: "/projects/"
   side: left
   dropdown:
-  - title: "Narcotics Audit"
-    url: "/projects/narcotics/"
+  - title: "The Narcotics Audit"
+    url: "/projects/"
+
+- title: Links
+  url: "/"
+  side: left
+  dropdown:
+  - title: "Warrant Canary"
+    url: "/canary/"
 
 - title: Blog
   url: "/blog/"
