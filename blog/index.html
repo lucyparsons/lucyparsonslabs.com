@@ -3,7 +3,7 @@
 <head>
 		<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Blog</title>
+	<title>Blog Archive</title>
 	<link rel="stylesheet" type="text/css" href="http://127.0.0.1:4000/assets/css/styles_feeling_responsive.css" />
 	<script src="http://127.0.0.1:4000/assets/js/modernizr.min.js"></script>
 
@@ -22,7 +22,7 @@
 
   
 	
-	<meta name="description" content="This is the Blog Template." />
+	<meta name="description" content="Click on a headline to read the teaser." />
 
 	
 
@@ -104,16 +104,16 @@
 	<!-- Facebook Optimization -->
 	<meta property="og:locale" content="en_EN" />
 	
-	<meta property="og:title" content="Blog" />
+	<meta property="og:title" content="Blog Archive" />
 	<meta property="og:description" content="»Lucy Parsons Labs« is a charitable Chicago-based collaboration between data scientists, transparency activists, and technologists which focuses on the intersection of digital rights and on-the-streets issues." />
-	<meta property="og:url" content="http://127.0.0.1:4000//blog/index.html" />
+	<meta property="og:url" content="http://127.0.0.1:4000//blog/archive/" />
 	<meta property="og:site_name" content="Lucy Parsons Labs" />
 	
 
 	
 
 	<!-- Search Engine Optimization -->
-	<meta name="robots" content="noindex" />
+	
 
 	<link type="text/plain" rel="author" href="http://127.0.0.1:4000/humans.txt" />
 
@@ -416,63 +416,51 @@
 
 
 
-
-
-
-
-
-
-
-	<div class="row">
-	<div class="medium-8 columns t30">
-		
-
-
-
-  <div class="row">
-    <div class="small-12 columns b60">
-      <p class="subheadline"><span class="subheader">foia</span> – The Narcotics Audit</p>
-      <h2><a href="http://127.0.0.1:4000/foia/the-chicago-narcotics-audit/">A joint project with MuckRock</a></h2>
-      <p>
-        <a href="http://127.0.0.1:4000/foia/the-chicago-narcotics-audit/" title="A joint project with MuckRock"><img src="https://phlow.github.io/feeling-responsive/images/" class="alignleft" width="150" height="150" alt="Blog"></a>
-
-        Through the last year and a half we have worked diligently using FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD).
-
-        <a href="http://127.0.0.1:4000/foia/the-chicago-narcotics-audit/" title="Read A joint project with MuckRock"><strong>Read More&nbsp;›</strong></a>
-      </p>
-    </div><!-- /.small-12.columns -->
-  </div><!-- /.row -->
-
-
-
-<nav id="pagination">
+<nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
+ <a href="http://127.0.0.1:4000">Start</a>
+ 
+   
     
-
-    <a class="radius button small" href="http://127.0.0.1:4000/blog/archive/" title="Blog Archive">Blog Archive</a>
-
+        <a href="http://127.0.0.1:4000/blog/">blog</a>
     
-  </nav>
+  
+    
+        <a class="current">Blog Archive</a>
+    
+  
+</nav>
 
 
-	</div><!-- /.medium-7.columns -->
 
 
-	<div class="medium-4 columns t30">
-		<aside>
-	<div class="panel radius">
-		<h3>Sidebar</h3>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-			Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
-	</div>
 
-  <img class="b30" src="http://dummyimage.com/303x16:9/334D5C/EFC94C.png&amp;text=Placeholder" alt="">
 
-</aside>
-	</div><!-- /.medium-5.columns -->
+
+
+
+
+	<div id="blog-index" class="row">
+	<div class="small-12 columns t30">
+		<h1>Blog Archive</h1>
+		<p class="teaser">Click on a headline to read the teaser.</p>
+
+		<dl class="accordion" data-accordion>
+			
+			
+			<dd class="accordion-navigation">
+			<a href="#panel1"><span class="iconfont"></span> The Narcotics Audit › <strong>A joint project with MuckRock</strong></a>
+				<div id="panel1" class="content">
+					Through the last year and a half we have worked diligently using FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD).
+					<a href="http://127.0.0.1:4000/foia/the-chicago-narcotics-audit/" title="Read A joint project with MuckRock"><strong>Read More&nbsp;›</strong></a><br><br>
+				</div>
+			</dd>
+			
+			
+		</dl>
+	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->
+
 
 	
 	    <div id="up-to-top" class="row">
