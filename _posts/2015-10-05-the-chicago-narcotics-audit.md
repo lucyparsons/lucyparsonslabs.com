@@ -18,7 +18,7 @@ tags:
 #
 image:
   header: ""
-  thumb: ""
+#  thumb: ""
   homepage: ""
   caption: ""
   url: ""
