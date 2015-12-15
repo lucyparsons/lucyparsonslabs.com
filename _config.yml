@@ -37,7 +37,7 @@ improve_content: https://github.com/lucyparsons/lucyparsons.github.io
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://lucyparsonslabs.github.io/images/'
+urlimg: 'https://github.com/freddymartinez9/responsive/tree/master/images/'
 
 
 # Logo size is 600x80 pixels
