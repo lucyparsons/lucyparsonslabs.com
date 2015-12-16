@@ -69,7 +69,7 @@ M9SdCF54zFhYcSQJKVny+dORRH9tyg==
 </section>
 
 <br>
-<h3>You can contact Brian Kroll, our CTO using his GPG key which is below </h3>
+<h3>You can contact Brian Kroll, our CFO using his GPG key which is below </h3>
 <br>
 <section>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
