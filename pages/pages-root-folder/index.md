@@ -6,10 +6,8 @@
 #
 layout: frontpage
 header:
-   image_fullwidth: alrp.jpg
+   image_fullwidth: alpr.jpg
 
-header:
-  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Current Projects"
   url: 'https://www.muckrock.com/project/opening-the-chicago-surveillance-fund-25/'
