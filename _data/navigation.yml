@@ -1,0 +1,50 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home 
+  url: "/"
+  side: left
+
+- title: "About"
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "About LPL"
+    url: "/about/"
+  - title: "Board of Directors"
+    url: "/board/"
+  - title: "In the Press"
+    url: "/media/"
+
+- title: "Projects"
+  url: "/projects/"
+  side: left
+  dropdown:
+  - title: "The Narcotics Audit"
+    url: "/projects/"
+
+- title: Links
+  url: "/"
+  side: left
+  dropdown:
+  - title: "Warrant Canary"
+    url: "/canary/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+
+#
+#   Navigation to the right › side: right
+#
+- title: "Info"
+  url: "/info/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
