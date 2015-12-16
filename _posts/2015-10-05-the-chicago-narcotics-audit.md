@@ -16,12 +16,12 @@ tags:
 #
 # Styling
 #
-image:
-  header: ""
+#image:
+#  header: ""
 #  thumb: ""
-  homepage: ""
-  caption: ""
-  url: ""
+#  homepage: ""
+#  caption: ""
+#  url: ""
 ---
 Through the last year and a half we have worked diligently using FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD). Through multiple FOIA requests and lawsuits [0], we have demonstrated the CPD's purchase and use of controversial "Stingray" cellphone surveillance devices [1] among other new surveillance technologies. Also through this work we have seen Chicago Police acting in "bad faith" [2] in fulfilling our FOIA requests.
 

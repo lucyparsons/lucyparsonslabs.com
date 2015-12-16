@@ -14,12 +14,7 @@ tags:
 #
 # Styling
 #
-image:
-  header: ""
-  thumb: ""
-  homepage: ""
-  caption: ""
-  url: ""
+#  image: "BlogLawsuit.png"
 ---
 
 Chicago, IL - Last week a pair of lawsuits were filed on behalf of two Lucy Parsons Labs members against the Chicago Polic

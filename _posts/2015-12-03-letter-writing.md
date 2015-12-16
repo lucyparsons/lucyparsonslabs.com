@@ -14,12 +14,12 @@ tags:
 #
 # Styling
 #
-image:
-  header: ""
-  thumb: ""
-  homepage: ""
-  caption: ""
-  url: ""
+#image:
+#  header: ""
+#  thumb: ""
+#  homepage: ""
+#  caption: ""
+#  url: ""
 ---
 
 Chicago, IL - The Lucy Parsons Lab recently sat down with activists, a cute dog, and friends to write letters to prisoners for the holidays. The LPL member compiled a list of prisoners and another friend host our event. So around a big kitchen table we wrote over forty letters and postcards to an array of prisoners.
