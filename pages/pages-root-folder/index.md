@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: you-can-delete-me-header.png
 widget1:
-  title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  title: "Current Projects"
+  url: 'https://www.muckrock.com/project/opening-the-chicago-surveillance-fund-25/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  text: 'We have a current partnership with MuckRock, the FOIA transparency organization, into the Chicago Police Departments use of 1505 funds. Similar to asset forfeiture, 1505 is a slush fund that CPD maintains, with a large portion of their purchases going into surveillance equipment'
 widget2:
   title: "Widget 2"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
