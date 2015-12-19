@@ -2,7 +2,7 @@ require 'date'
 
 desc "Run a dev server at localhost:4000"
 task :dev do
-  sh "while true ; do bundle exec jekyll serve --config _config.yml,_config_dev.yml ; sleep 10 ; done"
+  sh "bundle exec jekyll serve --config _config.yml,_config_dev.yml"
 end
 
 
