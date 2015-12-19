@@ -29,10 +29,13 @@
   dropdown:
   - title: "Warrant Canary"
     url: "/canary/"
+  - title : Support
+    url: "/support/"
 
 - title: Blog
   url: "/blog/"
   side: left
+
 
 #
 #   Navigation to the right › side: right
