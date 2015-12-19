@@ -1,15 +1,22 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-We have not been contacted by any government agencies requesting information about our workshop attendees or website visitors. This post will be updated monthly. Last updated December 19, 2015.
+We have not been contacted by any government agencies requesting
+
+information about our workshop attendees or website visitors.
+
+This post will be updated monthly.
+
+Last updated December 19, 2015.
+
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWda+mAAoJEFCCEeW7GLh+h5oIAKO1Ctvxswh9w7sTnj2bV5HC
-KsVxx95zWG11PEe5DZX5m30H5Kj3LPDlosgMYh+2SlV/8Fmu2vB1/q0HTlG40Xp9
-5SP1/o65CdjZ3DlF1U37v9u6gg1dvv1z+fg0EJGgONCCAU7ht6A3y9RvNIiaxFKe
-X+gLs4XybXwPorxM8ovLpG0J5NWwOI7XKU+7gZV8a5v63iejW42Bo1x9ukS6lwj1
-ExydBrt1AFtE1/DoOPdDuPxbrHVMNJGGuRZHoFFQUgmgV6vrkKHiJLf78Qlt5Hpq
-Mi4jnyUWLYCK7OjrSms0xqDH+7TGkoSo09UDtZQiT2X4cJX4fb5nvsq1g3S05R8=
-=1nXd
+iQEcBAEBAgAGBQJWdcBwAAoJEFCCEeW7GLh+Dk0IAO1P9+QtGUuSNS9YcH1VoBAp
+/A5k2lEP5Uhim5wbRAW9y5Bmk02rIwRUxMYJIMBSk9fh3LZp+Da3k/yRo/ayUwW/
+Ux38z4dsBFzjDGIA1Y5gvEbYhA++pnoXtKu8GwY6O2Kd1SOzpN6uZcyCfxZ8/4XY
+G57EBq6AsfUO/MPC25fAQGAHrR+ylFruTgeJUhGelUAdYTqHMND5vjpO21E5GCu3
+EkDm45ImgqJ8DmVhCs8/G3bjb3pMHGi6OkixqF/xG03E8Y4ScjTE4d3SS+aXmHnc
+hrBIKhpW8EYTpaVMvcTDtST8Vj6fSVuxeN3YkbR3k1tezY+a97UCq7jGi4jErxw=
+=c7wb
 -----END PGP SIGNATURE-----

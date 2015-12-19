@@ -8,6 +8,12 @@ end
 
 desc "Update the warrant canary with your gpg key"
 task :updatecanary do
- canarytext = "We have not been contacted by any government agencies requesting information about our workshop attendees or website visitors. This post will be updated monthly. Last updated #{Date.today.strftime("%B %e, %Y")}."
- sh "echo #{canarytext} | gpg --clearsign > _includes/canary.txt"
+# note: if you include any shell-special characters here, you get to fix the sh command
+ canarytext = <<-END
+We have not been contacted by any government agencies requesting\n
+information about our workshop attendees or website visitors.\n
+This post will be updated monthly.\n
+Last updated #{Date.today.strftime("%B %e, %Y")}.
+END
+ sh "echo \"#{canarytext}\" | gpg --clearsign > _includes/canary.txt"
 end
