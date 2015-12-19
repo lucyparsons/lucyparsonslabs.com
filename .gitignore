@@ -1,5 +1,6 @@
+.jekyll-metadata
 _site/
-<<<<<<< HEAD
-=======
 .sass-cache/
->>>>>>> origin/master
+*.swp
+*.swo
+.rake_tasks
