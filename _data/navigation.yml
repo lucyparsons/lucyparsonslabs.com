@@ -29,8 +29,8 @@
   dropdown:
   - title: "Warrant Canary"
     url: "/canary/"
-  - title : Donate
-    url: "/donate/"
+  - title : Support
+    url: "/support/"
 
 - title: Blog
   url: "/blog/"
