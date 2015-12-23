@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-Our members use a variety of messaging applications, so if you are uncomfortable using email, please attempt to contact us over another method (Signal, Pond, OTR...etc). Disclaimer: All details of all our members modes of communications are not available here...
+Our members use a variety of messaging protocols, so if you are uncomfortable using email, please attempt to contact us over another method (Signal, Pond, OTR...etc). Disclaimer: All details of all our members modes of communications are not available here...
 
 ### You can contact the Director of LPL, Freddy Martinez using his GPG key
  
