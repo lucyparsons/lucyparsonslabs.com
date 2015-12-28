@@ -184,13 +184,3 @@ title: Current Projects
 * Check #16310 dated 05/16/2012 for the amount $16209.2
 * Check #16336 dated 06/01/2012 for the amount $121672.27
 * Check #16338 dated 06/01/2012 for the amount $10791.0
-* Check #16351 dated 06/13/2012 for the amount $12123.25
-* Check #16356 dated 06/21/2012 for the amount $8786.5
-* Check #16358 dated 06/21/2012 for the amount $16333.04
-* Check #16379 dated 07/02/2012 for the amount $46469.0
-* Check #16381 dated 07/02/2012 for the amount $128527.97
-* Check #16382 dated 07/02/2012 for the amount $18820.0
-* Check #16392 dated 07/10/2012 for the amount $11675.0
-* Check #16402 dated 07/20/2012 for the amount $619088.0
-* Check #16403 dated 07/20/2012 for the amount $20000.0
-* Check #16414 dated 07/26/2012 for the amount $8510.5
