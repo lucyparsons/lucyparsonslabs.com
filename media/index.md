@@ -11,7 +11,11 @@ mediaplayer: true
 
 ## 32c3
 
-At the upcoming [Chaos Computer Club](https://events.ccc.de/category/32c3/) (32c3), Jennifer Helsby will present on the mass quantities of data being incorporated into predictive systems. While these algorithms operate in the dark their use have many consequences, both intentional and unintentional. Her talk will cover some of the fairness and accountability issues involved in controlling algorithms for media, policy, and policing.
+At [Chaos Computer Club](https://events.ccc.de/category/32c3/) (32c3), Jennifer Helsby presented on the mass quantities of data being incorporated into predictive systems. While these algorithms operate in the dark their use have many consequences, both intentional and unintentional. Her talk covered issues the fairness and accountability involved in controlling algorithms for media, policy, and policing.
+
+<video width="640" height="360" id="player1" preload="none">
+    <source type="video/youtube" src="https://www.youtube.com/watch?v=BaCzwGbo-Mc" />
+</video>
 
 ## DEF CON 23
 
