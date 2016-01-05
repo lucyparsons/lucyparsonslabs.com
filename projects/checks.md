@@ -124,13 +124,3 @@ title: Current Projects
 * Check #15964 dated 11/16/2011 for the amount $7828.0
 * Check #15970 dated 11/16/2011 for the amount $8500.0
 * Check #15971 dated 11/16/2011 for the amount $11392.5
-* Check #15980 dated 11/23/2011 for the amount $17240.45
-* Check #16005 dated 12/27/2011 for the amount $14388.0
-* Check #16006 dated 12/27/2011 for the amount $7500.0
-* Check #16012 dated 01/03/2012 for the amount $8505.5
-* Check #16027 dated 01/11/2012 for the amount $6160.0
-* Check #16042 dated 01/18/2012 for the amount $25292.15
-* Check #16043 dated 01/18/2012 for the amount $25577.62
-* Check #16044 dated 01/18/2012 for the amount $16555.49
-* Check #16045 dated 01/18/2012 for the amount $17420.76
-* Check #16046 dated 01/19/2012 for the amount $8500.0
