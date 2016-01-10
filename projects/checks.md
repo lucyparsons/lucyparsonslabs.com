@@ -8,16 +8,6 @@ title: Current Projects
 
 #### Checks Yet To Request:
 
-* Check #15062 dated 09/02/2010 for the amount $115146.65
-* Check #15063 dated 09/02/2010 for the amount $23599.34
-* Check #15094 dated 09/14/2010 for the amount $6558.3
-* Check #15107 dated 09/22/2010 for the amount $8500.0
-* Check #15112 dated 09/24/2010 for the amount $7644.0
-* Check #15113 dated 09/24/2010 for the amount $5929.75
-* Check #15114 dated 09/24/2010 for the amount $5092.67
-* Check #15120 dated 09/27/2010 for the amount $9600.0
-* Check #15121 dated 09/27/2010 for the amount $16075.0
-* Check #15127 dated 09/29/2010 for the amount $157300.0
 * Check #15139 dated 10/01/2010 for the amount $7060.0
 * Check #15150 dated 10/07/2010 for the amount $5326.62
 * Check #15155 dated 10/07/2010 for the amount $125941.02
