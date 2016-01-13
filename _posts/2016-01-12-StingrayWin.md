@@ -4,7 +4,7 @@ title: "LPL Member Wins in Court to Force Release of Stingray Documents"
 #
 # Content
 #
-teaser: "The Director of Lucy Parsons Labs wins motions court to force the release of documents related to Stingray use in Chicago"
+teaser: "The Director of Lucy Parsons Labs wins motions to force the release of documents related to Stingray use in Chicago"
 categories:
   - FOIA
 tags:
