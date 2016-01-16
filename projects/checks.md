@@ -24,13 +24,3 @@ title: Current Projects
 * Check #15325 dated 01/21/2011 for the amount $5938.04
 * Check #15339 dated 01/25/2011 for the amount $5655.5
 * Check #15350 dated 02/01/2011 for the amount $129615.73
-* Check #15363 dated 02/07/2011 for the amount $14028.3
-* Check #15364 dated 02/09/2011 for the amount $5586.0
-* Check #15376 dated 02/16/2011 for the amount $42032.02
-* Check #15378 dated 02/18/2011 for the amount $129509.8
-* Check #15379 dated 02/18/2011 for the amount $8500.0
-* Check #15388 dated 03/01/2011 for the amount $5818.75
-* Check #15411 dated 03/04/2011 for the amount $135384.6
-* Check #15415 dated 03/09/2011 for the amount $138866.0
-* Check #15417 dated 03/10/2011 for the amount $21171.97
-* Check #15426 dated 03/17/2011 for the amount $8500.0
