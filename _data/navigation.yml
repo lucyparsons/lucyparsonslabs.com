@@ -22,6 +22,8 @@
   dropdown:
   - title: "The Narcotics Audit"
     url: "/projects/"
+  - title: "Primer on Chicago Surveillance"
+    url: "/projects/primer/"
 
 - title: Links
   url: "/"
