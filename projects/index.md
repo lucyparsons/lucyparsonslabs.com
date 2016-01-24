@@ -6,32 +6,26 @@ header:
     permalink: /projects/
 ---
 
-## A joint project with MuckRock
+### A joint project with MuckRock   
+
 
 [Remaining checks to FOIA](checks.html)
 
+Through the last year and a half, we have used FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD). Through [multiple FOIA requests and lawsuits](http://arstechnica.com/tech-policy/2014/09/after-small-victory-in-stingray-case-chicago-man-seeks-more-records/), we have demonstrated the CPD's purchase and [use of controversial "Stingray" cellphone surveillance devices](http://arstechnica.com/tech-policy/2014/06/is-chicago-using-cell-tracking-devices-one-man-tries-to-find-out
+) among other new surveillance technologies. Also through this work we have seen [Chicago Police acting in "bad faith"](http://shadowproof.com/2014/06/10/chicago-police-sued-for-acting-in-bad-faith-by-failing-to-provide-stingray-surveillance-records/) in fulfilling our FOIA requests. 
 
-Through the last year and a half we have worked diligently using FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD). Through multiple [FOIA requests and lawsuits][0], we have demonstrated the CPD's [purchase and use of controversial "Stingray" cellphone surveillance devices][1] among other new surveillance technologies. Also through this work we have seen Chicago Police [acting in "bad faith"][2] in fulfilling our FOIA requests.
+Further investigation demonstrated that money to purchase this surveillance gear was originating from their "1505" Narcotics asset forfeiture fund. In some cases these funds are seized from citizens only suspected of criminal wrongdoing - citizens not convicted in court.  In this project we aim to understand how these funds are spent by conducting an independent audit of the CPD's 1505 Narcotics asset fund. We are requesting documents to find out what each check in the fund greater than $5000 was spent on.
 
-Further investigation of the equipment owned by CPD demonstrated that money to purchase surveillance gear was originating from a '1505 / 1505 ML' fund - an asset forfeiture fund. According to Chicago Police "the statutory authority for Department '1505' seizures can be found in the Controlled Substances Act (720 ILCS 570), the Cannabis Control Act (720 ILCS 550), and the Methamphetamine Control and Community Protection Act (720 ILCS 646). The statutory authority for '1505 ML' seizures can be found in the Criminal Code of 2012 (720 ILCS 5/Art. 29(b) 'Money Laundering'".
+Our investigations of the 1505 fund thus far have revealed the purchase of a ["Hailstorm upgrade"](https://github.com/lucyparsons/1505-documents/blob/master/IMSICatchers/CPD_FOIA14-5298Hailstorm.pdf) to CPD's Stingray in order to enable surveillance of 4G LTE cellphones. The use of this equipment has come under intense scrutiny because the authorization may be coming from pen/trap orders which may conflict directly with IL state legislation that protects citizens from unlawful location surveillance - IL SB-2808 (see [here](http://www.loevy.com/wp-content/uploads/2014/09/Freddy-Martinez-v.-Chicago-Police-Department2.pdf), [here](http://www.ilga.gov/legislation/BillStatus.asp?GA=98&DocTypeID=SB&DocNum=2808&GAID=12&SessionID=85&LegID=78729) and [here](https://www.vice.com/read/stingrays-and-secrets-how-the-chicago-police-department-was-forced-to-come-clean-330)). We have found that these funds are also being used for the purchase of [PENLink surveillance software](https://github.com/lucyparsons/1505-documents/blob/master/2014/%23177699%20PenLink/PenLink%20QUO-04689-V8Y5D0Redacted.pdf) and Cellbrite cell phone forensics software by the [Cook County Sheriff's Office (CCSO)](https://github.com/lucyparsons/1505-documents/blob/master/CookCountySherr_Cellbrite_Redacted.pdf) and [CPD](https://github.com/lucyparsons/1505-documents/blob/master/CelleBriteFOIA15-3895.pdf). 
 
-Our most recent investigations have revealed the purchase of a "Hailstorm upgrade" to a Stingray that Chicago Police operates - an upgrade that enables the surveillance of 4G phones. The use of this equipment has come under intense scrutiny because authorization to use these Stingrays [may be coming from pen/trap orders][3] which may conflict directly with [IL SB-2808][4], which protects Illinois residents from location surveillance. The [source][5] of this most recent equipment is also [from the 1505 fund][6]. Further investigations have discovered these funds being used for the purchase of PENLink software and Cellbrite cell phone forensics by the Cook County Sheriff's Office (CCSO) and CPD [7].
+Recently in Chicago, we've seen [Chicago Police spying on Black Lives Matter activists](https://privacysos.org/node/1819), potentially even using some of these new surveillance tools. Investigations like this audit are important for bringing transparency and accountability to the use of new surveillance devices by law enforcement. Electronic surveillance devices should have strict policies to regulate their use to prevent inappropriate use of new technologies, such as monitoring political protests. That accountability discussion can only occur if citizens are aware of the tools that local law enforcement are using. However, Chicago Police have spent [hundreds of thousands of dollars](http://arstechnica.com/tech-policy/2015/04/chicago-owes-lawyers-over-120000-for-defense-against-two-stingray-cases/) to maintain secrecy around their surveillance devices by fighting citizens trying to get access to public records through FOIA. 
 
-We have a current project in the works with MuckRock, the transparency group, to find out more about what else the 1505 funds are being used to purchase. While asset forfeiture is a separate program from 1505 or 1505ML, we have seen in [documents obtained by MuckRock][8] that this program is being abused to settle a civil rights case that CPD officers have brought against CPD itself.
+**We need your help to find out what else the 1505 funds are being used to purchase.** To date we have requested about 25% of the 2014 funds ([link to mirrors](https://github.com/lucyparsons/1505-documents/)) and have another 25% of 2015 FOIAed. The easiest, best way you can help is by participating. Please file a FOIA for a set of funds that has not been requested on MuckRock. 
 
-Furthermore we have seen Chicago Police [spying on Black Lives Matter activists][9], possibly using these same [surveillance devices funded via asset forfeiture][10]. We have also seen Chicago Police [spending hundreds of thousands of dollars][11] to maintain secrecy around their surveillance devices by fighting citizens using FOIA.
+**How to file a FOIA:** [Click here to copy a sample request](https://www.muckrock.com/foi/chicago-169/1505ml-checks-14425-through-14452-22173/), and then copy and paste information from 10 checks at a time from [this list](https://lucyparsons.github.io/projects/checks.html). Make sure that the checks your copying haven't been filed for yet by looking at the request from the bottom of this page (we'll also be regularly updating the list of checks on the link above to only show un-requested checks).
 
-Image Credit: [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/) image of Chicago Skyline by [Daniel Schwen](https://en.wikipedia.org/wiki/Chicago#/media/File:Chicago_sunrise_1.jpg).
+After you file a request, make sure to tag it "chicago surveillance fund" so we know to add it to this project.
 
-[0]: http://arstechnica.com/tech-policy/2014/09/after-small-victory-in-stingray-case-chicago-man-seeks-more-records/
-[1]: http://arstechnica.com/tech-policy/2014/06/is-chicago-using-cell-tracking-devices-one-man-tries-to-find-out/
-[2]: http://shadowproof.com/2014/06/10/chicago-police-sued-for-acting-in-bad-faith-by-failing-to-provide-stingray-surveillance-records/
-[3]: http://www.loevy.com/wp-content/uploads/2014/09/Freddy-Martinez-v.-Chicago-Police-Department2.pdf
-[4]: http://www.ilga.gov/legislation/BillStatus.asp?GA=98&DocTypeID=SB&DocNum=2808&GAID=12&SessionID=85&LegID=78729
-[5]: https://www.youtube.com/watch?v=rHy2Ia2Gz2M
-[6]: https://www.vice.com/read/stingrays-and-secrets-how-the-chicago-police-department-was-forced-to-come-clean-330/
-[7]: Citation needed
-[8]: https://www.muckrock.com/foi/chicago-169/equitable-sharing-agreement-and-certification-letters-for-chicago-police-department-12712/#file-26112
-[9]: https://privacysos.org/node/1819
-[10]: https://privacysos.org/node/1609
-[11]: http://arstechnica.com/tech-policy/2015/04/chicago-owes-lawyers-over-120000-for-defense-against-two-stingray-cases/
+**Our FOIA request/response archive:** Refer to [our archive](https://github.com/lucyparsons/1505-documents) for example FOIA requests of this type. 
+
+*Image Credit: [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/) image of Chicago Skyline by [Daniel Schwen](https://en.wikipedia.org/wiki/Chicago#/media/File:Chicago_sunrise_1.jpg)*
