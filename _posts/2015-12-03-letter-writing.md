@@ -4,6 +4,7 @@ title: "Lucy Parson Labs Hold Letter Writing Party"
 #
 # Content
 #
+author: lucy_parsons_labs
 teaser: "LPL members held a letter writing campaign for political prisoners."
 categories:
   - prisons

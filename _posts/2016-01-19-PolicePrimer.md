@@ -4,6 +4,7 @@ title: "Primer on Police Surveillance Tech in Chicago"
 #
 # Content
 #
+author: jen_helsby
 teaser: "Chicago is one of the most heavily surveilled cities in the world."
 categories:
   - surveillance
