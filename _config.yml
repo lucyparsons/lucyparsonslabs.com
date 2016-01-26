@@ -20,7 +20,7 @@ description: "»Lucy Parsons Labs« is a charitable Chicago-based collaboration 
 
 # Main author of the website
 # See > authors.yml
-author: foebrian 
+author: lucy_parsons_labs 
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -107,7 +107,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: foebrian     # Default author for pages
+      author: lucy_parsons_labs  # Default author for pages
   -
     scope:
       path: ""
@@ -116,7 +116,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: foebrian     # Default author for posts
+      author: lucy_parsons_labs  # Default author for posts
 
 
 
