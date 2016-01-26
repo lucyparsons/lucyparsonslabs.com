@@ -37,6 +37,8 @@ Freddy Martinez was featured in a [sit-down interview](http://wgntv.com/2015/05/
 
 # Print Media 
 
+The Chicago Reader recently identified a Chicago Police Officer involved the [fatal shooting of an unarmed woman](http://www.chicagoreader.com/Bleader/archives/2016/01/14/internal-police-records-point-to-the-identity-of-the-officer-who-fatally-shot-bettie-jones-and-quintonio-legrier). The identity was confirmed by public records requests created in collaboration with a journalist. 
+
 The Chicago Reader ran a front-page article featuring most members of LPL for contributing to [Cryptoparty Chicago](http://www.chicagoreader.com/chicago/tales-from-the-crypto-party/Content?oid=17455111). Most LPL members are involved in teaching users security tools.
 
 # Online 
