@@ -4,6 +4,7 @@ title: "Lucy Parson Labs Members File a Pair of Lawsuits"
 #
 # Content
 #
+author: freddy_martinez
 teaser: "LPL members sue Chicago Police Department for failing to comply with FOIA."
 categories:
   - foia
