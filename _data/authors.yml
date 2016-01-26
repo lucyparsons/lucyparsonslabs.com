@@ -1,19 +1,11 @@
 # Author details
 lucy_parsons_labs:
-  name: "Lucy Parsons Labs"
+  name: Lucy Parsons Labs
 brian_kroll:
-  name: "Brian Kroll"
-    iiterole: "cfo"
-      twitter: https://www.twitter.com/cipherguerrilla
+  name: Brian Kroll
 freddy_martinez:
-  name: "Freddy Martinez"
-    iiterole: "director"
-      twitter: https://www.twitter.com/b_meson
+  name: Freddy Martinez
 jen_helsby:
-  name: "Jennifer Helsby"
-    iiterole: "cto, scientist"
-      twitter: https://www.twitter.com/redshiftzero
+  name: Jennifer Helsby
 mason_donahue:
-  name: "Mason Donahue"
-    iiterole: "cso, administrator"
-      twitter: https://www.twitter.com/r4v5
+  name: Mason Donahue
