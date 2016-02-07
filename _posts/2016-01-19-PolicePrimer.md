@@ -5,7 +5,7 @@ title: "Primer on Police Surveillance Tech in Chicago"
 # Content
 #
 author: jen_helsby
-teaser: "Chicago is one of the most heavily surveilled cities in the world."
+teaser: "Chicago is one of the most heavily surveilled cities in the world. We have written a guide that summarizes the surveillance technologies currently in use, explores individual technologies, summarizes how they are paid for and describes their efficacy."
 categories:
   - surveillance
 tags:
@@ -15,9 +15,10 @@ tags:
 #
 # Styling
 #
-#image:
-#  header: ""
-#  thumb: ""
+header: 
+ image_fullwidth: "headers/PrimerHeader.png"
+image: 
+ thumb: "thumbs/PrimerThumbnail.png"
 #  homepage: ""
 #  caption: ""
 #  url: ""
@@ -32,4 +33,3 @@ In the past, police surveillance of public spaces was constrained by resources s
 Members of the public need to recognize the far-reaching implications of giving over this level of power to law enforcement. The transition from police officers having a restricted ability to follow and monitor suspicious people to having pervasive surveillance capabilities is occurring in our city today. We must have public knowledge of surveillance capabilities, policies and procedures in order to have the critical debate about this infrastructure as well as to campaign for transparency and accountability.
 
 [Check out the full primer](https://redshiftzero.github.io/policesurveillance).
-
