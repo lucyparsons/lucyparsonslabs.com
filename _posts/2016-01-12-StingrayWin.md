@@ -15,7 +15,9 @@ tags:
 #
 # Styling
 #
-#image:
+header: no
+image:
+ thumb: "thumbs/StingrayThumb.jpg"
 #  header: ""
 #  thumb: ""
 #  homepage: ""

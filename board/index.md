@@ -1,7 +1,6 @@
----
+--
 layout: page
 title: Board of Directors
-header: no
 header: no
 permalink: "/board/"
 ---

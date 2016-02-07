@@ -17,9 +17,12 @@ tags:
 #
 # Styling
 #
-#image:
-#  header: ""
-#  thumb: ""
+
+header:
+ image_fullwidth: "ChicagoSunrise.jpg"
+image:
+ thumb: "thumbs/MuckRock.png"
+
 #  homepage: ""
 #  caption: ""
 #  url: ""
