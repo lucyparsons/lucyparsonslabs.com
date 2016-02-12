@@ -43,7 +43,7 @@ The Chicago Reader recently identified a Chicago Police Officer involved the [fa
 During multiple lawsuits it was discovered that CPD was spending [hundreds of thousands of dollars](http://arstechnica.com/tech-policy/2015/04/chicago-owes-lawyers-over-120000-for-defense-against-two-stingray-cases) to keep FOIA records from the public. After this came to light, [VICE](https://www.vice.com/read/stingrays-and-secrets-how-the-chicago-police-department-was-forced-to-come-clean-330/) sat down with Freddy Martinez, profiled his fight against CPD, tracked down the source of the money and discussed the ongoing legal fight.
 
 # Radio 
-On NPR's ["On the Media"](http://www.onthemedia.org/), Lucy Parsons Labs' Director was featured as a guest. During the [discussion](http://www.onthemedia.org/story/tracing-chicago-surveillance/?hootPostID=c1171fde13a8a8ce1b55c92a0a84ae6c) we profiled our work on surveillance, the war on drugs, asset forfeiture, FOIA, Stingrays, and policing in Chicago.
+On NPR's ["On the Media"](http://www.onthemedia.org/),  Lucy Parsons Labs' Director was featured as a guest. During the [discussion](http://www.onthemedia.org/story/tracing-chicago-surveillance/?hootPostID=c1171fde13a8a8ce1b55c92a0a84ae6c) we profiled our work on surveillance, the war on drugs, asset forfeiture, FOIA, Stingrays, and policing in Chicago.
  
 ### References / Other Links
 [0] <a href="http://arstechnica.com/tech-policy/2014/09/after-small-victory-in-stingray-case-chicago-man-seeks-more-records/" target="_blank">Ars Technica story about Martinez's second lawsuit</a><br>
