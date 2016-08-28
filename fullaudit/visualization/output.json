@@ -144,64 +144,16 @@
         {
             "children": [
                 {
-                    "name": "penlink", 
-                    "size": 557264.9
-                }, 
-                {
                     "name": "pinhole cameras", 
-                    "size": 5240.0
-                }, 
-                {
-                    "name": "pen link", 
-                    "size": 137171.67
-                }, 
-                {
-                    "name": "camera equipment", 
-                    "size": 21430.0
-                }, 
-                {
-                    "name": "ir cam, pole cams, counter surveillance", 
-                    "size": 91530.0
-                }, 
-                {
-                    "name": "stingray", 
-                    "size": 157300.0
-                }, 
-                {
-                    "name": "harris equipment invoice", 
-                    "size": 51000.0
-                }, 
-                {
-                    "name": "us cellular pen register coverage", 
-                    "size": 5500.0
-                }, 
-                {
-                    "name": "harris training invoice", 
-                    "size": 64900.0
-                }, 
-                {
-                    "name": "freight security trackers", 
-                    "size": 22301.4
-                }, 
-                {
-                    "name": "pinhole cams?", 
-                    "size": 79525.0
-                }, 
-                {
-                    "name": "pole cams", 
-                    "size": 10539.0
+                    "size": 96605.0
                 }, 
                 {
                     "name": "alpr", 
                     "size": 13720.0
                 }, 
                 {
-                    "name": "trap and trace", 
-                    "size": 6000.0
-                }, 
-                {
-                    "name": "pods", 
-                    "size": 205000.0
+                    "name": "freight security trackers", 
+                    "size": 22301.4
                 }, 
                 {
                     "name": "black widow surveillance", 
@@ -212,32 +164,40 @@
                     "size": 41185.65
                 }, 
                 {
-                    "name": "lexis nexis", 
-                    "size": 14317.0
+                    "name": "pen register", 
+                    "size": 45015.0
                 }, 
                 {
                     "name": "pen-link pen registers", 
-                    "size": 144806.0
+                    "size": 138866.0
                 }, 
                 {
-                    "name": "t-mobile (for pen register investigation)", 
-                    "size": 9625.0
+                    "name": "camera equipment", 
+                    "size": 21430.0
+                }, 
+                {
+                    "name": "ir cam, pole cams, counter surveillance", 
+                    "size": 91530.0
                 }, 
                 {
                     "name": "gps kit", 
                     "size": 7493.75
                 }, 
                 {
-                    "name": "pinhole camera", 
-                    "size": 11840.0
+                    "name": "stingray", 
+                    "size": 409575.0
                 }, 
                 {
-                    "name": "harris corp of melbourne fl", 
-                    "size": 136375.0
+                    "name": "penlink", 
+                    "size": 694436.5700000001
                 }, 
                 {
-                    "name": "t-mobile wireless for pen register investigation", 
-                    "size": 11675.0
+                    "name": "pole cams", 
+                    "size": 10539.0
+                }, 
+                {
+                    "name": "pods", 
+                    "size": 205000.0
                 }
             ], 
             "name": "surveillance"
@@ -250,15 +210,6 @@
                 }
             ], 
             "name": "redacted"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "ideoa", 
-                    "size": 8400.0
-                }
-            ], 
-            "name": "training confrence"
         }, 
         {
             "children": [
@@ -292,11 +243,11 @@
                 }, 
                 {
                     "name": "phones", 
-                    "size": 2681492.339999999
+                    "size": 2687817.339999999
                 }, 
                 {
-                    "name": "video retrieval, 12 dell laptops, cover hardware conflict", 
-                    "size": 48012.0
+                    "name": "extended warranty for filemaker servers", 
+                    "size": 39540.0
                 }, 
                 {
                     "name": "training equipment", 
@@ -311,10 +262,6 @@
                     "size": 59670.0
                 }, 
                 {
-                    "name": "auto repairs", 
-                    "size": 9491.03
-                }, 
-                {
                     "name": "windows administrator training", 
                     "size": 6385.5
                 }, 
@@ -323,8 +270,8 @@
                     "size": 29400.86
                 }, 
                 {
-                    "name": "sprint", 
-                    "size": 95983.56
+                    "name": "dea conference", 
+                    "size": 36600.0
                 }, 
                 {
                     "name": "avid video processing and tower", 
@@ -355,8 +302,8 @@
                     "size": 6033.23
                 }, 
                 {
-                    "name": "dea conference", 
-                    "size": 9600.0
+                    "name": "video retrieval, 12 dell laptops, cover hardware conflict", 
+                    "size": 48012.0
                 }, 
                 {
                     "name": "file maker license", 
@@ -365,10 +312,6 @@
                 {
                     "name": "gps air time", 
                     "size": 7644.0
-                }, 
-                {
-                    "name": "tmobile", 
-                    "size": 6325.0
                 }, 
                 {
                     "name": "seized car repair", 
@@ -415,16 +358,12 @@
                     "size": 9894.0
                 }, 
                 {
-                    "name": "ideoa training conference", 
-                    "size": 9600.0
+                    "name": "hidta distribution", 
+                    "size": 389823.46
                 }, 
                 {
-                    "name": "shredder", 
-                    "size": 11002.99
-                }, 
-                {
-                    "name": "us cellular pen register coverage", 
-                    "size": 6275.0
+                    "name": "auto repairs", 
+                    "size": 9491.03
                 }, 
                 {
                     "name": "49 vehicles", 
@@ -443,12 +382,12 @@
                     "size": 257333.59999999998
                 }, 
                 {
-                    "name": "car repair", 
-                    "size": 34712.98
+                    "name": "sprint", 
+                    "size": 95983.56
                 }, 
                 {
-                    "name": "ideoa training fee for 40 officers", 
-                    "size": 9000.0
+                    "name": "car repair", 
+                    "size": 34712.98
                 }, 
                 {
                     "name": "at&t trunking", 
@@ -465,10 +404,6 @@
                 {
                     "name": "school prevention programs", 
                     "size": 19980.55
-                }, 
-                {
-                    "name": "extended warranty for filemaker servers", 
-                    "size": 39540.0
                 }, 
                 {
                     "name": "1505 audit", 
@@ -499,8 +434,8 @@
                     "size": 8688.6
                 }, 
                 {
-                    "name": "hidta distribution correction", 
-                    "size": 389823.46
+                    "name": "shredder", 
+                    "size": 11002.99
                 }, 
                 {
                     "name": "narcotics destruction", 
@@ -536,7 +471,7 @@
                 }, 
                 {
                     "name": "lexis nexis", 
-                    "size": 921858.02
+                    "size": 936175.02
                 }, 
                 {
                     "name": "at&t boc phones", 
