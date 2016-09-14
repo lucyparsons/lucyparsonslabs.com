@@ -7,7 +7,7 @@ results = {}
 def clean_string(orig):
     return orig.lower().lstrip().rstrip()
 
-with open('August28.csv', 'rb') as csvfile:
+with open('1505AnalysisReader.csv', 'rb') as csvfile:
     data = csv.reader(csvfile)
     for row in data:
         for item in [3, 4]:
