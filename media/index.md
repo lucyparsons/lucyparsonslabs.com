@@ -55,7 +55,7 @@ Politico's Natasha Korecki and Manuela Tobias on their tip sheet 'Illinois Playb
 After the launch of [Black Rose](/securedrop) Chicago based public media program Chicago Tonight published by [WTTW Chicago](http://www.wttw.com/) covered Lucy Parsons Labs. The article can be read [here](http://chicagotonight.wttw.com/2016/03/31/anonymously-leaking-documents-journalists-chicago-just-got-easier).
 
 # Radio 
-On NPR's ["On the Media"](http://www.onthemedia.org/), Lucy Parsons Labs' Director was featured as a guest. During the [discussion](http://www.onthemedia.org/story/tracing-chicago-surveillance/?hootPostID=c1171fde13a8a8ce1b55c92a0a84ae6c) we profiled our work on surveillance, the war on drugs, asset forfeiture, FOIA, Stingrays, and policing in Chicago.
+Lucy Parsons Labs’ Director, Freddy Martinez, was featured as a guest on NPR's["On the Media"](http://www.onthemedia.org/). During the [discussion](http://www.onthemedia.org/story/tracing-chicago-surveillance/?hootPostID=c1171fde13a8a8ce1b55c92a0a84ae6c) we profiled our work on surveillance, the war on drugs, asset forfeiture, FOIA, Stingrays, and policing in Chicago.
  
 ### References / Other Links
 [0] <a href="http://arstechnica.com/tech-policy/2014/09/after-small-victory-in-stingray-case-chicago-man-seeks-more-records/" target="_blank">Ars Technica story about Martinez's second lawsuit</a><br>

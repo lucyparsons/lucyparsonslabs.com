@@ -9,5 +9,3 @@ title: Current Projects
 ## Checks Yet To Request:
 
 
-
-

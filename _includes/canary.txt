@@ -7,22 +7,15 @@ information about our workshop attendees or website visitors.
 
 This post will be updated monthly.
 
-Last updated July  1, 2016.
+Last updated September  1, 2016.
 
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1
 
-iQIcBAEBAgAGBQJXdohgAAoJEDT7BvHoCmShp10QALSb4K6zAg4wTRFu/CbP7OWr
-5c+fVliBbSpeTc/51cgZLdPqpeIXecueUWpe9uXuvQlQ3CBt2++W20IvLIuJLd0c
-nlhfBNfb7b88aCRIZEi3L8ZJcLD5JKw9K+iS2R3EvBWOnm+VqbTTKGd9h42/6iod
-S7Ew7Ws4V5TY6Nw8xFB2siuJYUkQj9AQLHCHBVVQDK9ioCoHJeZrJ89ib+B3fV5a
-Kwze40HcQcXirrtsfePUaj52g74tjXH2CutJvgd400ycJRR3obSgftd2AboxEigx
-Es22UJWgwSn6AuSJLSN2uAgOOumvdSl43TmUknZ4tdjv54r56Ps0oJxDkD+SJRc8
-h0DeMRCcOoGWtfVZGqyKztKR0Ue8npeC936jEw/lt7kis8wK8oZ8kAbYa93W19th
-bllx9hZtN165GsZrm9SzkUFzpbjLA+tOXN3RxEuZWLBBMa3ePCaYjnp9Z/Xc7EgR
-APN0az0pMpTlKKVxsUi9oERhrv2wsu7OPxNa/VuyDoXmoWB/snOsW0M4cHBXv8Cw
-/1Jazupw7BytijBa76ez7PY6uGHBBFTpTGt9yt0A/bvf9y6VHHez5sYVOz1WO72L
-tDEVBtajhFbQfxf5fiE7BLZgUPkJj4EcPJZCEVzcwmVuPUcnbO3hJcOVrOEhu3xb
-EAciTgF0DksQOALPIetK
-=HKqq
+iQEcBAEBAgAGBQJXyEdDAAoJEFCCEeW7GLh+e6QH/1mZQ+Dy9NPQzJIkzGbAnWQx
+bidNLcBzW/zm6L1/t1MA4RGAp7eOs2uKvdwgvKsgjgM3ZkHQiKk8fVoikzRKdQZl
+Ichub0/CHjjMZXHaJy6FmxkaA1Wg1OARQYWdn++NWn4bUSNvC+KMhAsbf7HdEzMF
+cLldJIVm5/g3oAKJLHQpvCKPHZx95+dgZDoouB1ZEh+TWBfp2xtI04+t7/W6xy3W
+u69yfmSKvio9JAtWoZeqN47JqyBIwZP6iQA0m/PMq7Zs9bYL1YUS5x1wqT/FtcwE
+RUNZHWcn8LYXMLEuo2ewTrqSYT79YMVWZKZNbP2jnWXpyw6Kopsi3BFo3PEO1LE=
+=kToJ
 -----END PGP SIGNATURE-----
