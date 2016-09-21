@@ -3,198 +3,102 @@
         {
             "children": [
                 {
-                    "name": "??? of st petersburg fl", 
-                    "size": 6299.4
-                }
-            ], 
-            "name": "?????"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "redacted", 
-                    "size": 48380.850000000006
-                }
-            ], 
-            "name": "redacted"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "meridian it", 
-                    "size": 131783.84
-                }
-            ], 
-            "name": "????"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "at & t mobility", 
-                    "size": 19570.16
-                }
-            ], 
-            "name": "boc ptt phones"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "unclear, bought from research electronics international", 
-                    "size": 44520.0
+                    "name": "\"Realinfo Accounts\"", 
+                    "size": 19644.76
                 }, 
                 {
-                    "name": "redacted", 
-                    "size": 10071.6
-                }
-            ], 
-            "name": "surveillance?"
-        }, 
-        {
-            "children": [
+                    "name": "Ads Invoice", 
+                    "size": 97255.0
+                }, 
                 {
-                    "name": "t mobile", 
-                    "size": 5940.0
-                }
-            ], 
-            "name": "op \"busted holster\""
-        }, 
-        {
-            "children": [
+                    "name": "Unknown", 
+                    "size": 7193.58
+                }, 
                 {
-                    "name": "simplynas", 
-                    "size": 9018.67
-                }
-            ], 
-            "name": "data storage"
-        }, 
-        {
-            "children": [
+                    "name": "Research Electronics", 
+                    "size": 138870.0
+                }, 
                 {
-                    "name": "ideoa", 
-                    "size": 8400.0
-                }
-            ], 
-            "name": "training confrence"
-        }, 
-        {
-            "children": [
+                    "name": "Redacted", 
+                    "size": 197937.54
+                },  
                 {
-                    "name": "us cellular pen register coverage", 
-                    "size": 6275.0
-                }
-            ], 
-            "name": "routine?"
-        }, 
-        {
-            "children": [
+                    "name": "Vision Database", 
+                    "size": 121172.4
+                }, 
                 {
-                    "name": "unknown", 
-                    "size": 919346.59
+                    "name": "US Marshalls/CPD”, 
+                    "size": 5267.68
+                }, 
+                {
+                    "name": "Davis Sign Company", 
+                    "size": 18561.35
+                }, 
+                {
+                    "name": "Redxdefense Training", 
+                    "size": 10819.38
+                }, 
+                {
+                    "name": "Pro-Tech Security Sales Invoice", 
+                    "size": 45470.0
+                }, 
+                {
+                    "name": "\"Clear Services\" Subscription", 
+                    "size": 5884.0
+                }, 
+                {
+                    "name": "Worldwide Technologies Invoice", 
+                    "size": 12975.53
+                }, 
+                {
+                    "name": "No FOIA Response", 
+                    "size": 303237.51999999996
+                }, 
+                {
+                    "name": "Electronics Services Agency Invoice", 
+                    "size": 37400.0
                 }
             ], 
             "name": "unknown"
-        }, 
+        },
+     {
+            "children": [
+                {
+                    "name": "All Expenses Below $5,000", 
+                    "size": 3205416.21
+                }
+            ], 
+            "name": “Outside of Analysis”
+        },  
         {
             "children": [
                 {
-                    "name": "penlink bluerayjukebox and one dex processor", 
-                    "size": 37000.67
-                }, 
-                {
-                    "name": "penlink", 
-                    "size": 413209.3400000001
-                }, 
-                {
-                    "name": "pinhole cameras", 
-                    "size": 5240.0
-                }, 
-                {
-                    "name": "pen link", 
-                    "size": 137171.67
-                }, 
-                {
-                    "name": "pen", 
-                    "size": 932.11
-                }, 
-                {
-                    "name": "camera equipment", 
-                    "size": 21430.0
-                }, 
-                {
-                    "name": "ir cam, pole cams, counter surveillance", 
-                    "size": 91530.0
-                }, 
-                {
-                    "name": "stingray", 
-                    "size": 157300.0
-                }, 
-                {
-                    "name": "harris equipment invoice", 
-                    "size": 51000.0
-                }, 
-                {
-                    "name": "us cellular pen register coverage", 
-                    "size": 5500.0
-                }, 
-                {
-                    "name": "freight security trackers", 
-                    "size": 22301.4
-                }, 
-                {
-                    "name": "pinhole cams?", 
-                    "size": 79525.0
-                }, 
-                {
-                    "name": "pen reg", 
-                    "size": 1359.22
-                }, 
-                {
-                    "name": "pole cams", 
-                    "size": 10539.0
-                }, 
-                {
-                    "name": "alpr", 
+                    "name": "License Plate Reader", 
                     "size": 13720.0
                 }, 
                 {
-                    "name": "trap and trace", 
-                    "size": 6000.0
-                }, 
-                {
-                    "name": "black widow surveillance", 
+                    "name": "Black Widow Surveillance", 
                     "size": 5220.0
                 }, 
                 {
-                    "name": "gps trackers", 
-                    "size": 41185.65
+                    "name": "Cameras", 
+                    "size": 248182.65
                 }, 
                 {
-                    "name": "lexis nexis", 
-                    "size": 14317.0
+                    "name": "GPS Trackers", 
+                    "size": 93012.8
                 }, 
                 {
-                    "name": "pen-link pen registers", 
-                    "size": 245920.88999999998
+                    "name": "Cell Site Simulator", 
+                    "size": 417075.0
                 }, 
                 {
-                    "name": "t-mobile (for pen register investigation)", 
-                    "size": 9625.0
-                }, 
-                {
-                    "name": "gps kit", 
-                    "size": 7493.75
-                }, 
-                {
-                    "name": "pinhole camera", 
-                    "size": 11840.0
-                }, 
-                {
-                    "name": "pods", 
+                    "name": "Blue Light Cameras", 
                     "size": 205000.0
                 }, 
                 {
-                    "name": "t-mobile wireless for pen register investigation", 
-                    "size": 11675.0
+                    "name": "Cell Phone Metadata", 
+                    "size": 878317.5700000001
                 }
             ], 
             "name": "surveillance"
@@ -202,627 +106,99 @@
         {
             "children": [
                 {
-                    "name": "1000 nik drug test pouches", 
-                    "size": 18820.0
+                    "name": "Car Repair And Seizure", 
+                    "size": 317392.79000000004
                 }, 
                 {
-                    "name": "dell computers", 
-                    "size": 257333.59999999998
+                    "name": "Narcotics Field Testing Kit", 
+                    "size": 62338.41
                 }, 
                 {
-                    "name": "extended warranty for filemaker servers", 
-                    "size": 39540.0
-                }, 
-                {
-                    "name": "lodging, fbi training", 
-                    "size": 1872.0
-                }, 
-                {
-                    "name": "x2 video forensic enhancement software", 
-                    "size": 1800.0
-                }, 
-                {
-                    "name": "dea conference", 
-                    "size": 9600.0
-                }, 
-                {
-                    "name": "avid video processing and tower", 
-                    "size": 27389.0
-                }, 
-                {
-                    "name": "school prevention programs", 
-                    "size": 19980.55
-                }, 
-                {
-                    "name": "x100 cocaine test kits and swaps", 
-                    "size": 3142.65
-                }, 
-                {
-                    "name": "dare & great program funding", 
-                    "size": 20000.0
-                }, 
-                {
-                    "name": "repair of seized vehicles", 
-                    "size": 13994.47
-                }, 
-                {
-                    "name": "t1 data line", 
-                    "size": 937.51
-                }, 
-                {
-                    "name": "lodging, ideoa conference", 
-                    "size": 8184.0
-                }, 
-                {
-                    "name": "49 vehicles", 
-                    "size": 213754.83
-                }, 
-                {
-                    "name": "membership renewal 12 officers", 
-                    "size": 600.0
-                }, 
-                {
-                    "name": "real estate database", 
-                    "size": 400.0
-                }, 
-                {
-                    "name": "raid apparel", 
-                    "size": 8362.5
-                }, 
-                {
-                    "name": "raid jacket", 
-                    "size": 8688.6
-                }, 
-                {
-                    "name": "tmobile", 
-                    "size": 6325.0
-                }, 
-                {
-                    "name": "reimbursement for city sticker", 
-                    "size": 35.42
-                }, 
-                {
-                    "name": "postal equipment", 
-                    "size": 7060.0
-                }, 
-                {
-                    "name": "server", 
-                    "size": 8594.0
-                }, 
-                {
-                    "name": "lexis nexis", 
-                    "size": 935034.27
-                }, 
-                {
-                    "name": "narcotics destruction", 
-                    "size": 25332.58
-                }, 
-                {
-                    "name": "x40 lemart kits", 
-                    "size": 4039.2
-                }, 
-                {
-                    "name": "xfm server", 
-                    "size": 59670.0
-                }, 
-                {
-                    "name": "phones", 
-                    "size": 2681492.339999999
-                }, 
-                {
-                    "name": "training equipment", 
-                    "size": 65575.0
-                }, 
-                {
-                    "name": "sprint", 
-                    "size": 95983.56
-                }, 
-                {
-                    "name": "technical training course", 
-                    "size": 7000.0
-                }, 
-                {
-                    "name": "hdmi video retrieval kits", 
-                    "size": 5385.0
-                }, 
-                {
-                    "name": "video retrieval, 12 dell laptops, cover hardware conflict", 
-                    "size": 48012.0
-                }, 
-                {
-                    "name": "seized vehicles", 
-                    "size": 84487.59
-                }, 
-                {
-                    "name": "repair for seized vehicles", 
-                    "size": 41129.01
-                }, 
-                {
-                    "name": "auto repairs", 
-                    "size": 9491.03
-                }, 
-                {
-                    "name": "undercover car purchase", 
-                    "size": 897918.0
-                }, 
-                {
-                    "name": "at&t boc phones", 
-                    "size": 26025.35
-                }, 
-                {
-                    "name": "enterprise rentals", 
-                    "size": 348830.63
-                }, 
-                {
-                    "name": "at&t", 
-                    "size": 188.67000000000002
-                }, 
-                {
-                    "name": "hidta distribution correction", 
-                    "size": 389823.46
-                }, 
-                {
-                    "name": "motorola radios", 
-                    "size": 728355.0
-                }, 
-                {
-                    "name": "ballistics lab", 
-                    "size": 509063.0
-                }, 
-                {
-                    "name": "trunking", 
-                    "size": 5494.61
-                }, 
-                {
-                    "name": "verizon wireless", 
-                    "size": 133760.78
-                }, 
-                {
-                    "name": "t1 internet access", 
-                    "size": 8019.93
-                }, 
-                {
-                    "name": "vehicle repairs", 
-                    "size": 19097.25
-                }, 
-                {
-                    "name": "redxdefense narcotics test kits", 
-                    "size": 17709.95
-                }, 
-                {
-                    "name": "repairs for forefeited vehicles", 
-                    "size": 6180.66
-                }, 
-                {
-                    "name": "servers from dhpc technologies", 
-                    "size": 13183.5
-                }, 
-                {
-                    "name": "x37 hours filemaker consulting", 
-                    "size": 7215.0
-                }, 
-                {
-                    "name": "server purchase", 
-                    "size": 90895.19
-                }, 
-                {
-                    "name": "sprint phones", 
-                    "size": 25445.03
-                }, 
-                {
-                    "name": "1505 audit", 
-                    "size": 32000.0
-                }, 
-                {
-                    "name": "x2 server rack power strips", 
-                    "size": 374.66
-                }, 
-                {
-                    "name": "computer purchase", 
-                    "size": 184571.6
-                }, 
-                {
-                    "name": "independent audit 1505/657 funds", 
-                    "size": 32894.0
-                }, 
-                {
-                    "name": "gang intelligence reporting", 
+                    "name": "Gang Intelligence Report", 
                     "size": 5239.08
                 }, 
                 {
-                    "name": "file maker license", 
-                    "size": 24600.0
+                    "name": "DEA Conference", 
+                    "size": 36600.0
                 }, 
                 {
-                    "name": "gps air time", 
-                    "size": 7644.0
-                }, 
-                {
-                    "name": "seized car repair", 
-                    "size": 22382.07
-                }, 
-                {
-                    "name": "48 computers and monitors", 
-                    "size": 34176.0
-                }, 
-                {
-                    "name": "comcast", 
-                    "size": 950.74
-                }, 
-                {
-                    "name": "hp monitors, \"data color spyder3\"", 
-                    "size": 6033.23
-                }, 
-                {
-                    "name": "ideoa training conference", 
-                    "size": 9600.0
-                }, 
-                {
-                    "name": "verizon boc phones", 
-                    "size": 143260.06
-                }, 
-                {
-                    "name": "car repair", 
-                    "size": 34712.98
-                }, 
-                {
-                    "name": "x14 license plate renewal stickers", 
-                    "size": 1414.0
-                }, 
-                {
-                    "name": "hotline services", 
-                    "size": 478.4
-                }, 
-                {
-                    "name": "k9s", 
-                    "size": 12790.0
-                }, 
-                {
-                    "name": "k9 training", 
-                    "size": 6383.2
-                }, 
-                {
-                    "name": "money counter", 
-                    "size": 7739.0
-                }, 
-                {
-                    "name": "trunking line", 
-                    "size": 256.93
-                }, 
-                {
-                    "name": "hard drives", 
-                    "size": 5586.0
-                }, 
-                {
-                    "name": "at&t mobility", 
-                    "size": 18892.43
-                }, 
-                {
-                    "name": "48tb hard drive for homan square security system", 
-                    "size": 8916.63
-                }, 
-                {
-                    "name": "enterprise fleet", 
-                    "size": 136448.53
-                }, 
-                {
-                    "name": "x60 tasers", 
-                    "size": 101639.05
-                }, 
-                {
-                    "name": "boc police department vehicles", 
-                    "size": 340628.75
-                }, 
-                {
-                    "name": "dell storage array", 
-                    "size": 11245.0
-                }, 
-                {
-                    "name": "gas credit card charges", 
-                    "size": 33.17
-                }, 
-                {
-                    "name": "sprint services", 
-                    "size": 25553.83
-                }, 
-                {
-                    "name": "filemaker", 
-                    "size": 9300.0
-                }, 
-                {
-                    "name": "conference registration cost", 
-                    "size": 10660.0
-                }, 
-                {
-                    "name": "at&t trunking", 
-                    "size": 43147.07
-                }, 
-                {
-                    "name": "windows administrator training", 
-                    "size": 6385.5
-                }, 
-                {
-                    "name": "vehicle repair", 
-                    "size": 29400.86
-                }, 
-                {
-                    "name": "drug testing", 
-                    "size": 25808.46
-                }, 
-                {
-                    "name": "audio / video supplies", 
-                    "size": 5487.4
-                }, 
-                {
-                    "name": "enterprise fleet services", 
-                    "size": 105749.29
-                }, 
-                {
-                    "name": "swat equipment", 
-                    "size": 335000.0
-                }, 
-                {
-                    "name": "20 unmarked ocd vehicles", 
-                    "size": 619088.0
-                }, 
-                {
-                    "name": "motorola apex 6000 portable radios", 
-                    "size": 9894.0
-                }, 
-                {
-                    "name": "ballistics labs", 
-                    "size": 360605.11
-                }, 
-                {
-                    "name": "ideoa training fee for 40 officers", 
-                    "size": 9000.0
-                }, 
-                {
-                    "name": "car repair and seizure", 
-                    "size": 24310.11
-                }, 
-                {
-                    "name": "shredder", 
-                    "size": 11002.99
-                }, 
-                {
-                    "name": "cpd dept of fleet mngmt", 
+                    "name": "Cpd Dept Of Fleet Mngmt", 
                     "size": 17240.45
                 }, 
                 {
-                    "name": "auto repair", 
-                    "size": 12978.45
+                    "name": "Lexis Nexis", 
+                    "size": 936175.02
                 }, 
                 {
-                    "name": "clear", 
-                    "size": 3445.2
+                    "name": "Postal Equipment", 
+                    "size": 7060.0
                 }, 
                 {
-                    "name": "cat 5e cable", 
-                    "size": 948.91
-                }, 
-                {
-                    "name": "seized cars", 
-                    "size": 20142.760000000002
-                }, 
-                {
-                    "name": "star witness", 
+                    "name": "Star Witness", 
                     "size": 20100.0
                 }, 
                 {
-                    "name": "enterprise", 
-                    "size": 7204635.31
+                    "name": "Dare Programming", 
+                    "size": 20000.0
+                }, 
+                {
+                    "name": "Narcotics Destruction", 
+                    "size": 32166.670000000002
+                }, 
+                {
+                    "name": "School Prevention Programs", 
+                    "size": 19980.55
+                }, 
+                {
+                    "name": "Shredder", 
+                    "size": 11002.99
+                }, 
+                {
+                    "name": "Cell Phone Service", 
+                    "size": 3238057.299999998
+                }, 
+                {
+                    "name": "Internal Audits", 
+                    "size": 64894.0
+                }, 
+                {
+                    "name": "Computers", 
+                    "size": 976156.8399999999
+                }, 
+                {
+                    "name": "Training And Equipment", 
+                    "size": 443799.3
+                },
+                {
+                    "name": "Police Radios", 
+                    "size": 738249.0
+                }, 
+                {
+                    "name": "Money Counter", 
+                    "size": 7739.0
+                }, 
+                {
+                    "name": "Ballistics Lab", 
+                    "size": 869668.11
+                }, 
+                {
+                    "name": "At&T Trunking", 
+                    "size": 6612.05
+                }, 
+                {
+                    "name": "Car Rentals", 
+                    "size": 7680092.669999999
+                }, 
+                {
+                    "name": "Squad Cars", 
+                    "size": 2737340.33
+                }, 
+                {
+                    "name": "HIDTA Distribution", 
+                    "size": 389823.46
                 }
             ], 
             "name": "routine"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "ocd vision", 
-                    "size": 25142.4
-                }, 
-                {
-                    "name": "unclear, \"utilized during narcotic related investigations\"", 
-                    "size": 25457.34
-                }, 
-                {
-                    "name": "vision database", 
-                    "size": 96030.0
-                }, 
-                {
-                    "name": "unlimited web access to public record payable to?", 
-                    "size": 8500.0
-                }
-            ], 
-            "name": "?"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "unlimited web access to? payable to?", 
-                    "size": 5569.25
-                }, 
-                {
-                    "name": "research electronics international", 
-                    "size": 70750.0
-                }, 
-                {
-                    "name": "unlimited web access to public record payable to?", 
-                    "size": 8500.0
-                }
-            ], 
-            "name": "??"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "verizon wireless", 
-                    "size": 15167.46
-                }
-            ], 
-            "name": "boc phones"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "??????????????", 
-                    "size": 7193.58
-                }, 
-                {
-                    "name": "\"clear services\" subscription", 
-                    "size": 5884.0
-                }, 
-                {
-                    "name": "\"realinfo accounts\"", 
-                    "size": 19644.76
-                }
-            ], 
-            "name": "???????"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "finance division check request", 
-                    "size": 665950.75
-                }
-            ], 
-            "name": "ocd vehicle project???"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "??????", 
-                    "size": 14876.0
-                }
-            ], 
-            "name": "unlimtd web acceess to??"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "t mobile", 
-                    "size": 5200.0
-                }
-            ], 
-            "name": "pen registers"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "??????", 
-                    "size": 6960.0
-                }
-            ], 
-            "name": "field acquisition tool"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "canon cameras from b&h video", 
-                    "size": 6344.2
-                }, 
-                {
-                    "name": "ads invoice", 
-                    "size": 97255.0
-                }, 
-                {
-                    "name": "research electronics international invoice", 
-                    "size": 23600.0
-                }, 
-                {
-                    "name": "redxdefense training", 
-                    "size": 10819.38
-                }, 
-                {
-                    "name": "team cameras from b&h video", 
-                    "size": 16579.55
-                }, 
-                {
-                    "name": "??????????  \"bulk narcotics destruction\"???", 
-                    "size": 6834.09
-                }, 
-                {
-                    "name": "sony cameras and equipment", 
-                    "size": 5154.9
-                }, 
-                {
-                    "name": "barracuda backup server", 
-                    "size": 15206.75
-                }, 
-                {
-                    "name": "electronics services agency invoice", 
-                    "size": 37400.0
-                }, 
-                {
-                    "name": "pro-tech security sales invoice", 
-                    "size": 45470.0
-                }, 
-                {
-                    "name": "worldwide technologies invoice", 
-                    "size": 12975.53
-                }, 
-                {
-                    "name": "??????????  \"narcotics related investigations\"???", 
-                    "size": 6174.55
-                }, 
-                {
-                    "name": "harris training invoice", 
-                    "size": 64900.0
-                }
-            ], 
-            "name": "??????"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "verizon wireless", 
-                    "size": 18244.1
-                }
-            ], 
-            "name": "new phone equipment"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "us marshalls service/cpd", 
-                    "size": 5267.68
-                }
-            ], 
-            "name": "jeep grand cherokee repo"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "keyw corporation of hanover", 
-                    "size": 7500.0
-                }, 
-                {
-                    "name": "davis sign company of seatle washington", 
-                    "size": 18561.35
-                }, 
-                {
-                    "name": "harris corp of melbourne fl", 
-                    "size": 136375.0
-                }, 
-                {
-                    "name": "?? web access", 
-                    "size": 28392.5
-                }, 
-                {
-                    "name": "subscription to ?? web access", 
-                    "size": 14665.5
-                }, 
-                {
-                    "name": "sandoval custom creations for ?? cameral and ??", 
-                    "size": 7828.0
-                }, 
-                {
-                    "name": "freight security net", 
-                    "size": 14388.0
-                }
-            ], 
-            "name": "???"
         }
     ], 
     "name": "cpd"

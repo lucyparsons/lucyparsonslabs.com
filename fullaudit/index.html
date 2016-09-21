@@ -126,7 +126,7 @@ function mouseMoveArc (d) {
 }
 
 var root_ = null;
-d3.json("output.json", function(error, root) {
+d3.json("visualization/output.json", function(error, root) {
   if (error) return console.warn(error);
   // Compute the initial layout on the entire tree to sum sizes.
   // Also compute the full name and fill color for each node,
@@ -215,7 +215,7 @@ d3.json("output.json", function(error, root) {
     // Entering outside arcs start from the old layout.
     if (root === p) enterArc = outsideArc, exitArc = insideArc, outsideAngle.range([p.x, p.x + p.dx]);
          var new_data=partition.nodes(root).slice(1)
-    path = path.data(new_data, function(d) { return d.key; });
+	path = path.data(new_data, function(d) { return d.key; });
                  
          // When zooming out, arcs enter from the inside and exit to the outside.
     // Exiting outside arcs transition to the new layout.
@@ -304,7 +304,7 @@ d3.select(self.frameElement).style("height", margin.top + margin.bottom + "px");
 
     <script>
       init_table({
-        csv_path: 'data/August24clean.csv',
+        csv_path: 'data/1505Export.csv',
         element: 'table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},

@@ -25,8 +25,7 @@ function init_table(options) {
 
             for (row_id = 1; row_id < csv_data.length; row_id++) {
                 var row_html = "<tr>";
-  		csv_data[row_id][6] = linkpdf(csv_data[row_id][6]);	
-                csv_data[row_id][10] = linkify(csv_data[row_id][10]);
+  		csv_data[row_id][4] = linkpdf(csv_data[row_id][4]);	
 		for (col_id = 0; col_id < csv_data[row_id].length; col_id++) {
                     row_html += "<td>" + csv_data[row_id][col_id] + "</td>";
                 }
@@ -39,13 +38,6 @@ function init_table(options) {
             if (allow_download)
                 $("#" + el).append("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
         });
-}
-
-function linkify(inputText) {
-    //URLs starting with http://, https://, or ftp://
-    var replacePattern1 = /(\b(https?|ftp):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/gim;
-    var replacedText = inputText.replace(replacePattern1, '<a href="$1" target="_blank">MuckRock Request</a>');
-    return replacedText
 }
 
 function linkpdf(inputText) {
