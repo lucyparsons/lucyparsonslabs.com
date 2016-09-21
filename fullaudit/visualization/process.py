@@ -7,15 +7,15 @@ results = {}
 def clean_string(orig):
     return orig.lower().lstrip().rstrip()
 
-with open('August28.csv', 'rb') as csvfile:
+with open('1505AnalysisReader.csv', 'rb') as csvfile:
     data = csv.reader(csvfile)
     for row in data:
-        for item in [3, 4]:
+        for item in [2, 3]:
             if not bool(clean_string(row[item])):
                 row[item] = 'unknown'
             else:
                 row[item] = clean_string(row[item])
-        if row[4] in results:
+        if row[3] in results:
             if not bool(clean_string(row[2])):
                 continue
             if row[3] in results[row[4]]:
