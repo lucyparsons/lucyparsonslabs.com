@@ -7,24 +7,24 @@ results = {}
 def clean_string(orig):
     return orig.lower().lstrip().rstrip()
 
-with open('1505AnalysisReader.csv', 'rb') as csvfile:
+with open('1505Export.csv', 'rb') as csvfile:
     data = csv.reader(csvfile)
     for row in data:
-        for item in [2, 3]:
+        for item in [1, 2]:
             if not bool(clean_string(row[item])):
                 row[item] = 'unknown'
             else:
                 row[item] = clean_string(row[item])
-        if row[3] in results:
-            if not bool(clean_string(row[2])):
+        if row[1] in results:
+            if not bool(clean_string(row[1])):
                 continue
-            if row[3] in results[row[4]]:
-                results[row[4]][row[3]] += float(row[2])
+            if row[2] in results[row[3]]:
+                results[row[3]][row[2]] += float(row[1])
             else:
-                results[row[4]][row[3]] = float(row[2])
+                results[row[3]][row[2]] = float(row[1])
         else:
-            results[row[4]] = {}
-            results[row[4]][row[3]] = float(row[2])
+            results[row[3]] = {}
+            results[row[3]][row[2]] = float(row[1])
 
 formatted_results = []
 for key, value in results.iteritems():
