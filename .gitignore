@@ -4,3 +4,4 @@ _site/
 *.swp
 *.swo
 .rake_tasks
+.DS_Store

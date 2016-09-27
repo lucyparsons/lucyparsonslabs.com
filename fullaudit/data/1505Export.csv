@@ -1,0 +1,552 @@
+Date,Amount,Purchase,Category,Check Number
+4-Jan-10,9423.80,Computers,Routine,14425
+5-Jan-10,6297.69,Computers,Routine,14428
+6-Jan-10,6292.58,Cell Phone Service,Routine,14443
+6-Jan-10,128960.15,Car Rentals,Routine,14445
+12-Jan-10,34039.74,Cell Phone Service,Routine,14452
+20-Jan-10,127087.81,Car Rentals,Routine,14470
+21-Jan-10,8500.00,Lexis Nexis,Routine,14471
+26-Jan-10,5695.00,Lexis Nexis,Routine,14491
+1-Feb-10,6612.05,Cell Phone Service,Routine,14497
+1-Feb-10,32894.00,Internal Audits,Routine,14501
+3-Feb-10,38448.49,Cell Phone Service,Routine,14506
+3-Feb-10,36673.28,Cell Phone Service,Routine,14509
+17-Feb-10,8500.00,Lexis Nexis,Routine,14535
+17-Feb-10,13720.00,License Plate Reader,Surveillance,14536
+19-Feb-10,13968.00,Ocd Vision,Unknown,14554
+19-Feb-10,11174.40,Ocd Vision,Unknown,14555
+23-Feb-10,129240.15,Car Rentals,Routine,14562
+23-Feb-10,5440.00,Lexis Nexis,Routine,14568
+25-Feb-10,6383.20,Training And Equipment,Routine,14577
+2-Mar-10,12436.24,Car Repair And Seizure,Routine,14579
+3-Mar-10,20174.65,Car Repair And Seizure,Routine,14586
+11-Mar-10,44750.00,Computers,Routine,14610
+22-Mar-10,5780.00,Lexis Nexis,Routine,14618
+22-Mar-10,8500.00,Lexis Nexis,Routine,14619
+24-Mar-10,9000.00,DEA Conference,Routine,14659
+24-Mar-10,6180.66,Car Repair And Seizure,Routine,14660
+24-Mar-10,146560.87,Car Rentals,Routine,14661
+1-Apr-10,6612.05,Cell Phone Service,Routine,14675
+1-Apr-10,13377.34,Redacted,Unknown,14678
+1-Apr-10,12080.00,Redacted,Unknown,14681
+1-Apr-10,6033.23,Computers,Routine,14682
+1-Apr-10,20100.00,Star Witness,Routine,14683
+1-Apr-10,19348.81,Cell Phone Service,Routine,14688
+7-Apr-10,36661.90,Cell Phone Service,Routine,14695
+16-Apr-10,8500.00,Lexis Nexis,Routine,14716
+21-Apr-10,5865.00,Lexis Nexis,Routine,14722
+3-May-10,6612.05,At&T Trunking,Routine,14738
+5-May-10,117287.80,Computers,Routine,14754
+5-May-10,134398.00,Car Rentals,Routine,14757
+5-May-10,24600.00,Computers,Routine,14761
+11-May-10,73615.88,Cell Phone Service,Routine,14775
+11-May-10,43316.10,Cell Phone Service,Routine,14777
+21-May-10,8500.00,Lexis Nexis,Routine,14784
+21-May-10,5865.00,Lexis Nexis,Routine,14785
+24-May-10,9869.60,Car Repair And Seizure,Routine,14811
+24-May-10,11850.85,Car Repair And Seizure,Routine,14812
+25-May-10,301500.00,Training And Equipment,Routine,14813
+25-May-10,33500.00,Training And Equipment,Routine,14814
+26-May-10,5963.91,Car Repair And Seizure,Routine,14826
+8-Jun-10,8594.00,Computers,Routine,14870
+14-Jun-10,59016.70,Training And Equipment,Routine,14874
+18-Jun-10,213754.83,Squad Cars,Routine,14889
+21-Jun-10,8500.00,Lexis Nexis,Routine,14892
+21-Jun-10,5790.50,Lexis Nexis,Routine,14893
+21-Jun-10,251654.28,Car Rentals,Routine,14894
+21-Jun-10,15661.93,Car Rentals,Routine,14895
+12-Jul-10,20194.41,Cell Phone Service,Routine,14944
+12-Jul-10,19241.49,Cell Phone Service,Routine,14946
+13-Jul-10,36840.93,Cell Phone Service,Routine,14948
+13-Jul-10,36968.82,Cell Phone Service,Routine,14950
+13-Jul-10,37509.42,Cell Phone Service,Routine,14952
+14-Jul-10,132593.39,Car Rentals,Routine,14961
+19-Jul-10,8500.00,Lexis Nexis,Routine,14969
+23-Jul-10,6080.50,Lexis Nexis,Routine,14974
+23-Jul-10,8362.50,Training And Equipment,Routine,14976
+2-Aug-10,5322.14,Cell Phone Service,Routine,14998
+12-Aug-10,16366.35,GPS Trackers,Surveillance,15015
+12-Aug-10,5220.00,Black Widow Surveillance,Surveillance,15016
+19-Aug-10,8500.00,Lexis Nexis,Routine,15018
+20-Aug-10,5960.50,Lexis Nexis,Routine,15022
+25-Aug-10,5740.81,Cell Phone Service,Routine,15038
+2-Sep-10,115146.65,Car Rentals,Routine,15062
+2-Sep-10,23599.34,Car Rentals,Routine,15063
+14-Sep-10,6558.30,Training And Equipment,Routine,15094
+22-Sep-10,8500.00,Lexis Nexis,Routine,15107
+24-Sep-10,7644.00,GPS Trackers,Surveillance,15112
+24-Sep-10,5929.75,Lexis Nexis,Routine,15113
+24-Sep-10,5092.67,Car Repair And Seizure,Routine,15114
+27-Sep-10,9600.00,Car Repair And Seizure,Routine,15120
+27-Sep-10,16075.00,Cameras,Surveillance,15121
+29-Sep-10,157300.00,Cell Site Simulator,Surveillance,15127
+1-Oct-10,7060.00,Postal Equipment,Routine,15139
+7-Oct-10,5326.62,Car Repair And Seizure,Routine,15150
+7-Oct-10,125941.02,Car Rentals,Routine,15155
+8-Oct-10,205000.00,Blue Light Cameras,Surveillance,15157
+20-Oct-10,38822.20,Cell Phone Service,Routine,15164
+20-Oct-10,40339.26,Cell Phone Service,Routine,15166
+20-Oct-10,21521.02,Cell Phone Service,Routine,15168
+20-Oct-10,21538.00,Cell Phone Service,Routine,15169
+20-Oct-10,21073.60,Cell Phone Service,Routine,15170
+21-Oct-10,8500.00,Lexis Nexis,Routine,15179
+21-Oct-10,41433.29,Cell Phone Service,Routine,15180
+22-Oct-10,5881.00,Lexis Nexis,Routine,15182
+22-Oct-10,5239.08,Gang Intelligence Report,Routine,15183
+22-Oct-10,5487.40,Computers,Routine,15184
+27-Oct-10,5494.61,Cell Phone Service,Routine,15196
+1-Nov-10,14790.00,Redacted,Unknown,15204
+1-Nov-10,5240.00,Cameras,Surveillance,15205
+9-Nov-10,128055.19,Car Rentals,Routine,15219
+16-Nov-10,11840.00,Cameras,Surveillance,15231
+17-Nov-10,8500.00,Lexis Nexis,Routine,15232
+29-Nov-10,5959.00,Lexis Nexis,Routine,15237
+1-Dec-10,38929.58,Cell Phone Service,Routine,15244
+2-Dec-10,6918.14,Car Repair And Seizure,Routine,15249
+7-Dec-10,41809.32,Cell Phone Service,Routine,15261
+15-Dec-10,8500.00,Lexis Nexis,Routine,15281
+15-Dec-10,5326.62,Car Repair And Seizure,Routine,15282
+15-Dec-10,130550.33,Car Rentals,Routine,15283
+3-Jan-11,8019.93,Computers,Routine,15298
+5-Jan-11,5895.00,Lexis Nexis,Routine,15300
+7-Jan-11,42539.01,Cell Phone Service,Routine,15303
+10-Jan-11,21406.17,Cell Phone Service,Routine,15304
+10-Jan-11,5355.00,Cameras,Surveillance,15305
+21-Jan-11,8500.00,Lexis Nexis,Routine,15318
+21-Jan-11,5938.04,Car Repair And Seizure,Routine,15325
+25-Jan-11,5655.50,Lexis Nexis,Routine,15339
+1-Feb-11,129615.73,Car Rentals,Routine,15350
+7-Feb-11,14028.30,GPS Trackers,Surveillance,15363
+9-Feb-11,5586.00,Computers,Routine,15364
+16-Feb-11,42032.02,Cell Phone Service,Routine,15376
+18-Feb-11,129509.80,Car Rentals,Routine,15378
+18-Feb-11,8500.00,Lexis Nexis,Routine,15379
+1-Mar-11,5818.75,Lexis Nexis,Routine,15388
+4-Mar-11,135384.60,Car Rentals,Routine,15411
+9-Mar-11,138866.00,Cell Phone Metadata,Surveillance,15415
+10-Mar-11,21171.97,Cell Phone Service,Routine,15417
+17-Mar-11,8500.00,Lexis Nexis,Routine,15426
+23-Mar-11,133693.88,Car Rentals,Routine,15499
+24-Mar-11,16464.34,Car Repair And Seizure,Routine,15501
+25-Mar-11,20957.55,Cell Phone Service,Routine,15512
+1-Apr-11,5817.00,Lexis Nexis,Routine,15516
+18-Apr-11,6000.00,Cell Phone Metadata,Surveillance,15548
+18-Apr-11,5042.55,Narcotics Field Testing Kit,Routine,15553
+18-Apr-11,6600.24,Car Repair And Seizure,Routine,15557
+19-Apr-11,131498.37,Car Rentals,Routine,15558
+21-Apr-11,8500.00,Lexis Nexis,Routine,15561
+21-Apr-11,5720.50,Lexis Nexis,Routine,15565
+25-Apr-11,42855.57,Cell Phone Service,Routine,15569
+27-Apr-11,40796.45,Cell Phone Service,Routine,15589
+9-May-11,20348.64,Cell Phone Service,Routine,15635
+11-May-11,38328.54,Cell Phone Service,Routine,15639
+13-May-11,8500.00,Lexis Nexis,Routine,15647
+23-May-11,135435.75,Car Rentals,Routine,15664
+23-May-11,20759.59,Cell Phone Service,Routine,15665
+24-May-11,19020.34,Cell Phone Service,Routine,15672
+1-Jun-11,6336.28,Car Repair And Seizure,Routine,15692
+1-Jun-11,35108.95,Cell Phone Service,Routine,15694
+2-Jun-11,5971.25,Lexis Nexis,Routine,15698
+3-Jun-11,6385.50,Computers,Routine,15704
+6-Jun-11,14028.30,GPS Trackers,Surveillance,15711
+14-Jun-11,19451.28,Cell Phone Service,Routine,15721
+16-Jun-11,8500.00,Lexis Nexis,Routine,15724
+16-Jun-11,5500.00,Cell Phone Metadata,Surveillance,15726
+23-Jun-11,129020.01,Car Rentals,Routine,15745
+27-Jun-11,11245.00,Computers,Routine,15747
+8-Jul-11,5901.00,Lexis Nexis,Routine,15763
+25-Jul-11,16746.28,Cell Phone Service,Routine,15778.Pdf
+4-Aug-11,44520.00,Research Electronics,Unknown,15786
+4-Aug-11,128777.97,Car Rentals,Routine,15788
+8-Aug-11,9625.00,Cell Phone Metadata,Surveillance,15793
+8-Aug-11,33617.49,Cell Phone Service,Routine,15801
+8-Aug-11,30977.40,Cell Phone Service,Routine,15802
+16-Aug-11,5552.50,Lexis Nexis,Routine,15805.Odf
+16-Aug-11,27407.53,Cell Phone Service,Routine,15809
+17-Aug-11,8500.00,Lexis Nexis,Routine,15810
+17-Aug-11,17960.19,Cell Phone Service,Routine,15826
+26-Aug-11,8500.00,Lexis Nexis,Routine,15826
+1-Sep-11,5955.39,Cell Phone Service,Routine,15830.Pdf
+1-Sep-11,5200.00,Cell Phone Service,Routine,15836
+1-Sep-11,138467.13,Car Rentals,Routine,15847
+13-Sep-11,17309.03,Cell Phone Service,Routine,15860
+14-Sep-11,6275.00,Cell Phone Metadata,Surveillance,15861
+14-Sep-11,19857.56,Cell Phone Service,Routine,15871
+3-Oct-11,47000.00,Research Electronics,Unknown,15886
+3-Oct-11,5569.25,Redacted,Unknown,15893
+3-Oct-11,8500.00,Redacted,Unknown,15894
+12-Oct-11,25256.23,Cell Phone Service,Routine,15908
+19-Oct-11,8500.00,Redacted,Unknown,15913
+1-Nov-11,23750.00,Research Electronics,Unknown,15921
+1-Nov-11,17861.19,Cell Phone Service,Routine,15924
+7-Nov-11,8518.12,Car Repair And Seizure,Routine,15950
+15-Nov-11,6002.00,Lexis Nexis,Routine,15959
+15-Nov-11,25445.03,Cell Phone Service,Routine,15960
+15-Nov-11,17058.97,Cell Phone Service,Routine,15961
+16-Nov-11,7828.00,Redacted,Unknown,15964
+16-Nov-11,8500.00,Redacted,Unknown,15970
+16-Nov-11,11392.50,Redacted,Unknown,15971
+23-Nov-11,17240.45,Cpd Dept Of Fleet Mngmt,Routine,15980
+27-Dec-11,14388.00,GPS Trackers,Surveillance,16005
+27-Dec-11,7500.00,Cell Site Simulator,Surveillance,16006
+3-Jan-12,8505.50,Redacted,Unknown,16012
+11-Jan-12,6160.00,Redacted,Unknown,16027
+18-Jan-12,25292.15,Cell Phone Service,Routine,16042
+18-Jan-12,25577.62,Cell Phone Service,Routine,16043
+18-Jan-12,16555.49,Cell Phone Service,Routine,16044
+18-Jan-12,17420.76,Cell Phone Service,Routine,16045
+19-Jan-12,8500.00,Redacted,Unknown,16046
+23-Jan-12,164190.27,Car Rentals,Routine,16050
+26-Jan-12,138866.00,Cell Phone Metadata,Surveillance,16056
+1-Feb-12,6097.00,Lexis Nexis,Routine,16062
+1-Feb-12,5718.54,Car Repair And Seizure,Routine,16066
+1-Feb-12,126310.34,Car Rentals,Routine,16073
+7-Feb-12,8240.65,Car Repair And Seizure,Routine,16083
+10-Feb-12,25684.42,Cell Phone Service,Routine,16090
+16-Feb-12,17276.52,Cell Phone Service,Routine,16092
+23-Feb-12,8503.50,Lexis Nexis,Routine,16102
+27-Feb-12,71408.31,Car Rentals,Routine,16104
+6-Mar-12,117007.63,Car Rentals,Routine,16130.Pdf
+6-Mar-12,6262.55,Redacted,Unknown,
+9-Mar-12,25553.83,Cell Phone Service,Routine,16144.Pdf
+14-Mar-12,8501.50,Redacted,Unknown,16150.Pdf
+14-Mar-12,18244.10,Cell Phone Service,Routine,16151.Pdf
+16-Mar-12,6960.00,Redacted,Unknown,16152.Pdf
+20-Mar-12,136448.53,Car Rentals,Routine,16159.Pdf
+2-Apr-12,6374.50,Redacted,Unknown,16172.Pdf
+2-Apr-12,5267.68,Us Marshalls Service/Cpd,Unknown,16173.Pdf
+4-Apr-12,8400.00,DEA Conference,Routine,16191.Pdf
+17-Apr-12,25591.07,Cell Phone Service,Routine,16230
+17-Apr-12,16729.07,Cell Phone Service,Routine,16233
+18-Apr-12,8504.50,Lexis Nexis,Routine,16244
+1-May-12,129618.09,Car Rentals,Routine,16264
+10-May-12,25975.14,Cell Phone Service,Routine,16297
+10-May-12,8975.15,Car Repair And Seizure,Routine,16300
+16-May-12,8531.25,Lexis Nexis,Routine,16309
+16-May-12,16209.20,Cell Phone Service,Routine,16310
+1-Jun-12,121672.27,Car Rentals,Routine,16336
+1-Jun-12,10791.00,GPS Trackers,Surveillance,16338
+13-Jun-12,12123.25,Lexis Nexis,Routine,16351
+21-Jun-12,8786.50,Lexis Nexis,Routine,16356
+21-Jun-12,16333.04,Cell Phone Service,Routine,16359
+2-Jul-12,46469.00,Cell Phone Service,Routine,16379
+2-Jul-12,128527.97,Car Rentals,Routine,16381
+2-Jul-12,18820.00,Narcotics Field Testing Kit,Routine,16382
+10-Jul-12,11675.00,Cell Phone Metadata,Surveillance,16392
+20-Jul-12,619088.00,Squad Cars,Routine,16402
+20-Jul-12,20000.00,Dare Programming,Routine,16403
+26-Jul-12,8510.50,Lexis Nexis,Routine,16414
+26-Jul-12,12670.90,Lexis Nexis,Routine,16417
+2-Aug-12,16507.48,Cell Phone Service,Routine,16432
+2-Aug-12,126577.77,Car Rentals,Routine,16434
+3-Aug-12,360605.11,Ballistics Lab,Routine,16437
+3-Aug-12,26544.08,Cell Phone Service,Routine,16438
+14-Aug-12,91530.00,Cameras,Surveillance,16447
+17-Aug-12,8511.50,Lexis Nexis,Routine,16450
+17-Aug-12,16936.57,Cell Phone Service,Routine,16452
+20-Aug-12,6466.75,Lexis Nexis,Routine,16454
+21-Aug-12,12790.00,Training And Equipment,Routine,16457
+22-Aug-12,130009.57,Car Rentals,Routine,16466
+24-Aug-12,26395.36,Cell Phone Service,Routine,16468
+19-Sep-12,8500.00,Lexis Nexis,Routine,16511
+1-Oct-12,17575.70,Cell Phone Service,Routine,16528
+1-Oct-12,26481.89,Cell Phone Service,Routine,16529
+1-Oct-12,125619.22,Car Rentals,Routine,16530
+2-Oct-12,6023.10,Car Repair And Seizure,Routine,16533
+2-Oct-12,8711.42,Car Repair And Seizure,Routine,16534
+3-Oct-12,6409.25,Lexis Nexis,Routine,16535
+15-Oct-12,26442.49,Cell Phone Service,Routine,16542
+16-Oct-12,15871.88,Cell Phone Service,Routine,16543
+22-Oct-12,6521.75,Lexis Nexis,Routine,16553
+1-Nov-12,130699.65,Car Rentals,Routine,16573
+15-Nov-12,8273.10,GPS Trackers,Surveillance,16581
+15-Nov-12,27389.00,Computers,Routine,16582
+19-Nov-12,8500.00,Lexis Nexis,Routine,16593
+19-Nov-12,137171.67,Cell Phone Metadata,Surveillance,16599
+27-Nov-12,16095.31,Cell Phone Service,Routine,16601
+3-Dec-12,6598.50,Lexis Nexis,Routine,16612
+3-Dec-12,26445.80,Cell Phone Service,Routine,16614
+3-Dec-12,125524.22,Car Rentals,Routine,16615
+7-Dec-12,37000.67,Cell Phone Metadata,Surveillance,16623
+11-Dec-12,26869.76,Cell Phone Service,Routine,16630
+12-Dec-12,9575.59,Car Repair And Seizure,Routine,16633
+19-Dec-12,8500.00,Lexis Nexis,Routine,16649
+26-Dec-12,13182.30,Redacted,Unknown,16653
+8-Jan-13,20790.69,Cell Phone Service,Routine,16679
+9-Jan-13,6755.75,Lexis Nexis,Routine,16683
+9-Jan-13,9977.25,Redacted,Unknown,16684
+14-Jan-13,26673.87,Cell Phone Service,Routine,16687
+16-Jan-13,133228.68,Car Rentals,Routine,16692
+17-Jan-13,8500.00,Lexis Nexis,Routine,16693
+18-Jan-13,8502.75,Lexis Nexis,Routine,16694
+18-Jan-13,16526.96,Cell Phone Service,Routine,16699
+1-Feb-13,10539.00,Cameras,Surveillance,16721
+6-Feb-13,129446.43,Car Rentals,Routine,16731
+14-Feb-13,509063.00,Ballistics Lab,Routine,16738
+21-Feb-13,6851.75,Lexis Nexis,Routine,16750
+21-Feb-13,6825.25,Lexis Nexis,Routine,16751
+21-Feb-13,8500.00,Lexis Nexis,Routine,16752
+21-Feb-13,26600.80,Cell Phone Service,Routine,16754
+25-Feb-13,14899.20,Cell Phone Service,Routine,16762
+1-Mar-13,12136.98,Car Repair And Seizure,Routine,16775
+1-Mar-13,128700.98,Car Rentals,Routine,
+19-Mar-13,340628.75,Squad Cars,Routine,16802
+20-Mar-13,8500.00,Lexis Nexis,Routine,16808
+20-Mar-13,130576.09,Car Rentals,Routine,16809
+21-Mar-13,15339.85,Cell Phone Service,Routine,16814
+25-Mar-13,6660.50,Lexis Nexis,Routine,16820
+1-Apr-13,9600.00,Dea Conference,Routine,16823
+1-Apr-13,45470.00,Pro-Tech Security Sales Invoice,Unknown,16856
+1-Apr-13,29846.03,Cell Phone Service,Routine,16858
+17-Apr-13,8500.00,Lexis Nexis,Routine,16881
+17-Apr-13,27289.80,Cell Phone Service,Routine,16882
+17-Apr-13,37400.00,Electronics Services Agency Invoice,Unknown,16884
+19-Apr-13,15629.32,Cell Phone Service,Routine,16891
+1-May-13,6814.75,Lexis Nexis,Routine,16905
+1-May-13,56100.00,Cameras,Surveillance,16906
+1-May-13,130683.83,Car Rentals,Routine,16911
+3-May-13,11902.11,Car Repair And Seizure,Routine,16926
+6-May-13,96030.00,Vision Database,Unknown,16936
+13-May-13,23425.00,Cameras,Surveillance,16953
+13-May-13,8500.00,Lexis Nexis,Routine,16959
+16-May-13,32000.00,Internal Audits,Routine,16961
+21-May-13,13039.86,Cell Phone Service,Routine,16968
+21-May-13,27579.88,Cell Phone Service,Routine,16969
+22-May-13,410815.33,Car Rentals,Routine,16973
+4-Jun-13,6650.14,,Unknown,
+4-Jun-13,214600.00,,Unknown,
+4-Jun-13,121361.19,,Unknown,
+10-Jun-13,6652.25,,Unknown,
+19-Jun-13,8500.00,Lexis Nexis,Routine,17015
+1-Jul-13,6446.05,,Unknown,
+1-Jul-13,15487.36,,Unknown,
+1-Jul-13,31368.23,,Unknown,
+15-Jul-13,174174.52,,Unknown,
+17-Jul-13,6752.00,Lexis Nexis,Routine,17046
+7-Aug-13,7932.09,Cell Phone Service,Routine,17071
+7-Aug-13,10071.60,Redacted,Unknown,17075
+21-Aug-13,8500.00,Lexis Nexis,Routine,17086
+22-Aug-13,9435.07,Cell Phone Service,Routine,17087
+11-Sep-13,41134.60,Car Rentals,Routine,17109
+11-Sep-13,14620.23,Car Repair And Seizure,Routine,17110
+13-Sep-13,13300.50,Lexis Nexis,Routine,17113
+19-Sep-13,8500.00,Lexis Nexis,Routine,17119
+24-Sep-13,6750.50,Lexis Nexis,Routine,17123
+15-Oct-13,17992.00,,Unknown,
+17-Oct-13,8500.00,Lexis Nexis,Routine,17140
+18-Oct-13,8688.60,Training And Equipment,Routine,17143
+18-Oct-13,6732.50,Lexis Nexis,Routine,17144
+22-Oct-13,23201.16,Cell Phone Service,Routine,17145
+1-Nov-13,137171.67,Cell Phone Metadata,Surveillance,17151
+15-Nov-13,15432.81,Cell Phone Service,Routine,17174
+21-Nov-13,8500.00,Lexis Nexis,Routine,17181
+22-Nov-13,31782.30,Cell Phone Service,Routine,17185
+2-Dec-13,8500.25,Lexis Nexis,Routine,17189
+5-Dec-13,10964.67,Car Repair And Seizure,Routine,17200
+10-Dec-13,6819.50,Lexis Nexis,Routine,17208
+24-Dec-13,8500.00,Lexis Nexis,Routine,17219
+3-Jan-14,15040.93,Cell Phone Service,Routine,17222
+9-Jan-14,52974.05,Cell Phone Service,Routine,17232
+10-Jan-14,66052.59,Cell Phone Service,Routine,17233
+13-Jan-14,24488.25,Car Rentals,Routine,17236
+16-Jan-14,6633.75,Lexis Nexis,Routine,17244
+16-Jan-14,14662.84,Cell Phone Service,Routine,17247
+21-Jan-14,11987.20,Narcotics Destruction,Routine,17251
+23-Jan-14,8500.00,Lexis Nexis,Routine,17253
+24-Jan-14,106579.24,Car Rentals,Routine,17256
+3-Feb-14,10431.30,Redacted,Unknown,17265
+3-Feb-14,15114.78,,Unknown,
+3-Feb-14,19766.37,Cell Phone Service,Routine,17268
+4-Feb-14,6558.50,Lexis Nexis,Routine,17269
+21-Feb-14,8500.00,Lexis Nexis,Routine,17279
+21-Feb-14,15414.01,Cell Phone Service,Routine,17282
+4-Mar-14,105786.85,Car Rentals,Routine,17305
+4-Mar-14,17749.55,Cell Phone Service,Routine,17306
+7-Mar-14,71175.50,Computers,Routine,17310
+11-Mar-14,13110.00,Computers,Routine,17312
+13-Mar-14,6644.50,Lexis Nexis,Routine,17315
+19-Mar-14,14912.77,Cell Phone Service,Routine,17326
+21-Mar-14,104374.06,Car Rentals,Routine,17334
+21-Mar-14,17750.53,Cell Phone Service,Routine,17335
+25-Mar-14,6552.75,Lexis Nexis,Routine,17338
+2-Apr-14,13422.00,Computers,Routine,17353
+14-Apr-14,9600.00,Dea Conference,Routine,17360
+14-Apr-14,15265.66,Cell Phone Service,Routine,17384
+16-Apr-14,19081.35,Car Repair And Seizure,Routine,17387
+17-Apr-14,17764.48,Cell Phone Service,Routine,17394
+23-Apr-14,8500.25,Lexis Nexis,Routine,17399
+1-May-14,101222.13,Car Rentals,Routine,17417
+8-May-14,59670.00,Computers,Routine,17427
+20-May-14,8500.00,Lexis Nexis,Routine,17451
+20-May-14,385008.00,Squad Cars,Routine,17452
+27-May-14,6489.25,Lexis Nexis,Routine,17461
+3-Jun-14,104609.93,Car Rentals,Routine,17474
+3-Jun-14,14465.05,Cell Phone Service,Routine,17475
+3-Jun-14,17770.69,Cell Phone Service,Routine,17489
+3-Jun-14,6460.00,Lexis Nexis,Routine,17490
+11-Jun-14,14763.59,Cell Phone Service,Routine,17512
+18-Jun-14,8500.00,Lexis Nexis,Routine,17517
+18-Jun-14,17756.08,Cell Phone Service,Routine,17519
+18-Jun-14,7615.91,Narcotics Field Testing Kit,Routine,17520
+23-Jun-14,512910.00,Squad Cars,Routine,17521
+24-Jun-14,7493.75,GPS Trackers,Surveillance,17524
+1-Jul-14,102805.00,Car Rentals,Routine,17529
+1-Jul-14,9300.00,Computers,Routine,17534
+9-Jul-14,8500.00,Lexis Nexis,Routine,17541
+9-Jul-14,6485.00,Lexis Nexis,Routine,17543
+16-Jul-14,14991.51,Cell Phone Service,Routine,17548
+22-Jul-14,7739.00,Money Counter,Routine,17557
+23-Jul-14,8500.00,Lexis Nexis,Routine,17559
+23-Jul-14,14434.40,Car Repair And Seizure,Routine,17561
+23-Jul-14,105160.15,Car Rentals,Routine,17562
+25-Jul-14,17969.60,Cell Phone Service,Routine,17563
+4-Aug-14,5790.50,Lexis Nexis,Routine,17578
+19-Aug-14,5630.34,Narcotics Destruction,Routine,17607
+20-Aug-14,103346.10,Car Rentals,Routine,17612
+3-Sep-14,8500.00,Lexis Nexis,Routine,17616
+3-Sep-14,5882.00,Lexis Nexis,Routine,17623
+3-Sep-14,15400.25,Cell Phone Service,Routine,17625
+8-Sep-14,7715.04,Narcotics Destruction,Routine,17628
+18-Sep-14,8500.00,Lexis Nexis,Routine,17635
+18-Sep-14,18272.33,Cell Phone Service,Routine,17638
+23-Sep-14,102269.79,Car Rentals,Routine,17642
+24-Sep-14,5811.50,Lexis Nexis,Routine,17643
+6-Oct-14,15182.78,Cell Phone Service,Routine,17668
+15-Oct-14,8500.00,Lexis Nexis,Routine,17678
+20-Oct-14,5886.00,Cell Phone Service,Routine,17681
+21-Oct-14,18493.96,Cell Phone Service,Routine,17688
+24-Oct-14,21926.44,Cell Phone Service,Routine,17698
+24-Oct-14,137171.67,Cell Phone Metadata,Surveillance,17699
+3-Nov-14,104265.00,Car Rentals,Routine,17710
+4-Nov-14,15123.81,Cell Phone Service,Routine,17711
+20-Nov-14,8500.00,Lexis Nexis,Routine,17732
+24-Nov-14,102644.73,Car Rentals,Routine,17737
+25-Nov-14,15064.12,Cell Phone Service,Routine,17741
+1-Dec-14,389823.46,HIDTA Distribution,Routine,17748
+2-Dec-14,24238.92,Cell Phone Service,Routine,17755
+12-Dec-14,5960.00,Narcotics Field Testing Kit,Routine,17763
+12-Dec-14,5894.25,Lexis Nexis,Routine,17765
+17-Dec-14,13994.47,Car Repair And Seizure,Routine,17767
+17-Dec-14,104811.75,Car Rentals,Routine,17769
+2-Jan-15,7190.00,Narcotics Field Testing Kit,Routine,17772
+5-Jan-15,19015.98,Cell Phone Service,Routine,17789
+5-Jan-15,15032.37,Lexis Nexis,Routine,17790
+6-Jan-15,8500.00,Lexis Nexis,Routine,17792
+6-Jan-15,48012.00,Computers,Routine,17795
+15-Jan-15,5811.50,Lexis Nexis,Routine,17811
+22-Jan-15,8500.00,Lexis Nexis,Routine,17820
+23-Jan-15,106382.11,Car Rentals,Routine,17827.Pdf
+3-Feb-15,5716.00,Lexis Nexis,Routine,17844
+4-Feb-15,15221.37,Cell Phone Service,Routine,17849
+6-Feb-15,19408.89,Cell Phone Service,Routine,17851
+9-Feb-15,19980.55,School Prevention Programs,Routine,17852
+11-Feb-15,5884.00,"""Clear Services"" Subscription",Unknown,17864
+18-Feb-15,15083.17,Cell Phone Service,Routine,17870
+23-Feb-15,104790.78,Car Rentals,Routine,17876
+3-Mar-15,8500.25,Lexis Nexis,Routine,17882
+12-Mar-15,19644.76,"""Realinfo Accounts""",Unknown,17889
+18-Mar-15,8500.00,Lexis Nexis,Routine,17906
+19-Mar-15,7193.58,Unknown,Unknown,17911
+23-Mar-15,15087.78,Cell Phone Service,Routine,17914
+1-Apr-15,106650.04,No Foia Response,Unknown,
+3-Apr-15,11418.00,No Foia Response,Unknown,
+10-Apr-15,19570.16,No Foia Response,Unknown,
+20-Apr-15,8500.00,No Foia Response,Unknown,
+24-Apr-15,15102.49,No Foia Response,Unknown,
+27-Apr-15,103033.08,No Foia Response,Unknown,
+4-May-15,18048.79,No Foia Response,Unknown,
+6-May-15,5631.00,No Foia Response,Unknown,
+12-May-15,9283.96,No Foia Response,Unknown,
+13-May-15,6000.00,No Foia Response,Unknown,
+20-May-15,8500.00,Lexis Nexis,Routine,18022
+20-May-15,9018.67,Computers,Routine,18025
+1-Jun-15,105749.29,Car Rentals,Routine,18028
+1-Jun-15,15167.46,Cell Phone Service,Routine,18037
+1-Jun-15,5940.00,Cell Phone Metadata,Surveillance,18040
+3-Jun-15,19570.16,Cell Phone Service,Routine,18071
+3-Jun-15,5808.00,Lexis Nexis,Routine,18074
+15-Jun-15,665950.75,Squad Cars,Routine,18087
+15-Jun-15,6299.40,??? Of St Petersburg Fl,Unknown,18088
+15-Jun-15,136375.00,Cell Site Simulator,Surveillance,18089
+19-Jun-15,8500.00,Lexis Nexis,Routine,18331
+19-Jun-15,6834.09,Narcotics Destruction,Routine,18093
+22-Jun-15,15504.01,Cell Phone Service,Routine,18097
+24-Jun-15,5705.75,Lexis Nexis,Routine,18106
+1-Jul-15,108794.29,Car Rentals,Routine,18108
+9-Jul-15,6174.55,Redacted,Unknown,18120
+10-Jul-15,5154.90,Cameras,Surveillance,18123
+16-Jul-15,8616.01,Computers,Routine,18132
+16-Jul-15,5411.20,Computers,Routine,18134
+20-Jul-15,61771.34,Cell Phone Service,Routine,18147
+20-Jul-15,14980.25,Cell Phone Service,Routine,18142
+20-Jul-15,8500.00,Lexis Nexis,Routine,18144
+27-Jul-15,20447.50,Cell Phone Service,Routine,18155
+3-Aug-15,6344.20,Cameras,Surveillance,18163
+12-Aug-15,5815.00,Lexis Nexis,Routine,18184
+17-Aug-15,108495.66,Car Rentals,Routine,18189
+19-Aug-15,8500.00,Lexis Nexis,Routine,18192
+19-Aug-15,5843.00,Lexis Nexis,Routine,18193
+26-Aug-15,51000.00,Cell Site Simulator,Surveillance,18202
+26-Aug-15,15206.75,Computers,Routine,18203
+26-Aug-15,14213.88,Cell Phone Metadata,Surveillance,18205
+1-Sep-15,17709.95,Narcotics Field Testing Kit,Routine,18215
+1-Sep-15,15821.65,Cell Phone Service,Routine,18218
+1-Sep-15,7000.00,Training And Equipment,Routine,18219
+3-Sep-15,116115.06,Car Rentals,Routine,18226
+10-Sep-15,9333.30,Cell Phone Metadata,Surveillance,18235
+10-Sep-15,13183.50,Computers,Routine,18236
+10-Sep-15,39540.00,Computers,Routine,18238
+11-Sep-15,63980.00,Ads Invoice,Unknown,18240
+11-Sep-15,33275.00,Ads Invoice,Unknown,18241
+23-Sep-15,27200.00,Cell Site Simulator,Surveillance,18252
+23-Sep-15,37700.00,Cell Site Simulator,Surveillance,18253
+1-Oct-15,31741.36,Computers,Routine,18260
+1-Oct-15,8500.00,Lexis Nexis,Routine,18264
+1-Oct-15,11002.99,Shredder,Routine,18266
+1-Oct-15,15425.62,Car Rentals,Routine,18268
+1-Oct-15,112458.16,Cell Phone Service,Routine,18267
+2-Oct-15,21253.20,Computers,Routine,18274
+2-Oct-15,9711.84,Computers,Routine,18271
+2-Oct-15,8916.63,Computers,Routine,18272
+2-Oct-15,5577.85,Cell Phone Service,Routine,18270
+5-Oct-15,10819.38,Redxdefense Training,Unknown,18277
+8-Oct-15,9491.03,Car Repair And Seizure,Routine,18280
+13-Oct-15,16579.55,Cameras,Surveillance,18290
+13-Oct-15,6081.00,Lexis Nexis,Routine,18295
+20-Oct-15,728355.00,Police Radios,Routine,18315
+20-Oct-15,12975.53,Worldwide Technologies Invoice,Unknown,18314
+20-Oct-15,8548.00,Computers,Routine,18316
+20-Oct-15,8500.00,Lexis Nexis,Routine,18308
+21-Oct-15,23600.00,Research Electronics,Unknown,18320
+21-Oct-15,15348.21,Cell Phone Metadata,Surveillance,18318
+2-Nov-15,112194.91,Car Rentals,Routine,18332
+2-Nov-15,21809.00,Cell Phone Service,Routine,18334
+2-Nov-15,18225.96,Computers,Routine,18337
+2-Nov-15,15750.96,Cell Phone Service,Routine,18333
+2-Nov-15,14453.52,Computers,Routine,18340
+2-Nov-15,7947.67,Car Repair And Seizure,Routine,18331
+2-Nov-15,5385.00,Computers,Routine,18336
+2-Nov-15,12837.51,Computers,Routine,18339
+2-Nov-15,8436.02,Computers,Routine,18342
+2-Nov-15,8436.02,Computers,Routine,18343
+2-Nov-15,8812.08,Computers,Routine,18344
+2-Nov-15,7647.90,Computers,Routine,18345
+12-Nov-15,6325.00,Cell Phone Service,Routine,18357
+13-Nov-15,18561.35,Davis Sign Company,Unknown,18361
+16-Nov-15,5224.00,Lexis Nexis,Routine,18362
+17-Nov-15,8500.00,Lexis Nexis,Routine,18369
+2-Dec-15,110729.84,Car Rentals,Routine,18374
+1-Dec-15,68159.50,Cell Phone Metadata,Surveillance,18382
+4-Dec-15,15349.99,Cell Phone Service,Routine,18383
+4-Dec-15,131783.84,Computers,Routine,18384
+8-Dec-15,20683.23,Cell Phone Service,Routine,18388
+10-Dec-15,5355.00,Lexis Nexis,Routine,18389
+10-Dec-15,35192.64,Computers,Routine,18393
+10-Dec-15,35192.64,Computers,Routine,18394
+10-Dec-15,11250.00,Computers,Routine,18395
+10-Dec-15,11567.70,Computers,Routine,18396
+21-Dec-15,8500.00,Lexis Nexis,Routine,18403
+21-Dec-15,9894.00,Police Radios,Routine,18406
+30-Dec-15,12978.45,Car Repair And Seizure,Routine,18422
+30-Dec-15,15459.07,Cell Phone Service,Routine,18424
+30-Dec-15,3205416.21,"All Expenses Below $5,000",,
