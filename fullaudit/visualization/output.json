@@ -3,203 +3,191 @@
         {
             "children": [
                 {
-                    "name": "\"Realinfo Accounts\"", 
+                    "name": "Realinfo Accounts",
                     "size": 19644.76
-                }, 
+                },
                 {
-                    "name": "Ads Invoice", 
-                    "size": 97255.0
-                }, 
+                    "name": "Ads",
+                    "size": 97255.00
+                },
                 {
-                    "name": "Unknown", 
-                    "size": 7193.58
-                }, 
+                    "name": "Research Electronics",
+                    "size": 138870.00
+                },
                 {
-                    "name": "Research Electronics", 
-                    "size": 138870.0
-                }, 
+                    "name": "Redacted",
+                    "size": 205131.12
+                },
                 {
-                    "name": "Redacted", 
-                    "size": 197937.54
-                },  
+                    "name": "Vision Database",
+                    "size": 121172.40
+                },
                 {
-                    "name": "Vision Database", 
-                    "size": 121172.4
-                }, 
-                {
-                    "name": "US Marshalls/CPD”, 
+                    "name": "US Marshals/CPD",
                     "size": 5267.68
-                }, 
+                },
                 {
-                    "name": "Davis Sign Company", 
+                    "name": "Davis Sign Company",
                     "size": 18561.35
-                }, 
+                },
                 {
-                    "name": "Redxdefense Training", 
+                    "name": "Redxdefense Training",
                     "size": 10819.38
-                }, 
+                },
                 {
-                    "name": "Pro-Tech Security Sales Invoice", 
-                    "size": 45470.0
-                }, 
+                    "name": "Pro-Tech Security",
+                    "size": 45470.00
+                },
                 {
-                    "name": "\"Clear Services\" Subscription", 
-                    "size": 5884.0
-                }, 
+                    "name": "Clear Services Subscription",
+                    "size": 5884.00
+                },
                 {
-                    "name": "Worldwide Technologies Invoice", 
+                    "name": "Worldwide Technologies",
                     "size": 12975.53
-                }, 
+                },
                 {
-                    "name": "No FOIA Response", 
-                    "size": 303237.51999999996
-                }, 
+                    "name": "No FOIA Response",
+                    "size": 913084.042
+                },
                 {
-                    "name": "Electronics Services Agency Invoice", 
+                    "name": "Electronics Services Agency",
                     "size": 37400.0
                 }
-            ], 
-            "name": "unknown"
+            ],
+            "name": "Unknown"
         },
      {
             "children": [
                 {
-                    "name": "All Expenses Below $5,000", 
+                    "name": "",
                     "size": 3205416.21
                 }
-            ], 
-            "name": “Outside of Analysis”
-        },  
+            ],
+            "name": "Outside of Analysis"
+        },
         {
             "children": [
                 {
-                    "name": "License Plate Reader", 
-                    "size": 13720.0
-                }, 
-                {
-                    "name": "Black Widow Surveillance", 
-                    "size": 5220.0
-                }, 
-                {
-                    "name": "Cameras", 
-                    "size": 248182.65
-                }, 
-                {
-                    "name": "GPS Trackers", 
-                    "size": 93012.8
-                }, 
-                {
-                    "name": "Cell Site Simulator", 
-                    "size": 417075.0
-                }, 
-                {
-                    "name": "Blue Light Cameras", 
-                    "size": 205000.0
-                }, 
-                {
-                    "name": "Cell Phone Metadata", 
-                    "size": 878317.5700000001
-                }
-            ], 
-            "name": "surveillance"
-        }, 
-        {
-            "children": [
-                {
-                    "name": "Car Repair And Seizure", 
-                    "size": 317392.79000000004
-                }, 
-                {
-                    "name": "Narcotics Field Testing Kit", 
-                    "size": 62338.41
-                }, 
-                {
-                    "name": "Gang Intelligence Report", 
-                    "size": 5239.08
-                }, 
-                {
-                    "name": "DEA Conference", 
-                    "size": 36600.0
-                }, 
-                {
-                    "name": "Cpd Dept Of Fleet Mngmt", 
-                    "size": 17240.45
-                }, 
-                {
-                    "name": "Lexis Nexis", 
-                    "size": 936175.02
-                }, 
-                {
-                    "name": "Postal Equipment", 
-                    "size": 7060.0
-                }, 
-                {
-                    "name": "Star Witness", 
-                    "size": 20100.0
-                }, 
-                {
-                    "name": "Dare Programming", 
-                    "size": 20000.0
-                }, 
-                {
-                    "name": "Narcotics Destruction", 
-                    "size": 32166.670000000002
-                }, 
-                {
-                    "name": "School Prevention Programs", 
-                    "size": 19980.55
-                }, 
-                {
-                    "name": "Shredder", 
-                    "size": 11002.99
-                }, 
-                {
-                    "name": "Cell Phone Service", 
-                    "size": 3238057.299999998
-                }, 
-                {
-                    "name": "Internal Audits", 
-                    "size": 64894.0
-                }, 
-                {
-                    "name": "Computers", 
-                    "size": 976156.8399999999
-                }, 
-                {
-                    "name": "Training And Equipment", 
-                    "size": 443799.3
+                    "name": "License Plate Reader",
+                    "size": 13720.00
                 },
                 {
-                    "name": "Police Radios", 
-                    "size": 738249.0
-                }, 
+                    "name": "Black Widow Surveillance",
+                    "size": 5220.00
+                },
                 {
-                    "name": "Money Counter", 
-                    "size": 7739.0
-                }, 
+                    "name": "Cameras",
+                    "size": 248182.65
+                },
                 {
-                    "name": "Ballistics Lab", 
+                    "name": "GPS Trackers",
+                    "size": 93012.80
+                },
+                {
+                    "name": "Cell Site Simulator",
+                    "size": 417075.00
+                },
+                {
+                    "name": "Blue Light Cameras",
+                    "size": 205000.00
+                },
+                {
+                    "name": "Cell Phone Metadata",
+                    "size": 878317.57
+                }
+            ],
+            "name": "Surveillance"
+        },
+        {
+            "children": [
+                {
+                    "name": "Car Repair And Seizure",
+                    "size": 334632.24
+                },
+                {
+                    "name": "Narcotics Field Testing Kit",
+                    "size": 62338.41
+                },
+                {
+                    "name": "Gang Intelligence Report",
+                    "size": 5239.08
+                },
+                {
+                    "name": "DEA Conference",
+                    "size": 36600.0
+                },
+                {
+                    "name": "Lexis Nexis",
+                    "size": 936175.02
+                },
+                {
+                    "name": "Postal Equipment",
+                    "size": 7060.00
+                },
+                {
+                    "name": "Star Witness",
+                    "size": 20100.00
+                },
+                {
+                    "name": "DARE Programming",
+                    "size": 20000.0
+                },
+                {
+                    "name": "Narcotics Destruction",
+                    "size": 32166.67
+                },
+                {
+                    "name": "School Prevention Programs",
+                    "size": 19980.55
+                },
+                {
+                    "name": "Shredder",
+                    "size": 11002.99
+                },
+                {
+                    "name": "Cell Phone Service",
+                    "size": 3244669.05
+                },
+                {
+                    "name": "Internal Audits",
+                    "size": 64894.0
+                },
+                {
+                    "name": "Computers",
+                    "size": 976156.84
+                },
+                {
+                    "name": "Training And Equipment",
+                    "size": 443799.30
+                },
+                {
+                    "name": "Police Radios",
+                    "size": 738249.00
+                },
+                {
+                    "name": "Money Counter",
+                    "size": 7739.00
+                },
+                {
+                    "name": "Ballistics Lab",
                     "size": 869668.11
-                }, 
+                },
                 {
-                    "name": "At&T Trunking", 
-                    "size": 6612.05
-                }, 
+                    "name": "Car Rentals",
+                    "size": 7680092.67
+                },
                 {
-                    "name": "Car Rentals", 
-                    "size": 7680092.669999999
-                }, 
-                {
-                    "name": "Squad Cars", 
+                    "name": "Squad Cars",
                     "size": 2737340.33
-                }, 
+                },
                 {
-                    "name": "HIDTA Distribution", 
+                    "name": "HIDTA Distribution",
                     "size": 389823.46
                 }
-            ], 
-            "name": "routine"
+            ],
+            "name": "Routine"
         }
-    ], 
-    "name": "cpd"
+    ],
+    "name": "CPD Expenditures"
 }

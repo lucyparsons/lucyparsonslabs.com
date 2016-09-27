@@ -155,18 +155,18 @@ Date,Amount,Purchase,Category,Check Number
 23-Jun-11,129020.01,Car Rentals,Routine,15745
 27-Jun-11,11245.00,Computers,Routine,15747
 8-Jul-11,5901.00,Lexis Nexis,Routine,15763
-25-Jul-11,16746.28,Cell Phone Service,Routine,15778.Pdf
+25-Jul-11,16746.28,Cell Phone Service,Routine,15778
 4-Aug-11,44520.00,Research Electronics,Unknown,15786
 4-Aug-11,128777.97,Car Rentals,Routine,15788
 8-Aug-11,9625.00,Cell Phone Metadata,Surveillance,15793
 8-Aug-11,33617.49,Cell Phone Service,Routine,15801
 8-Aug-11,30977.40,Cell Phone Service,Routine,15802
-16-Aug-11,5552.50,Lexis Nexis,Routine,15805.Odf
+16-Aug-11,5552.50,Lexis Nexis,Routine,15805
 16-Aug-11,27407.53,Cell Phone Service,Routine,15809
 17-Aug-11,8500.00,Lexis Nexis,Routine,15810
 17-Aug-11,17960.19,Cell Phone Service,Routine,15826
 26-Aug-11,8500.00,Lexis Nexis,Routine,15826
-1-Sep-11,5955.39,Cell Phone Service,Routine,15830.Pdf
+1-Sep-11,5955.39,Cell Phone Service,Routine,15830
 1-Sep-11,5200.00,Cell Phone Service,Routine,15836
 1-Sep-11,138467.13,Car Rentals,Routine,15847
 13-Sep-11,17309.03,Cell Phone Service,Routine,15860
@@ -206,16 +206,16 @@ Date,Amount,Purchase,Category,Check Number
 16-Feb-12,17276.52,Cell Phone Service,Routine,16092
 23-Feb-12,8503.50,Lexis Nexis,Routine,16102
 27-Feb-12,71408.31,Car Rentals,Routine,16104
-6-Mar-12,117007.63,Car Rentals,Routine,16130.Pdf
+6-Mar-12,117007.63,Car Rentals,Routine,16130
 6-Mar-12,6262.55,Redacted,Unknown,
-9-Mar-12,25553.83,Cell Phone Service,Routine,16144.Pdf
-14-Mar-12,8501.50,Redacted,Unknown,16150.Pdf
-14-Mar-12,18244.10,Cell Phone Service,Routine,16151.Pdf
-16-Mar-12,6960.00,Redacted,Unknown,16152.Pdf
-20-Mar-12,136448.53,Car Rentals,Routine,16159.Pdf
-2-Apr-12,6374.50,Redacted,Unknown,16172.Pdf
-2-Apr-12,5267.68,Us Marshalls Service/Cpd,Unknown,16173.Pdf
-4-Apr-12,8400.00,DEA Conference,Routine,16191.Pdf
+9-Mar-12,25553.83,Cell Phone Service,Routine,16144
+14-Mar-12,8501.50,Redacted,Unknown,16150
+14-Mar-12,18244.10,Cell Phone Service,Routine,16151
+16-Mar-12,6960.00,Redacted,Unknown,16152
+20-Mar-12,136448.53,Car Rentals,Routine,16159
+2-Apr-12,6374.50,Redacted,Unknown,16172
+2-Apr-12,5267.68,Us Marshals Service/CPD,Unknown,16173
+4-Apr-12,8400.00,DEA Conference,Routine,16191
 17-Apr-12,25591.07,Cell Phone Service,Routine,16230
 17-Apr-12,16729.07,Cell Phone Service,Routine,16233
 18-Apr-12,8504.50,Lexis Nexis,Routine,16244
@@ -435,7 +435,7 @@ Date,Amount,Purchase,Category,Check Number
 6-Jan-15,48012.00,Computers,Routine,17795
 15-Jan-15,5811.50,Lexis Nexis,Routine,17811
 22-Jan-15,8500.00,Lexis Nexis,Routine,17820
-23-Jan-15,106382.11,Car Rentals,Routine,17827.Pdf
+23-Jan-15,106382.11,Car Rentals,Routine,17827
 3-Feb-15,5716.00,Lexis Nexis,Routine,17844
 4-Feb-15,15221.37,Cell Phone Service,Routine,17849
 6-Feb-15,19408.89,Cell Phone Service,Routine,17851

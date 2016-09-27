@@ -29,15 +29,38 @@
       <p>
         Since 2015, Lucy Parsons Labs has obtained approximately six hundred checks related to the Chicago Police Department's use of civil asset forfeiture. This page contains a searchable and sortable repository of these records, as well as all the checks we've obtained since 2009. There are links to the Freedom of Information Act (FOIA) requests, the results of each request, and the check amounts. We also invite you to read our full investigation into CPD's use of civil asset forfeiture in the <a href="link to article">Chicago Reader</a>.
       </p>
-      <p>
-        Our investigation found that the majority of the civil asset forfeiture funds (known as the "1505" fund) went to pay for the everyday prosecution of the War on Drugs. Alarmingly, the 1505 fund has been used to purchase a large portion of the Chicago Police Department's surveillance equipment. This includes controversial equipment such as IMSI catchers (commonly known as Stingrays), Automatic License Plate Readers, "blue light cameras" (or PODs), and PenLINK equipment. You can find surveillance equipment by sorting the categories tab.
-      </p>
-      <p>
-        The Chicago Police Department collected between $4.7 million and $9.3 million annually from 2009 to 2015. Between January 2010 and March 2016, $16 million, or about 80 percent of these larger payments, was spent on the day-to-day operations of the Bureau of Organized Crime. In 2015, the Bureau of Organized Crime received $77 million in its official budget. That year's additional forfeiture income was $4.7 million, nearly 6 percent of its total budget. Yet the forfeiture fund was already flush with cash from previous years: at the end of October 2015, the bureau had more than $17 million in its forfeiture checking and savings accounts. An <a href="https://github.com/lucyparsons/1505analysis/blob/master/MARTINEZv.CPD-RESPONSIVE%20RECORDS1505AUDIT.pdf">internal CPD audit (PDF)</a> obtained by Lucy Parsons Labs breaks down some of BoC expenses by category. In 2010, $267,000 was used for equipment and tools, $28,000 for office supplies, and almost $1 million for telephonic equipment and services.
-      </p>
-      <p>
-        <b>Note:</b> There are unknowns in the data set due to liberal use of redactions by the Chicago Police's FOIA Department as well as unfulfilled requests. If you would like to submit an FOIA request for missing checks, find checks that have a missing requester name and send an email to <i></i>info AT lucyparsonslabs DOT com</i>. This audit began using records from 2009 to the present but it is our hope to continue this project into the future.
-      </p>
+      <div class="text-center">
+        <button type="button" class="btn btn-default btn-lg more-info-button"
+                data-toggle="modal" data-target="#myModal">
+          Background Information
+        </button>
+      </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+              <h4 class="modal-title" id="myModalLabel">Background Information</h4>
+            </div>
+            <div class="modal-body">
+            <p>
+              Our investigation found that the majority of the civil asset forfeiture funds (known as the "1505" fund) went to pay for the everyday prosecution of the War on Drugs. Alarmingly, the 1505 fund has been used to purchase a large portion of the Chicago Police Department's surveillance equipment. This includes controversial equipment such as IMSI catchers (commonly known as Stingrays), Automatic License Plate Readers, "blue light cameras" (or PODs), and PenLINK equipment. You can find surveillance equipment by sorting the categories tab.
+            </p>
+            <p>
+              The Chicago Police Department collected between $4.7 million and $9.3 million annually from 2009 to 2015. Between January 2010 and March 2016, $16 million, or about 80 percent of these larger payments, was spent on the day-to-day operations of the Bureau of Organized Crime. In 2015, the Bureau of Organized Crime received $77 million in its official budget. That year's additional forfeiture income was $4.7 million, nearly 6 percent of its total budget. Yet the forfeiture fund was already flush with cash from previous years: at the end of October 2015, the bureau had more than $17 million in its forfeiture checking and savings accounts. An <a href="https://github.com/lucyparsons/1505analysis/blob/master/MARTINEZv.CPD-RESPONSIVE%20RECORDS1505AUDIT.pdf">internal CPD audit (PDF)</a> obtained by Lucy Parsons Labs breaks down some of BoC expenses by category. In 2010, $267,000 was used for equipment and tools, $28,000 for office supplies, and almost $1 million for telephonic equipment and services.
+            </p>
+            <p>
+              <b>Note:</b> There are unknowns in the data set due to liberal use of redactions by the Chicago Police's FOIA Department as well as unfulfilled requests. If you would like to submit an FOIA request for missing checks, find checks that have a missing requester name and send an email to <i></i>info AT lucyparsonslabs DOT com</i>. This audit began using records from 2009 to the present but it is our hope to continue this project into the future.
+            </p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <h3>The data visualized</h3>
       <div id="graph-legend"></div>
