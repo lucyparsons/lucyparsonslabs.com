@@ -6,8 +6,16 @@ header:
     permalink: /projects/
 ---
 
-### A joint project with MuckRock   
+## Investigation Data
 
+The results of our investigation of the use of civil forfeiture by Chicago
+Police from 2009-2015 were published in [the Chicago
+Reader](http://www.chicagoreader.com/chicago/police-department-civil-forfeiture-investigation/Content?oid=23728922)
+in September 2016. View our current asset forfeiture data archive here:
+
+# [Launch LPL Narcotics Audit Data](https://lucyparsonslabs.com/fullaudit/)
+
+## Our joint project with Muckrock   
 
 [Remaining checks to FOIA](/projects/checks)
 
