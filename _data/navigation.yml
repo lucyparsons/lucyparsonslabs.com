@@ -47,7 +47,6 @@
   - title: "Chicago Police: Fatal Shootings"
     url: "/resources/"
 
-
 - title: Links
   url: "/"
   side: left
@@ -61,6 +60,9 @@
   url: "/blog/"
   side: left
 
+- title: DONATE
+  url: "/donate/"
+  side: left
 
 #
 #   Navigation to the right › side: right
