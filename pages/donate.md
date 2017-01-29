@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/donate/"
 ---
 
-All of the work done by Lucy Parsons Labs is volunteer funded and directed. Below are two ways you can help fund transperancy in Chicago through our work with either a monthly subscription and a one-time lumpsum donation.
+All of the work done by Lucy Parsons Labs is volunteer funded and directed. Below are two ways you can help fund transparency in Chicago through our work with either a monthly subscription or a one-time lump sum donation.
 
 ## Monthly Support
 <b></b>
