@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/donate/"
 ---
 
-All of the work done by Lucy Parsons Labs is volunteer funded and directed. Below are two ways you can help fund transparency in Chicago through our work with either a monthly subscription or a one-time lump sum donation.
+All of the work done by Lucy Parsons Labs is volunteer funded and directed. Below are three ways you can help fund transparency in Chicago through our work with either a monthly subscription, a one-time lump sum donation or if you'd like to donate funds to us pseudonymously with Bitcoin.
 
 ## Monthly Support
 <b></b>
@@ -37,3 +37,10 @@ All of the work done by Lucy Parsons Labs is volunteer funded and directed. Belo
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+## Bitcoin
+<b></b>
+![bitcoin](/images/BTCWalletQR.jpg){: .center-image }
+
+[1JEwcx2gK5GYpFC1SAeXBCTX9mj2MjqSdE](https://blockchain.info/address/1JEwcx2gK5GYpFC1SAeXBCTX9mj2MjqSdE)
+
