@@ -4,7 +4,7 @@ title: "Contact"
 meta_title: "Contact Us"
 subheadline: ""
 teaser: ""
-permalink: "/contact/"
+permalink: "/about/contact/"
 ---
 
 Our members use a variety of messaging protocols, so if you are uncomfortable using email, please attempt to contact us over another method (Signal, Pond, OTR...etc). *Disclaimer*: All details of all our members modes of communications are not available here...
