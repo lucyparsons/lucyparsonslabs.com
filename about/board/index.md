@@ -2,7 +2,7 @@
 layout: page
 title: Board of Directors
 header: no
-permalink: "/board/"
+permalink: "/about/board/"
 ---
 
 ## Freddy Martinez, Director

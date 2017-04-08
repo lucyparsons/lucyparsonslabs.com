@@ -12,9 +12,13 @@
   - title: "About LPL"
     url: "/about/"
   - title: "Board of Directors"
-    url: "/board/"
+    url: "/about/board/"
   - title: "In the Press"
-    url: "/media/"
+    url: "/about/media/"
+  - title: "Contact Us" 
+    url: "/about/contact/"
+  - title: "Warrant Canary"
+    url: "/about/canary/"
 
 - title: "Projects"
   url: "/projects/"
@@ -24,10 +28,10 @@
     url: "/projects/"
   - title: "Primer on Chicago Surveillance"
     url: "/projects/primer/"
-  - title: "OpenOversight"
-    url: "/projects/openoversight/"
   - title: "Stingray"
     url: "/projects/stingray/"
+  - title: "Chicago Police: Fatal Shootings"
+    url: "/projects/shootings/"
 
 - title: "SecureDrop"
   url: "/securedrop/"
@@ -37,46 +41,20 @@
     url: "/securedrop/"
   - title: "Privacy Policy"
     url: "/securedrop/privacypolicy"
-  - title: "Journalists" 
-    url: "/securedrop/journalism"
 
-- title: "Resources"
-  url: "/resources/"
+- title: "OpenOversight"
+  url: "/openoversight/"
   side: left
-  dropdown:
-  - title: "Chicago Police: Fatal Shootings"
-    url: "/resources/"
-
-- title: Links
-  url: "/"
-  side: left
-  dropdown:
-  - title: "Warrant Canary"
-    url: "/canary/"
 
 - title: Blog
   url: "/blog/"
-  side: left
-
-- title: DONATE
+  side: left 
+- title: Donate
   url: "/donate/"
   side: left
-
 - title: Shop
   url: "https://lucyparsonslabs.bigcartel.com/"
   side: left
-
-#
-#   Navigation to the right › side: right
-#
-- title: "Info"
-  url: "/info/"
-  side: right
-
 - title: "Search"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
+  side: left
