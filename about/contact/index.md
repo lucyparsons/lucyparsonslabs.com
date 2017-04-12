@@ -7,12 +7,15 @@ teaser: ""
 permalink: "/about/contact/"
 ---
 
-Our members use a variety of messaging protocols, so if you are uncomfortable using email, please attempt to contact us over another method (Signal, Pond, OTR...etc). *Disclaimer*: All details of all our members modes of communications are not available here...
+Our members use a variety of messaging protocols, so if you are
+uncomfortable using email please attempt to contact us over another
+method (Signal, Pond, OTR...etc). *Disclaimer*: not all details of all
+our members modes of communications are not available here...
 
 If you are an activist who would like to get in contact with Lucy Parsons Labs to do a security training for your group, please email us at info AT lucyparsonslabs DOT com.
 
 **MEDIA INQUIRIES**  
-All media inquiries should be sent to media AT lucyparsonslabs DOT com. We hope to answer all requests within one week, however if you are on deadline, please let us know. Delays in responding to media request are largely because we hope to discuss all requests on a consensus basis.
+All media inquiries should be sent to media AT lucyparsonslabs DOT com. We hope to answer all requests within one week. However, if you are on deadline, please let us know. Our consensus-based approach can sometimes slow our response time to media requests.
 
 
 ### You can contact the Director of LPL, Freddy Martinez using his GPG key
