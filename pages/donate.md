@@ -10,7 +10,7 @@ permalink: "/donate/"
 
 ----------------------------
 
-All of the work done by Lucy Parsons Labs is volunteer funded and directed.. Below you can fund Lucy Parsons Labs through PayPal, YouCaring, or Bitcoin. 
+Lucy Parsons Labs is entirely volunteer funded and directed. Below you can fund Lucy Parsons Labs through PayPal, YouCaring, or Bitcoin. 
 
 Note: We are an IRS 501(c)3 not-for-profit and all donations are tax deductable!
 
@@ -24,7 +24,7 @@ Note: We are an IRS 501(c)3 not-for-profit and all donations are tax deductable!
 
 ![Paypal](/images/paypal.jpg)
 
-You are also able to send us donations directly using your PayPal account at [PayPal.Me/lucyparsonslabs](https://PayPal.Me/lucyparsonslabs)
+You can also send us donations directly using your PayPal account at [PayPal.Me/lucyparsonslabs](https://PayPal.Me/lucyparsonslabs)
 
 ## Bitcoin
 ![bitcoin](/images/BTCWalletQR.jpg){: .center-image }
