@@ -8,7 +8,7 @@ header:
 
 ------------------------
 
-Lucy Parsons Labs is collaborating with journalists on Black Rose. If you would like them to handle your documents directly, you should encrypt documents first to their GPG keys first before uploading to Black Rose. 
+Lucy Parsons Labs is collaborating with journalists on Black Rose. If you would like them to handle your documents directly, encrypt documents to their GPG keys first before uploading to Black Rose.
 
 ### Paul Gottinger
 ![Paul](/images/journalists/Gottinger.jpeg)
