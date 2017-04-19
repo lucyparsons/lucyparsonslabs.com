@@ -41,7 +41,7 @@ We retain these access logs for seven days, and then delete them.
 
 Lucy Parsons Labs works diligently to protect the identities of our sources and keep the information they give us confidential.
 
-SecureDrop servers are always under the physical control of Lucy Parsons Labs and and seperated from other Lucy Parsons Labs infrastructure.
+SecureDrop servers are always under the physical control of Lucy Parsons Labs and are separated from other Lucy Parsons Labs infrastructure.
 
 However, no one can guarantee 100% security of any system. Like all software, SecureDrop may contain bugs. Ultimately, you use the SecureDrop service at your own risk. 
 
