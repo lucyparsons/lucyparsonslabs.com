@@ -19,17 +19,16 @@ widget2:
   title: "Current Projects"
   url: 'https://www.muckrock.com/project/opening-the-chicago-surveillance-fund-25/'
   image: /images/BOCImages.jpg 
-  text: 'We have a current partnership with MuckRock, the FOIA transparency organization, into the Chicago Police Departments use of 1505 funds. Similar to asset forfeiture, 1505 is a slush fund that CPD maintains, with a large portion of their purchases going into surveillance equipment.'
+  text: 'We have a current partnership with MuckRock, the FOIA transparency organization, into the Chicago Police Departments use of 1505 funds. Based on civil asset forfeiture, 1505 is a slush fund that CPD maintains, with a significant portion of their purchases going into purchasing surveillance equipment.'
 
 widget3:
-  title: "In the Media"
+  title: "OpenOversight"
   image: /images/satellitedish_scaled.jpg
-  url: '/media/'
-  text: 'Our members have been the media, either talking about our projects or their own involvement in technical issues in Chicago. If you would like to take a look, please click the link!'
-
+  url: '/openoversight/'
+  text: 'OpenOversight is a Lucy Parsons Labs project to improve police accountability using public and crowdsourced data. We maintain a database of police officers and provide a digital gallery that allows the public to identify the name and badge number of a police officer they would like to file a complaint about.'
 
 callforaction:
-  url: /contact/
+  url: '/about/contact/'
   text: Get in touch to learn more about LPL ›
   style: alert
 permalink: /index.html
