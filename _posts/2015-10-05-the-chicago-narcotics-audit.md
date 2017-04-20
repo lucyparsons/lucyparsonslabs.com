@@ -27,7 +27,7 @@ image:
 #  caption: ""
 #  url: ""
 ---
-Through the last year and a half we have worked diligently using FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD). Through multiple FOIA requests and lawsuits [0], we have demonstrated the CPD's purchase and use of controversial "Stingray" cellphone surveillance devices [1] among other new surveillance technologies. Also through this work we have seen Chicago Police acting in "bad faith" [2] in fulfilling our FOIA requests.
+Over the last year and a half we have worked diligently using FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD). Through multiple FOIA requests and lawsuits [0], we have demonstrated the CPD's purchase and use of controversial "Stingray" cellphone surveillance devices [1] among other new surveillance technologies. Also through this work we have seen Chicago Police acting in "bad faith" [2] in fulfilling our FOIA requests.
 
 Further investigation of the equipment owned by CPD demonstrated that money to purchase surveillance gear was originating from a '1505 / 1505 ML' fund - an asset forfeiture fund. According to Chicago Police "the statutory authority for Department '1505' seizures can be found in the Controlled Substances Act (720 ILCS 570), the Cannabis Control Act (720 ILCS 550), and the Methamphetamine Control and Community Protection Act (720 ILCS 646). The statutory authority for '1505 ML' seizures can be found in the Criminal Code of 2012 (720 ILCS 5/Art. 29(b) 'Money Laundering'".
 
