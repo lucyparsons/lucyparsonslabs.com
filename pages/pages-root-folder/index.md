@@ -23,12 +23,12 @@ widget2:
 
 widget3:
   title: "OpenOversight"
-  image: /images/satellitedish_scaled.jpg
+  image: /images/OOfrontpage.png
   url: '/openoversight/'
   text: 'OpenOversight is a Lucy Parsons Labs project to improve police accountability using public and crowdsourced data. We maintain a database of police officers and provide a digital gallery that allows the public to identify the name and badge number of a police officer they would like to file a complaint about.'
 
 callforaction:
-  url: '/about/contact/'
+  url: '/contact/'
   text: Get in touch to learn more about LPL ›
   style: alert
 permalink: /index.html
