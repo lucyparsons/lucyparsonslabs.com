@@ -26,7 +26,7 @@ To begin our analysis, we take the address of the shooting and/or cross streets 
 ### Scanner Traffic
 After you have identified where the shooting occurred, you need to replay the [police scanner traffic](https://github.com/freddymartinez9/miscfoiamirror/blob/master/Zone11ShootingScanner/CPDBoxingDayShooting.mp3) of the date in question. You'll likely hear it on a particular Zone. It will rarely be on CityWide (CW) 2 or CW6 but it is possible. In the example above, we listened on Zone 2 for the shooting. You should cross reference a scanner guide like this [one found online](https://github.com/freddymartinez9/miscfoiamirror/blob/master/ChicagoScannerFrequencies.pdf) 
 
-![Districts](../images/CPDDistricts.png)
+![Districts](/images/CPDDistricts.png)
 
 Once you've identified the Zone, you need to retrieve a copy of the Scanner traffic. You could either a) FOIA for it from the Office of Emergency Management and Communications (OEMC) or (b) download it from a resource like Broadcastify or other paid scanner webpages. OEMC will almost certainly block your FOIA, but its worth a shot (if they do turn down your request, contact us). Using that information, you can identify who responded to the dispatch call. In the example for the Chicago Reader, we heard the beat car responding was "1172 Robert" but that only provides the beat car number. 
 
