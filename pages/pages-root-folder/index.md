@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-   image_fullwidth: alpr.jpg
+   image_fullwidth: 'headers/logoheader.png'
 
 
 widget1:
