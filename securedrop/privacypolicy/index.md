@@ -1,9 +1,8 @@
 ---
 layout: page
 title: SecureDrop Privacy Policy 
-header:
-    image_fullwidth: "headers/black-rose.jpg"
-    permalink: /securedrop/privacypolicy/
+header: no
+permalink: /securedrop/privacypolicy/
 ---
 
 March 26th, 2016

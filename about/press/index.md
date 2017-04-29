@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Press
-header:
-    image_fullwidth: "RekiaBoyd.jpg"
-#permalink: /media/
+header: no
+permalink: /about/press/
 ---
 
 ## Collaborations
