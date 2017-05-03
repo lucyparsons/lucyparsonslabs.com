@@ -1,5 +1,5 @@
 .jekyll-metadata
-_site/
+_site/**
 .sass-cache/
 *.swp
 *.swo
