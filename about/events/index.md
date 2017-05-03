@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Conferences and Events
-header:
-    image_fullwidth: "RekiaBoyd.jpg"
+header: no
 ---
 
 ## Conferences  

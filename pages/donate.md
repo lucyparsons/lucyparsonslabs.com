@@ -1,9 +1,7 @@
 ---
 layout: page
 title: "Donate"
-meta_title: "Donate"
-subheadline: ""
-teaser: ""
+header: no
 permalink: "/donate/"
 ---
 

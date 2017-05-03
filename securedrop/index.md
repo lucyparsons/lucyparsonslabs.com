@@ -1,9 +1,8 @@
 ---
 layout: page
 title: SecureDrop 
-header:
-    image_fullwidth: "headers/black-rose.jpg"
-    permalink: /projects/securedrop/
+header: no
+permalink: /securedrop/
 ---
 
 ------------------------
