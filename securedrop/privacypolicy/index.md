@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SecureDrop Privacy Policy 
+title: SecureDrop Privacy Policy
 header: no
 permalink: /securedrop/privacypolicy/
 ---
@@ -42,9 +42,9 @@ Lucy Parsons Labs works diligently to protect the identities of our sources and 
 
 SecureDrop servers are always under the physical control of Lucy Parsons Labs and are separated from other Lucy Parsons Labs infrastructure.
 
-However, no one can guarantee 100% security of any system. Like all software, SecureDrop may contain bugs. Ultimately, you use the SecureDrop service at your own risk. 
+However, no one can guarantee 100% security of any system. Like all software, SecureDrop may contain bugs. Ultimately, you use the SecureDrop service at your own risk.
 
-Please be aware that the LPL also maintains a [Warrant Canary](/canary/). Please pay careful attention to it. 
+Please be aware that the LPL also maintains a [Warrant Canary](/about/canary/). Please pay careful attention to it.
 
 ### Changes to This Policy
 
@@ -52,4 +52,4 @@ We may revise this Privacy Policy from time to time. The most current version of
 
 ### Contact
 
-Lucy Parsons Labs welcomes questions, concerns, and feedback about this policy. If you have suggestions for us, feel free to let us know at info AT lucyparsonslabs DOT com. *NEVER* use this email address to contact us about a submission. 
+Lucy Parsons Labs welcomes questions, concerns, and feedback about this policy. If you have suggestions for us, feel free to let us know at info AT lucyparsonslabs DOT com. *NEVER* use this email address to contact us about a submission.

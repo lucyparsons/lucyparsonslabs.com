@@ -7,7 +7,7 @@ header:
     image_fullwidth: canary-logo.png
     background-color: "#f9c948"
     caption_url: https://canarywatch.org/
-    permalink: "/canary/"
+    permalink: "/about/canary/"
 ---
 
 ~~~~~

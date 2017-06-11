@@ -21,6 +21,6 @@ If you are attempting to contact us to use our SecureDrop instance, please read 
 * Please do not lose the code name which will be assigned to you when you submit documents. We will use that code name to message you back if we need to. Previous messages will be automatically destroyed after we contact you. 
 * Source requests as to how the material should be handled are important to us and we will respect them. Please in your submission include any additional requests, e.g. if you would like the data to be immediately published vs. worked on by a specific journalist, if you would like the data to be withheld until after a specific date, etc.
 
-After uploading to us, we will review your submission and pass it on to a [journalists](/securedrop/journalism/) with access to our SecureDrop instance. Please keep a close eye on our [Warrant Canary](/canary/) which we update manually every month.
+After uploading to us, we will review your submission and pass it on to a journalist with access to our SecureDrop instance. Please keep a close eye on our [Warrant Canary](/about/canary/) which we update manually every month.
 
 The Lucy Parsons Labs would like to thank the Freedom of the Press Foundation (in particular Kevin Gallagher), the Tor Project, Tails, our legal counsel, the technical community, and Club Mate.
