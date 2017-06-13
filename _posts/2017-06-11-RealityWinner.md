@@ -16,7 +16,7 @@ tags:
 #
 header: no
 image:
- thumb: "image/courage.jpeg"
+ thumb: "courage.jpeg"
 ---
 
 ![RealityWinner](/images/blogimages/reality-winner.jpg)
