@@ -28,11 +28,11 @@ The remaining defendants face 75-80 years in federal prison, all for participati
 in protest action.
 
 DC police detained
-journalists, legal observers as well as protestors during the J20 protests.
+journalists, legal observers and protestors during the J20 protests.
 DC police are [being sued](https://www.buzzfeed.com/zoetillman/the-aclu-is-suing-dc-police-over-inauguration-day-arrests)
 by ACLU for using excessive force and making unlawful arrests.
 
-Citizen journalists' and protestors being jailed for holding the government
+Citizen journalists and protestors being jailed for holding the government
 accountable is unacceptable in any free society.
 
 We encourage our supporters to donate to defray the legal costs for the [J20
