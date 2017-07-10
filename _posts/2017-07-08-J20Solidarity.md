@@ -16,7 +16,8 @@ tags:
 #
 header: no
 image:
- thumb: "thumbs/statecapital.jpg"
+  thumb: "thumbs/disruptj20.png"
+
 ---
 
 Lucy Parsons Labs strongly opposes the harassment and oppression of
