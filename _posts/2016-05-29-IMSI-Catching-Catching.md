@@ -21,7 +21,7 @@ image:
 
 This is an area with which I have a good bit of experience. I have spoken about Stingrays at conferences including [DEF CON](https://www.youtube.com/embed/JyTb5mJOYL) and [THOTCON](https://github.com/freddymartinez9/securitytalks/tree/master/Thotcon) and wrote a [guide for protests.](https://github.com/freddymartinez9/securitytalks/blob/master/IMSICatchersForActivists.md) The Lucy Parsons Labs has spent over a year seeking evidence of IMSI Catcher use at Chicago-area demonstrations. 
 
-While our research has returned interesting data, over the last year we have found no confirmed hits of catchers in use at protests in Chicago. Our methodology faces critical technical limitations in both hardware and software, described below. (Note: In this blog post, the quoted text is from the email we received that sought our help.)
+While our research has returned interesting data, over the last year we have found no confirmed hits of IMSI catchers in use at protests in Chicago. Our methodology faces critical technical limitations in both hardware and software, described below. (Note: In this blog post, the quoted text is from the email we received that sought our help.)
 
 > There's a strong feeling in the activist communities around the country there is some sort of cell phone surveillance going on during protests, that is possibly being used to monitor/disrupt communication and identify protest leaders, but no one has yet been able to prove it in a solid manner.
 
