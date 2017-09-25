@@ -26,8 +26,8 @@
   url: "/projects/"
   side: left
   dropdown:
-  - title: "The Narcotics Audit"
-    url: "/projects/"
+  - title: "Civil Asset Forfeiture"
+    url: "/projects/assetforfeiture"
   - title: "Primer on Chicago Surveillance"
     url: "/projects/primer/"
   - title: "Stingray"
