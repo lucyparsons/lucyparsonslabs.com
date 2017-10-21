@@ -1,9 +1,7 @@
 ---
-layout: page
-title: "Documents expose how Cook County's Civil Asset Forfeiture hits the poor the hardest"
-#
-# Content
-#
+layout: post
+title: "Civil Asset Forfeiture: Poor Hit the Hardest"
+image: /images/blogimages/forfeiture-map856-bw.jpg
 author: freddy_martinez
 teaser: "A new report by Reason based on documents obtained by Lucy Parsons Labs shows that civil asset forfeiture primarily targets the poor. Our documents are an archive directly from the State's Attorney's office which include all money seized with amounts, their exact GPS location, as well as cars, electronics and miscellaneous amounts seized. It is a follow-up on a previous investigation by Lucy Parsons Labs, Joel Handley and the Chicago Reader."
 categories:
@@ -11,18 +9,15 @@ categories:
 tags:
   - journalism
   - investigation
-#
-# Styling
-#
-header: no
-image:
- thumb: "thumbs/statecapital.jpg"
 ---
 
 This week, *Reason* published an article titled "Poor Neighborhoods Hit Hardest by Asset Forfeiture in Chicago, Data Shows". Based on documents provided by Lucy Parsons Labs, *Reason* analyzed over [23,000 civil asset forfeitures](http://reason.com/blog/2017/06/13/poor-neighborhoods-hit-hardest-by-asset) over the past five years. These documents are the result of many months of LPL investigating the demographics of civil asset forfeiture after [our larger investigation with Joel Handley](https://www.chicagoreader.com/chicago/police-department-civil-forfeiture-investigation/Content?oid=23728922) in the *Chicago Reader*.  
 
-![Seizures](/images/blogimages/forfeiture-map856.jpg)
-**Image via Reason**
+<figure>
+	<a href="/images/blogimages/forfeiture-map856-bw.jpg"><img src="/images/blogimages/forfeiture-map856-bw.jpg"></a>
+	<figcaption>Image via Reason</figcaption>
+</figure>
+
 
 In a statement to *Reason*, Lucy Parsons Labs writes:
 

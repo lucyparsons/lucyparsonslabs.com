@@ -1,9 +1,6 @@
 ---
-layout: page 
+layout: post 
 title: "Lucy Parson Labs Members File a Pair of Lawsuits"
-#
-# Content
-#
 author: freddy_martinez
 teaser: "LPL members sue Chicago Police Department for failing to comply with FOIA."
 categories:
@@ -12,16 +9,10 @@ tags:
   - foia
   - chicago
   - projects
-#
-# Styling
-#
-
-header: 
- image_fullwidth: "image/BlogLawsuit.png"
-image:
- thumb: "thumbs/StampedCopy.png"
-
 ---
+
+![letters](/images/BlogLawsuit.png)
+![letters](/images/thumbs/StampedCopy.png)
 
 Chicago, IL - Last week a pair of lawsuits were filed on behalf of two Lucy Parsons Labs members against the Chicago Polic
 e Department for failing to comply with the Illinois Freedom of Information Act (FOIA) [0] [1] . The suits were brought on
@@ -40,12 +31,13 @@ ts which LPL members had previously previously sued over.
 
 However, the Chicago Police Department (CPD) has not been complying fully with the Freedom of Information Act - often not responding or not providing documents in full. FOIA is a critical tool for government accountability and transparency. This important tool is significantly weakened if public bodies like CPD willfully violate the law and do not fully hand over documents to citizens trying to determine how public funds are being spent. These two lawsuits will help ensure compliance with the law. 
 
-<blockquote>
-<br>
-[0] https://github.com/lucyparsons/1505-documents/blob/master/Lawsuits/freddy_lawsuit_CPD3.pdf
-<br>
-[1] https://github.com/lucyparsons/1505-documents/blob/master/Lawsuits/jen_lawsuit_CPD2.pdf
-<br>
-[2] https://github.com/lucyparsons/1505-documents/blob/master/IMSI%20Catchers%20(Checks%20unknown)/CPD_FOIAResponse15-0098.pdf
-</blockquote>
+
+References
+
+[0]: https://github.com/lucyparsons/1505-documents/blob/master/Lawsuits/freddy_lawsuit_CPD3.pdf
+
+[1]: https://github.com/lucyparsons/1505-documents/blob/master/Lawsuits/jen_lawsuit_CPD2.pdf
+
+[2]: https://github.com/lucyparsons/1505-documents/blob/master/IMSI%20Catchers%20(Checks%20unknown)/CPD_FOIAResponse15-0098.pdf
+
 

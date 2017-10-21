@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Lucy Parsons Labs' SecureDrop instance"
-#
-# Content
-#
+image: /images/blackrose2.png
 teaser: "SecureDrop is a platform for leaking documents to journalists securely and without compromising sources. The team at LPL is happy to announce Black Rose, our implementation of SecureDrop in Chicago. To date, we are the only group in Chicago operating an instance and will using alongside journalists to help expose corruption."
 categories:
   - leaks
@@ -11,14 +9,9 @@ tags:
   - technical
   - Chicago
   - leaks
-#
-# Styling
-#
-header: no
-image: 
- thumb: "thumbs/blackrose.jpg"
 ---
 
+![letters](/images/thumbs/blackrose.jpg)
 SecureDrop is an _open-source_ whistleblower platform built on anonymity and strong encryption to protect data and the identity of sources. Lucy Parsons Labs has built an instance of SecureDrop that we are naming **"Black Rose"** and are proud to announce that it is now live. SecureDrop relies on several excellent technical projects and is completely segmented from other infrastructure that LPL uses. Since our servers are running as a Tor Hidden Service, submissions will not be tied to any personal information including IP addresses, names, or physical locations. 
 
 As a transparency organization, we believe that supporting leaks and whistleblowers is absolutely crucial. LPL believes that leaks are _the_ best mechanism for opening up governments, corporations and other institutions of power. Beyond running these platforms, it is important to decentralize access and control of information and we hope that Black Rose will contribute to that cause. We recognize that institutions like the Mayor's Office and the Chicago Police Department have a long history of criminal acts hidden from the public. We want to open up these institutions and others for public scrutiny and need help from those with access to information to do so. The data that is leaked we can immediately publish or we can work with [our affiliated journalists](link) to report on the data provided by a source. We will totally respect the wishes of sources in this matter. 

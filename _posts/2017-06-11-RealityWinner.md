@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Solidarity with accused leaker of NSA material #RealityWinner"
-#
-# Content
-#
+image: images/courage.jpeg
 author: freddy_martinez
 teaser: "The Lucy Parsons Labs stands with Reality Winner, who was arrested last week and accused of leaking material to The Intercept. We applaud Courage Foundation for launching a campaign to support her and call on our supporters to stand with her."
 categories:
@@ -11,12 +9,6 @@ categories:
 tags:
   - security
   - whistleblowing
-#
-# Styling
-#
-header: no
-image:
- thumb: "courage.jpeg"
 ---
 
 ![RealityWinner](/images/blogimages/reality-winner.jpg)
@@ -36,3 +28,5 @@ It was only a matter of time before the Trump Administration brought the full fo
 </blockquote>
 
 We thank the Courage Foundation for their work advocating for Reality Winner. As noted by [Jason Leopold](https://twitter.com/JasonLeopold/status/868282679900258304), it seems that this only the first of many leak prosecutions we are going to see from the Department of Justice under the current regime. Unfortunately, this a historical trend that was set under the [Obama administration](https://twitter.com/FreedomofPress/status/864903262549311488) which we should expect to continue to see. We invite you to listen to the [DeleteUrAcct podcast](http://deleteyouraccount.libsyn.com/help-from-our-friends), our Director was recently on it to discuss this case and the implication for press freedom. 
+
+![Courage](/images/courage.jpeg)

@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: post
 title: "LPL Investigates Use of Civil Asset Forfeiture by Chicago Police"
-#
-# Content
-#
+image: /images/fob-feature_civ_forfeiture-900.jpg
 author: lpl
 teaser: "Chicago Police seize money from residents and use it to 
 purchase surveillance technology and continue the war on drugs"
@@ -14,14 +12,9 @@ tags:
   - surveillance
   - journalism
   - investigation
-#
-# Styling
-#
-header: 
- image_fullwidth: "headers/reader.jpg"                                                   
-image:
- thumb: "thumbs/MuckRock.png"
+
 ---
+
 
 Lucy Parsons Labs, in collaboration with local journalist Joel Handley and the
 Chicago Reader, has published an investigation of the use of civil asset
@@ -48,3 +41,8 @@ request on our behalf. Finally, this work would not be possible without the hard
 * John Bumstead, our FOIA commander
 
 
+<figure class="half">
+    <a href="/images/thumbs/MuckRock.png"><img src="/images/thumbs/MuckRock.png"></a>
+    <a href="/images/fob-feature_civ_forfeiture-900.jpg"><img src="/images/fob-feature_civ_forfeiture-900.jpg"></a>
+    <figcaption>MuckRock and Reader</figcaption>
+</figure>

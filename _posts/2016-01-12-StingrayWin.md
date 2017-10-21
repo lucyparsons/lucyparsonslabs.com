@@ -1,9 +1,6 @@
 ---
-layout: page
+layout: post
 title: "LPL Member Wins in Court to Force Release of Stingray Documents"
-#
-# Content
-#
 author: freddy_martinez
 teaser: "The Director of Lucy Parsons Labs wins motions to force the release of documents related to Stingray use in Chicago"
 categories:
@@ -12,17 +9,6 @@ tags:
   - stingray
   - Chicago
   - FOIA
-#
-# Styling
-#
-header: no
-image:
- thumb: "thumbs/StingrayThumb.jpg"
-#  header: ""
-#  thumb: ""
-#  homepage: ""
-#  caption: ""
-#  url: ""
 ---
 
 Chicago, IL - In a victory for the Lucy Parsons Labs, Cook County Judge Kathleen G. Kennedy [rejected the Chicago Police Department's](http://arstechnica.com/tech-policy/2016/01/chicago-police-must-finally-produce-stingray-records-judge-orders/) motions to dismiss a lawsuit related to Stingray deployments. Freddy Martinez brought the lawsuit against the Chicago Police Department in September 2014 to produce records on how the Chicago Police deploys IMSI Catchers in Chicago under Illinois

@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Solidarity with Dane Powell and the J20 Protestors"
-#
-# Content
-#
+image: images/j20.png
 author: jennifer_helsby
 teaser: "Lucy Parsons Labs stands in solidarity with all those arrested at the Inauguration protests in Washington D.C."
 categories:
@@ -11,14 +9,8 @@ categories:
 tags:
   - solidarity
   - activism
-#
-# Styling
-#
-header: no
-image:
-  thumb: "thumbs/disruptj20.png"
-
 ---
+![alt]({{ site.url }}/images/j20-title.jpg)
 
 Lucy Parsons Labs strongly opposes the harassment and oppression of
 those arrested during the #DisruptJ20 resistance to the Donald Trump inauguration.
@@ -38,3 +30,6 @@ accountable is unacceptable in any free society.
 
 We encourage our supporters to donate to defray the legal costs for the [J20
 defendants here](http://defendj20resistance.org/support#statement).
+
+
+![alt]({{ site.url }}/images/thumbs/disruptj20.png)

@@ -1,9 +1,6 @@
 ---
-layout: page
+layout: post
 title: "We Uphold These Principles..."
-#
-# Content
-#
 teaser: "We uphold these principles by fighting for transparency and freedom in culture, code, and law."
 categories:
   - technology
@@ -12,18 +9,9 @@ tags:
   - digital rights
   - surveillance
   - technology
-#
-# Styling
-#
-header: no
-image:
- thumb: "thumbs/eff-logo.png"
-#  header: ""
-#  thumb: ""
-#  homepage: ""
-#  caption: ""
-#  url: ""
 ---
+
+![Stingray](/images/EFA-banner-3.png)
 
 Lucy Parsons Labs was founded by technologists and scientists who believe in free expression, security, privacy, creativity, and access to knowledge. We live and work with these guiding principles in our lives each and every day, in both our personal and professional roles. We are serious about them.
 

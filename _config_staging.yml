@@ -1,6 +1,0 @@
-# Staging-specific overrides for the site
-#
-
-# This URL is the main address for absolute links. Don't include a slash at the end.
-#
-url: 'https://staging.lucyparsonslabs.com'

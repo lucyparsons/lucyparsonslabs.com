@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Lucy Parsons Labs Launches OpenOversight"
-#
-# Content
-#
+image: /images/thumbs/cpdthumb.jpg
 author: lpl
 teaser: "Lucy Parsons Labs has launched a new police accountability tool -- OpenOversight -- based on public records and open source data collection on Chicago Police "
 categories:
@@ -11,18 +9,14 @@ categories:
 tags:
   - accountability
   - chicago
-#
-# Styling
-#
-header:
-    image_fullwidth: "headers/nonato.jpg"
-image:
- thumb: "thumbs/cpdthumb.jpg"
+
+
 ---
 
-####Contact: *media* AT *lucyparsonslabs* DOT *com*
------------
-CHICAGO 10/18/16 -- In support of demands for greater police accountability in Chicago and nationwide, Illinois nonprofit The Lucy Parsons Labs is launching “[OpenOversight](https://openoversight.lucyparsonslabs.com/),” an interactive web tool that makes it easier for Chicago residents to file complaints against police officers. 
+
+In support of demands for greater police accountability in Chicago and nationwide, Illinois nonprofit The Lucy Parsons Labs is launching “[OpenOversight](https://openoversight.lucyparsonslabs.com/),” an interactive web tool that makes it easier for Chicago residents to file complaints against police officers. 
+
+![prtt](/images/OpenOversight.png)
 
 Using OpenOversight, members of the public can search for the names and badge numbers of Chicago police they have negative interactions with based on the officer's estimated age, race and gender. Using this information, the OpenOversight web application returns a digital gallery of potential matches and, when possible, includes pictures of officers in uniform to assist in identification.
 

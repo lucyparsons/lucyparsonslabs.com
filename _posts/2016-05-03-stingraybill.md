@@ -1,9 +1,6 @@
 ---
-layout: page 
+layout: post 
 title: "Lucy Parson Labs Supports ACLU-IL Stingray Warrant Requirements Bill"
-#
-# Content
-#
 teaser: "Lucy Parson Labs Supports ACLU-IL Stingray Warrant Requirements Bill"
 categories:
   - stingray
@@ -12,19 +9,12 @@ tags:
   - aclu
   - surveillance
   - technology
-#
-# Styling
-#
-header: no
-image:
- thumb: "thumbs/StingrayThumb.jpg"
-#  header: ""
-#  thumb: ""
-#  homepage: ""
-#  caption: ""
-#  url: ""
 ---
+
 Official Release from Lucy Parsons Labs, 03 May 2016
+
+![StingRay](/images/thumbs/StingrayThumb.jpg)
+
 
 Humans should be free from invisible, ubiquitous and suspicionless surveillance by law enforcement. Surveillance systems are felt unequally among different populations: the poor, people of color, undocumented workers, for example, will feel a much higher burden from surveillance on their communities. As a policy of harm reduction towards these communities and the public writ large, we support SB2343 which enacts the Citizen Privacy Protection Act. 
 

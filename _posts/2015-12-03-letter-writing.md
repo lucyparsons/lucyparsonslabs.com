@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Lucy Parson Labs Hold Letter Writing Party"
 #
 # Content
