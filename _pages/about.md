@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: About LPL
-sitemap: false
+image: /images/Up71Icopy.jpg
 permalink: /about/index.html
 ---
 

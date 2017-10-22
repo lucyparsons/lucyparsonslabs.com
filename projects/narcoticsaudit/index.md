@@ -1,9 +1,8 @@
 ---
 layout: page
 title: The Narcotics Audit
-header:
-    image_fullwidth: "ChicagoSunrise.jpg"
-    permalink: /projects/
+image: images/harrisequip-rot2.png
+permalink: /projects/narcoticsaudit
 ---
 
 ## Investigation Data

@@ -2,6 +2,7 @@
 layout: post
 subheadline: "The Narcotics Audit"
 title: "A joint project with MuckRock"
+image: /images/cpd2-pxlsrt.jpg
 author: freddy_martinez
 teaser: "Through the last year and a half we have worked diligently using FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD)."
 categories:
@@ -23,7 +24,7 @@ We have a current project in the works with MuckRock, the transparency group, to
 
 Furthermore we have seen Chicago Police spying on Black Lives Matter activists [9], possibly using these same surveillance devices funded via asset forfeiture [10]. We have also seen Chicago Police spending [11] hundreds of thousands of dollars to maintain secrecy around their surveillance devices by fighting citizens using FOIA.
 
-#References
+<!-- References -->
 
 [0]: http://arstechnica.com/tech-policy/2014/09/after-small-victory-in-stingray-case-chicago-man-seeks-more-records/
 [1]: http://arstechnica.com/tech-policy/2014/06/is-chicago-using-cell-tracking-devices-one-man-tries-to-find-out/ 

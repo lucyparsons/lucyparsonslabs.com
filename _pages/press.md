@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: LPL Press
-sitemap: false
+image: /images/wireless2.jpg
 permalink: /about/press/index.html
 ---
 

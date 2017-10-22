@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Supporting SB689, the Seizure and Forfeiture Reporting Act in Illinois"
+title: "Supporting SB689, the Seizure & Forfeiture Reporting Act"
 author: freddy_martinez
 teaser: "IL SB689 is a bill that seeks to reform the civil asset forfeiture process in Illinois. Lucy Parsons Labs submitted our support for it with some important feedback."
 categories:

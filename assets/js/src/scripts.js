@@ -13,6 +13,13 @@ $('.projects-menu-icon').click(function() {
   $('.overlay').toggleClass('show');
 });
 
+var toggleVisibility = function(element) {
+    if(element.style.display=='block'){
+        element.style.display='none';
+    } else {
+        element.style.display='block';
+    }
+};
 
 // All others
 $(document).ready(function() {

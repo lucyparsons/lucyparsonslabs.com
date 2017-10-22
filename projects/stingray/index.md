@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Stingray Investigation
-header:
-    image_fullwidth: "alpr.jpg"
-    permalink: /projects/stingray/
+image: /images/wireless2.jpg
+permalink: /projects/stingray/
 ---
 
 -----------------------

@@ -1,13 +1,10 @@
 ---
-layout: page
+layout: post
 show_meta: false
 title: "Warrant Canary"
 teaser: "Is the National Security State asking us about you?"
-header:
-    image_fullwidth: canary-logo.png
-    background-color: "#f9c948"
-    caption_url: https://canarywatch.org/
-    permalink: "/projects/canary/"
+image: images/canary-pxlsrt.jpg
+permalink: "/projects/canary/"
 ---
 
 ~~~~~
@@ -15,3 +12,5 @@ header:
 ~~~~~
 > This message can be updated with any LPL member's GPG key. [What the heck is this?](https://canarywatch.org)
 
+
+![Canary Watch](/images/canary-logo.png)

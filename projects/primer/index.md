@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Primer on Chicago Surveillance 
-header:
-    image_fullwidth: "alpr.jpg"
-    permalink: /projects/primer/
+image: images/alpr.jpg
+permalink: /projects/primer/
 ---
 
 Chicago is one of the most heavily surveilled cities in the world. Cameras, automatic license plate readers, cell site simulators and many other surveillance devices are currently used in the city by the Chicago Police Department and its sister agencies. However, many citizens are unaware of the scope of the surveillance systems, their huge cost, and the privacy implications of their use. Lucy Parsons Labs has written a primer on police surveillance devices in the city, and will be updating it as we learn more through our [audit in collaboration with Muckrock](https://www.muckrock.com/project/opening-the-chicago-surveillance-fund-25/) and our other investigations. 

@@ -17,7 +17,9 @@ layout: compress
         <p style="font-size: 16px;">
           digital rights | civic transparency | data liberation
         </p>
-        <a href="{{ site.url }}/support" class="btn notice">DONATE</a>
+        <p>
+        <a href="{{ site.url }}/support"><span class="donate">DONATE</span></a>
+        </p>
       </div>
     </div>
     <canvas></canvas>
@@ -26,22 +28,24 @@ layout: compress
   <div class="block-right">
     {% include nav.html %}
 
-<!-- THIS BIT IS THE TROUBLE -->
-<!-- CAN'T SEEM TO RESTYLE  -->
-<!-- OR EVEN EDIT THE JS TO TARGET THE NEW NAV'S PROJECTS -->
-      <a href="{{ site.url }}/posts" title="posts" class="posts-menu-icon"></a>
-      <span class="posts-link">POSTS</span>
-<!-- SPECIFICALLY, SOMETHING WITH THE PROEJCTS LINK & CSS? -->
-      <a title="project" class="projects-menu-icon">
-        <span></span>
-      </a>
-      <span class="projects-link">PROJECTS</span>
-<!-- END BAD BIT -->
-
     <div class="content">
       <div class="about-info">
         {{ content }}
-              {% include social-links.html %}
+
+        <hr>
+
+        <a href="{{ site.url }}/securedrop" class="btn" style="width:30%">Secure Drop</a>
+        <a href="{{ site.url }}/projects/openoversight" class="btn" style="width:30%">Open Oversight</a>
+        <a onclick="toggleVisibility(document.getElementById('overlay'))" class="btn" style="width:30%">More Projects...</a>
+
+
+        <hr>
+
+
+        {% include social-links.html %}
+
+
+
       </div>
     </div>
   </div>

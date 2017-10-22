@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Whois LPL
-sitemap: false
+image: images/chhacknight3.jpg
 permalink: /about/whois/index.html
 ---
 

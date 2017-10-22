@@ -1,34 +1,44 @@
 - title: Stingray Investigations
-  url: 
-  image: 
+  url: /projects/stingray/
+  image: /images/wireless2.jpg
   completed: true
 
 - title: Chicago Surveillance Primer
-  url: 
-  image: 
+  url: /projects/primer/
+  image: /images/alpr2.png
+  completed: true
+
+- title: Secure Drop
+  url: /projects/securedrop/
+  image: /images/blackrose2.png
   completed: true
 
 - title: Open Oversight
-  url: 
-  image: 
+  url: /projects/openoversight/
+  image: /images/nonatocrop.jpg
   completed: true
 
 - title: CPD Fatal Shootings
-  url: 
-  image: 
+  url: /projects/fatalshootings/
+  image: /images/target2.png
   completed: true
 
 - title: Asset Forfeiture
-  url: 
-  image: 
+  url: /projects/assetforfeiture/
+  image: /images/blogimages/forfeiture-map856-bw.jpg
+  completed: true
+
+- title: The Narcotics Audit
+  url: /projects/narcoticsaudit/
+  image: images/harrisequip-rot2.png
   completed: true
 
 - title: Data Liberation
   url: 
-  image: 
-  completed: true
+  image: images/datalib2.jpg
+  completed: false
 
 - title: FOIA Your Own Adventure
   url: 
-  image: 
+  image: images/gen.jpg
   completed: false

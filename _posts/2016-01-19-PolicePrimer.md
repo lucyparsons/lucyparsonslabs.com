@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Primer on Police Surveillance Tech in Chicago"
+image: images/cpd-camera-srt2.jpg
 author: jen_helsby
 teaser: "Chicago is one of the most heavily surveilled cities in the world. We have written a guide that summarizes the surveillance technologies currently in use, explores individual technologies, summarizes how they are paid for and describes their efficacy."
 categories:

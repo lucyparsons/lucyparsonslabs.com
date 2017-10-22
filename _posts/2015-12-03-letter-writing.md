@@ -1,26 +1,10 @@
 ---
 layout: post
 title: "Lucy Parson Labs Hold Letter Writing Party"
-#
-# Content
-#
+image: images/letterwriting.jpg
 author: lucy_parsons_labs
 teaser: "LPL members held a letter writing campaign for political prisoners."
-categories:
-  - prisons
-tags:
-  - prisons
-  - chicago
-  - projects
-#
-# Styling
-#
-header: no
-image:
-  thumb: "thumbs/LetterWriting.jpg"
-#  homepage: ""
-#  caption: ""
-#  url: ""
+
 ---
 
 Chicago, IL - The Lucy Parsons Lab recently sat down with activists, a cute dog, and friends to write letters to prisoners for the holidays. The LPL member compiled a list of prisoners and another friend host our event. So around a big kitchen table we wrote over forty letters and postcards to an array of prisoners.

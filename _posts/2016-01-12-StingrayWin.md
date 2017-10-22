@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "LPL Member Wins in Court to Force Release of Stingray Documents"
+title: "LPL Forces Release of Stingray Documents"
+image: /images/disdenied-noise2.png
 author: freddy_martinez
 teaser: "The Director of Lucy Parsons Labs wins motions to force the release of documents related to Stingray use in Chicago"
 categories:
@@ -24,4 +25,7 @@ The City of Chicago presented additional arguments that releasing information of
 It was therefore ruled that the Chicago Police Department must produce responsive records to Judge Kennedy by January 25th, at which time she will review the documents *in camera* and then rule which records are exempt from disclosure. Lucy Parsons Labs will share more information in this space as we gather it. 
 
 The Lucy Parsons Labs would like to express our thanks to Matt Topic, Josh Burday, Andy Thayer, the entire Loevy and Loevy firm, Craig Futterman and his legal assistants (we apologize for not having the exact names of those assistants.) 
+
+
+![letters](/images/dismissdenied-noise.png)
 
