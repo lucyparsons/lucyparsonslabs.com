@@ -2,7 +2,7 @@
 layout: page
 title: The Narcotics Audit
 image: images/harrisequip-rot2.png
-permalink: /projects/narcoticsaudit
+permalink: /projects/narcoticsaudit/
 ---
 
 ## Investigation Data

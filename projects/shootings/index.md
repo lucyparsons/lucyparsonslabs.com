@@ -3,7 +3,7 @@ layout: page
 title: Identifying CPD Officers Who Have Killed
 author: freddy_martinez
 image: images/target2.png
-permalink: /projects/fatalshootings
+permalink: /projects/fatalshootings/
 ---
 
 ## Background
