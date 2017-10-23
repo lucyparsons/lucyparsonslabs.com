@@ -1,4 +1,5 @@
 ---
+layout: page
 show_meta: false
 title: "Warrant Canary"
 teaser: "Is the National Security State asking us about you?"
