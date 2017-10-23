@@ -1,0 +1,38 @@
+<nav class="topnav">
+  <ul>
+    <li><a href="{{ site.url }}/posts/">Posts</a><!--
+ --><ul class="subnav sub1"><!--
+    
+    --></ul><!--
+ --></li><!--
+ --><li><a onclick="toggleVisibility(document.getElementById('overlay'))" class="projectsnav">Projects</a><!--
+ --></li><!--
+         --><li class="three"><a href="{{ site.url }}/about">About</a><!--
+ --><ul class="subnav sub3"><!--
+         --><li><a href="{{ site.url }}/about/whois">Whois</a></li><!--
+         --><li><a href="{{ site.url }}/about/press">Press</a></li><!--
+         --><li><a href="{{ site.url }}/about/events">Events</a></li><!--
+         --><li><a href="{{ site.url }}/about/canary">Warrant Canary</a></li><!--
+         --><li><a href="{{ site.url }}/contact">Contact</a></li><!--
+    --></ul><!--
+ --></li><!--
+ --><li><a href="{{ site.url }}/support/">Support</a><!--
+ --><ul class="subnav sub4"><!--
+         --><li><a href="{{ site.url }}/support/">Donate</a></li><!--
+         --><li><a href="https://lucyparsonslabs.bigcartel.com/" target="_blank">Merch</a></li><!--
+         --></ul><!--
+ --></li>
+  </ul>
+</nav>
+
+
+<script>
+  var toggleVisibility = function(element) {
+    if(element.style.display=='block'){
+        element.style.display='none';
+    } else {
+        element.style.display='block';
+    }
+};
+
+</script>

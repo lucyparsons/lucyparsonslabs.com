@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: post
 title: "The State of IMSI Catching Catching"
-#
-# Content
-#
+image: images/stingray2.jpg
 author: freddy_martinez
 teaser: "Recently, the Lucy Parsons Labs was sent an email about detecting IMSI catchers, often called Stingrays, at protests. Our experience detecting IMSI catchers in the last year is below."
 categories:
@@ -11,13 +9,10 @@ categories:
 tags:
   - technology
   - surveillance
-#
-# Styling
-#
-header: no
-image:
- thumb: "thumbs/StingrayThumb.jpg"
 ---
+
+
+![Stingray](/images/stingray-device.jpg)
 
 This is an area with which I have a good bit of experience. I have spoken about Stingrays at conferences including [DEF CON](https://www.youtube.com/embed/JyTb5mJOYL) and [THOTCON](https://github.com/freddymartinez9/securitytalks/tree/master/Thotcon) and wrote a [guide for protests.](https://github.com/freddymartinez9/securitytalks/blob/master/IMSICatchersForActivists.md) The Lucy Parsons Labs has spent over a year seeking evidence of IMSI Catcher use at Chicago-area demonstrations. 
 

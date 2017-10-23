@@ -60,7 +60,7 @@ def publish_to_s3(additional_configs, s3_bucket)
     config = '_config.yml'
   end
   sh "bundle exec jekyll build --config #{config}"
-  puts Publishing the contents of _site to s3 bucket #{s3_bucket}"
-  sh "aws s3 sync _site s3://#{s3_bucket}/ --delete"
+  puts "Publishing the contents of _site to s3 bucket #{s3_bucket}"
+  sh "aws s3 sync _site s3://#{s3_bucket}/ --delete --cache-control 'max-age=5'"
 end
 

@@ -1,0 +1,56 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body id="homepage">
+
+  <div class="block-left">
+    <div class="content">
+      <div class="main-info">
+        <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.homelogo }}"></a>
+        <h1>
+          {{ site.title }}
+        </h1>
+        <p style="font-size: 16px;">
+          digital rights | civic transparency | data liberation
+        </p>
+        <p>
+        <a href="{{ site.url }}/support"><span class="donate">DONATE</span></a>
+        </p>
+      </div>
+    </div>
+    <canvas></canvas>
+  </div>
+
+  <div class="block-right">
+    {% include nav.html %}
+
+    <div class="content">
+      <div class="about-info">
+        {{ content }}
+
+        <hr>
+
+        <a href="{{ site.url }}/securedrop/" class="btn" style="width:30%">Secure Drop</a>
+        <a href="{{ site.url }}/projects/openoversight/" class="btn" style="width:30%">Open Oversight</a>
+        <a onclick="toggleVisibility(document.getElementById('overlay'))" class="btn" style="width:30%">More Projects...</a>
+
+
+        <hr>
+
+
+        {% include social-links.html %}
+
+
+
+      </div>
+    </div>
+  </div>
+  {% include overlay.html %}
+  {% include scripts.html %}
+  <!-- <script src="{{ site.url }}/assets/js/canvas.js"></script> -->
+</body>
+</html>

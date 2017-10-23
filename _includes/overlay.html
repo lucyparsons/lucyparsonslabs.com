@@ -1,0 +1,55 @@
+<div id="overlay">
+<div 
+onclick="toggleVisibility(document.getElementById('overlay'))"
+style="
+   top:14px;
+   right:14px;
+   position:fixed;
+   cursor:pointer;
+   width:40px;
+   height:40px;
+   border:8px solid #B82630;
+   border-radius:29px;
+   background-color:#B82630;
+   overflow:visible;
+   z-index: 20;
+">
+   <div 
+   style="
+      text-align:center;
+      font-size:32px;
+      line-height:39px;
+      font-weight:bold;
+      color:#ffffff;
+      height:40px;
+      width:40px;
+      position:absolute;
+      top:50%;
+      left:50%;
+      margin-top:-20px;
+      margin-left:-20px;
+      padding-top:0px;
+   ">X</div>
+</div>
+
+
+
+  <ul class="projects-menu">
+    {% for item in site.data.projects %}
+      {% capture image %}{{ item.image }}{% endcapture %}
+      {% unless image contains 'http://' or image contains 'https://' %}
+      {% capture image %}{{ site.url }}/{{ image }}{% endcapture %}
+      {% endunless %}
+      <li style="background:url({{ image }}) center center no-repeat;">
+        <a href="{{ item.url }}" {% unless item.completed %}class="inactive"{% endunless %} rel="nofollow external">
+          <span>
+            {{ item.title }}
+            {% unless item.completed %}
+            <br><em>in progress</em>
+            {% endunless %}
+          </span>
+        </a>
+        </li>
+    {% endfor %}
+  </ul>
+</div>

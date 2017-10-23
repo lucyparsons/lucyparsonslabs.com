@@ -1,6 +1,8 @@
-# Staging-specific overrides for the site
 #
+# This config-file is only needed for development. Instead of changing the url
+# everytime you work locally on the project, you start both config-files, overwriting
+# the first one with the development variables needed.
+#
+# Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-# This URL is the main address for absolute links. Don't include a slash at the end.
-#
 url: 'https://staging.lucyparsonslabs.com'

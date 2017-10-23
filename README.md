@@ -5,7 +5,7 @@ This is the main repository for the core website of the Lucy Parsons Labs.
 ## Who We Are
 The Lucy Parsons Labs is a Chicago-based collaboration between data scientists, transparency activists,
 and technologists which focuses on the intersection of digital rights and on-the-streets issues.
-The core group is made up of data scientists, sysadmins, and activists with a goal of merging these issues 
+The core group is made up of data scientists, sysadmins, artists, and activists with a goal of merging these issues 
 into a functional non-profit.   
 
 ## What We Do

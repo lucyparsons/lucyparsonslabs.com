@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Civil Asset Forfeiture
-header: no
+image: images/blogimages/forfeiture-map856-bw.jpg
 permalink: /projects/assetforfeiture/
 ---
 
@@ -11,7 +11,7 @@ Civil asset forfeiture is a process by which police and prosecutors keep cash, c
 
 Before we began investigating CPD's use of civil forfeiture, no one knew how much money the department made through the process or how it spent its secret income. After numerous FOIA requests and lawsuits, Lucy Parsons Labs—in collaboration with Muckrock, independent journalist Joel Handley, and the _Chicago Reader_—liberated the full record of CPD's forfeiture income and expenditures from 2009 through 2015.  For the first time Chicagoans could see that CPD took between $4 million and $9 million from citizens every year. Without any outside oversight, CPD used this money to wage its daily war on drugs—through routine payments for police vehicles, computers, and cell phones—and to purchase controversial surveillance equipment like Stingray cell-phone tracking equipment, Automatic License Plate Readers, and PENLink equipment, all without any public record.
 
-Separately, Lucy Parsons Labs analyzed more than [23,000 civil asset foreitures](https://lucyparsonslabs.com/journalism/HitsThePoor/) within Cook County and determined that the vast majority took place in the parts of Chicago and the county that are already the most heavily policed: poor, predominantly black and brown neighborhoods on the city's South and West Sides. This work was cited by the [_Washington Post_](https://www.washingtonpost.com/news/the-watch/wp/2017/06/13/chicago-civil-asset-forfeiture-hits-poor-people-the-hardest/?utm_term=.a89dc128f535) and [_Reason_](http://reason.com/blog/2017/06/13/poor-neighborhoods-hit-hardest-by-asset) as evidence of discriminatory policing.
+Separately, Lucy Parsons Labs analyzed more than [23,000 civil asset foreitures](https://lucyparsonslabs.com/posts/HitsThePoor/) within Cook County and determined that the vast majority took place in the parts of Chicago and the county that are already the most heavily policed: poor, predominantly black and brown neighborhoods on the city's South and West Sides. This work was cited by the [_Washington Post_](https://www.washingtonpost.com/news/the-watch/wp/2017/06/13/chicago-civil-asset-forfeiture-hits-poor-people-the-hardest/?utm_term=.a89dc128f535) and [_Reason_](http://reason.com/blog/2017/06/13/poor-neighborhoods-hit-hardest-by-asset) as evidence of discriminatory policing.
 
 You can read our full investigation, "Inside the Chicago Police Department's Secret Budget," at the *[Chicago Reader](https://www.chicagoreader.com/chicago/police-department-civil-forfeiture-investigation/Content?oid=23728922)*. You can learn more about our collaboration with Muckrock and how we conducted the investigation [here](https://www.chicagoreader.com/Bleader/archives/2016/09/29/how-we-pulled-back-the-curtain-on-cpds-secret-spending). And you can peruse our [searchable database](https://lucyparsonslabs.com/fullaudit/) of the more than 560 checks we obtained from CPD.
 
