@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SecureDrop 
-image: /images/blackrose2.png
+image: images/blackrose2.png
 permalink: projects/securedrop/
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Illinois Legislature Passes Civil Asset Forfeiture Reform"
-image: /images/blogimages/ForfeitureHeatMap-bw.jpg
+image: images/blogimages/ForfeitureHeatMap-bw.jpg
 author: freddy_martinez
 teaser: "The Illinois Legislature became the latest body to pass comprehensive reforms around civil asset forfeiture with HB 303. This bill creates strong reporting requirements, raises the level of evidence needed for forfeitures and expedites hearings for innocent victims of seizures. The bill awaits signing by the Governor."
 categories:

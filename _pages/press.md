@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LPL Press
-image: /images/wireless2.jpg
+image: images/wireless2.jpg
 permalink: /about/press/index.html
 ---
 

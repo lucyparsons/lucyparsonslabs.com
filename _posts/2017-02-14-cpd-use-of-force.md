@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPD Use of Deadly Force Training"
-image: /images/shootdontshoot.gif
+image: images/shootdontshoot.gif
 author: freddy_martinez
 teaser: "According to a recent DOJ report, CPD was using a 35 year old video on the use of deadly force by officers. Included in that report was a suggestion that one CPD recruit 'appeared to be sleeping' which prompted us to FOIA for the video."
 categories:

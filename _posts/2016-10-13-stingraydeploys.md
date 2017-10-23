@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lucy Parsons Labs obtains records of Stingray Deployments in Chicago"
-image: /images/stingray4.jpg
+image: images/stingray4.jpg
 author: freddy_martinez
 teaser: "Recently LPL settled a lawsuit with the City of Chicago over Stingray use. Here's what we found"
 categories:

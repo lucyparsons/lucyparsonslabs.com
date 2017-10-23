@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LPL Forces Release of Stingray Documents"
-image: /images/disdenied-noise2.png
+image: images/disdenied-noise2.png
 author: freddy_martinez
 teaser: "The Director of Lucy Parsons Labs wins motions to force the release of documents related to Stingray use in Chicago"
 categories:

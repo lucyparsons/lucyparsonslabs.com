@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Civil Asset Forfeiture
-image: /images/blogimages/forfeiture-map856-bw.jpg
+image: images/blogimages/forfeiture-map856-bw.jpg
 permalink: /projects/assetforfeiture/
 ---
 

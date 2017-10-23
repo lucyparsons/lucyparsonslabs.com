@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stingray Investigation
-image: /images/wireless2.jpg
+image: images/wireless2.jpg
 permalink: /projects/stingray/
 ---
 

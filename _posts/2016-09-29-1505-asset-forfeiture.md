@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LPL Investigates Use of Civil Asset Forfeiture by Chicago Police"
-image: /images/fob-feature_civ_forfeiture-900.jpg
+image: images/fob-feature_civ_forfeiture-900.jpg
 author: lpl
 teaser: "Chicago Police seize money from residents and use it to 
 purchase surveillance technology and continue the war on drugs"

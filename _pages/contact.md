@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact LPL
-image: /images/disdenied-noise2.png
+image: images/disdenied-noise2.png
 permalink: /contact/index.html
 ---
 

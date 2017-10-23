@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About LPL
-image: /images/Up71Icopy.jpg
+image: images/Up71Icopy.jpg
 permalink: /about/index.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lucy Parsons Labs' SecureDrop instance"
-image: /images/blackrose2.png
+image: images/blackrose2.png
 teaser: "SecureDrop is a platform for leaking documents to journalists securely and without compromising sources. The team at LPL is happy to announce Black Rose, our implementation of SecureDrop in Chicago. To date, we are the only group in Chicago operating an instance and will using alongside journalists to help expose corruption."
 categories:
   - leaks

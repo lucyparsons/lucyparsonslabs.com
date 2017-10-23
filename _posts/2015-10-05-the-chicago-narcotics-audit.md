@@ -2,7 +2,7 @@
 layout: post
 subheadline: "The Narcotics Audit"
 title: "A joint project with MuckRock"
-image: /images/cpd2-pxlsrt.jpg
+image: images/cpd2-pxlsrt.jpg
 author: freddy_martinez
 teaser: "Through the last year and a half we have worked diligently using FOIA to investigate the use of surveillance equipment by the Chicago Police Department (CPD)."
 categories:

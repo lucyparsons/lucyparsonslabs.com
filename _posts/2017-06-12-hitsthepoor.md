@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Civil Asset Forfeiture: Poor Hit the Hardest"
-image: /images/blogimages/forfeiture-map856-bw.jpg
+image: images/blogimages/forfeiture-map856-bw.jpg
 author: freddy_martinez
 teaser: "A new report by Reason based on documents obtained by Lucy Parsons Labs shows that civil asset forfeiture primarily targets the poor. Our documents are an archive directly from the State's Attorney's office which include all money seized with amounts, their exact GPS location, as well as cars, electronics and miscellaneous amounts seized. It is a follow-up on a previous investigation by Lucy Parsons Labs, Joel Handley and the Chicago Reader."
 categories:

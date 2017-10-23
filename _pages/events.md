@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LPL Press
-image: /images/gen.jpg
+image: images/gen.jpg
 permalink: /about/events/index.html
 ---
 

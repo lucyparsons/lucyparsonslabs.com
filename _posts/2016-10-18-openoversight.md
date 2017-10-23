@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lucy Parsons Labs Launches OpenOversight"
-image: /images/thumbs/cpdthumb.jpg
+image: images/thumbs/cpdthumb.jpg
 author: lpl
 teaser: "Lucy Parsons Labs has launched a new police accountability tool -- OpenOversight -- based on public records and open source data collection on Chicago Police "
 categories:
