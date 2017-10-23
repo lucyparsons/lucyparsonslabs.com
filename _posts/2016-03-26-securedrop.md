@@ -28,4 +28,4 @@ Here is how you can visit our instance and submit to us.
 * Please do not lose your codename which will be assigned to you when you submit documents. We will use that codename to message you if we need to.
 
 
-![Secure Drop](/images/SecureDroplogo.png)
+![Secure Drop](/images/securedroplogo.png)
