@@ -1,10 +1,9 @@
 ---
-layout: post
 show_meta: false
 title: "Warrant Canary"
 teaser: "Is the National Security State asking us about you?"
 image: images/canary-pxlsrt.jpg
-permalink: "/projects/canary/"
+permalink: "/about/canary/"
 ---
 
 ~~~~~
