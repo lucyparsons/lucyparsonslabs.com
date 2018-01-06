@@ -6,10 +6,17 @@ permalink: /about/index.html
 ---
 
 ### Who We Are
-The Lucy Parsons Labs is a Chicago-based collaboration between data scientists, transparency activists, and technologists focusing on the intersection of digital rights and on-the-streets issues. The core group is made up of data scientists, sysadmins, and activists with a shared goal of merging these issues into a functional non-profit.
+
+Lucy Parsons Labs is a collaboration between data scientists, transparency activists, artists, & technologists that operates in Chicago and the San Francisco Bay Area. We work at the intersection of digital rights and on-the-streets issues. Our main lines of work include providing digital security trainings, pursuing police accountability, researching the use of civil asset forfeiture, and filing public records requests.
 
 ### What We Do
-Our members are always working on a variety of projects and collaborations. Some examples include open FOIA projects into police spending, data analysis projects in Python, and presentations at hacker conferences. We also support the Tor network, give activist trainings on security culture, and enjoy mixing with journalists.
 
-### Our Mission
-We are a transparency non-profit that seeks to engage our community in a horizontal manner while organizing around digital rights issues, supporting free and open source projects, and seeking the free flow of information globally.
+Lucy Parsons Labs’ energies are dedicated to:
+
+ + offering digital security trainings for activists and at-risk communities;
+ + maintaining a secure system for whistleblowers to report misconduct via SecureDrop;
+ + developing an open-source police misconduct reporting tool, OpenOversight;
+ + reforming civil asset forfeiture programs, which incentivize heavy-handed policing;
+ + filing public records requests under the Freedom of Information Act (FOIA) and local equivalents.
+
+Lucy Parsons Labs is a registered 501(c)(3) non-profit.
