@@ -5,3 +5,4 @@ _site/**
 *.swo
 .rake_tasks
 .DS_Store
+Gemfile.lock
