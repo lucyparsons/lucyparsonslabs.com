@@ -21,7 +21,7 @@ After uploading to us, we will review your submission and pass it on to a truste
 
 ### Protecting yourself
 
-Practice good security hygiene. Only access SecureDrop from wifi networks that are not associated with your usual locations. We recommend using a computer that you are confident has not been compromised. Do not use an employer-provided computer. For additional security we strongly recommend downloading and using [Tails](https://tails.boum.org/). Tails is a live operating system that runs on a thumb drive, leaves no trace on your computer, and routes all connections through the Tor network.
+Take care to separate your digital traces from your real identity as much as possible. Only access SecureDrop from wifi networks that are not associated with your usual locations. We recommend using a computer that you are confident has not been compromised. Do not use an employer-provided computer. For additional security we strongly recommend downloading and using [Tails](https://tails.boum.org/). Tails is a live operating system that runs on a thumb drive, leaves no trace on your computer, and routes all connections through the Tor network.
 
 ### Additional information
 
