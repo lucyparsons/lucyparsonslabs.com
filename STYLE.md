@@ -3,7 +3,7 @@
 
 In order to keep the LPL website looking consistent aesthetically, we use the Gem file `pxlsrt` to generate images. However, because command line options are not very well documented, you may have to experiment with various thresholds.
 
-We like both the `smart` and `kim` algorithms for generating images. However the defaults values need to be overwritten.
+We like both the `smart` and `kim` algorithms for generating images. However the default values need to be overwritten.
 
 ## Syntax
 
@@ -22,7 +22,7 @@ pxlsrt smart -v -t 80 newsroom.png newsroom_uniq_v_80.png
 
 ## Other Examples
 
-If you chose to experiment further, you can change the method with the -m flag. You can sort pixels based on colors, random values, along different colors etc. `pxlsrt help ALGORITHM` will give you more information.
+If you choose to experiment further, you can change the method with the -m flag. You can sort pixels based on colors, random values, along different colors etc. `pxlsrt help ALGORITHM` will give you more information.
 
 ```
 pxlsrt smart -r -s -m hue -t 80 newsroom.png newsroom_smart_r_s_hue_80.png
