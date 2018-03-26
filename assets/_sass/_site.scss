@@ -1003,3 +1003,13 @@ h1.section-title:hover {
 .projectsnav:hover{cursor: pointer;}
 
 p.author{font-size:12px;text-align:right}
+
+.highlight code {
+  display: block;
+  max-height: 6em;
+  overflow: hidden;
+  transition: max-height 0.3s;
+  &:hover {
+    max-height: 200em;
+  }
+}
