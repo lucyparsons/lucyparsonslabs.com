@@ -13,9 +13,6 @@ Note: We are an IRS 501(c)3 not-for-profit and all donations are tax deductable!
 
 ----------------------------
 
-## Current Funding Campaign
-
-[Transparency In Chicago](https://www.youcaring.com/lucyparsonslabs)
 
 ## One-time Donations Via PayPal
 
