@@ -7,9 +7,7 @@ permalink: /support/index.html
 ---
 
 
-Lucy Parsons Labs is entirely volunteer funded and directed. Below you can fund Lucy Parsons Labs through PayPal, YouCaring, or Bitcoin. 
-
-Note: We are an IRS 501(c)3 not-for-profit and all donations are tax deductable!
+Lucy Parsons Labs is entirely volunteer funded and directed.  Lucy Parsons Labs is a IRS 501(c)(3) not-for-profit and all donations are tax deductable! Our EIN is 81-3046769. 
 
 ----------------------------
 
