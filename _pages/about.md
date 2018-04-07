@@ -19,4 +19,4 @@ Lucy Parsons Labs’ energies are dedicated to:
  + reforming civil asset forfeiture programs, which incentivize heavy-handed policing;
  + filing public records requests under the Freedom of Information Act (FOIA) and local equivalents.
 
-Lucy Parsons Labs is a registered 501(c)(3) non-profit.
+Lucy Parsons Labs is a registered 501(c)(3) non-profit. EIN: 81-3046769
