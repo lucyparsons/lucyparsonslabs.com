@@ -22,3 +22,9 @@ Michael Henning ([@killminusnine](https://twitter.com/killminusnine)) Michael He
 
 Jake Ader ([@rooneymcnibnug](https://twitter.com/rooneymcnibnug)) comes from a background of journalism and technology. Interested in privacy, transparency and accountability in the realm of surveillance and both government and corporate tech in general. FOIA dork.
 
+
+## Camille Fassett
+![Camille](/images/Camille.jpg)
+
+Camille Fassett ([@camfassett](https://twitter.com/camfassett)) is a journalist with the Freedom of the Press Foundation interested in digital security and public records. She's helped Lucy Parsons Labs with several FOIA projects.
+
