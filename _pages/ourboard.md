@@ -2,7 +2,7 @@
 layout: page
 title: Whois LPL
 image: images/chhacknight3.jpg
-permalink: /about/whois/index.html
+permalink: /about/ourboard/index.html
 ---
 
 ## Freddy Martinez, Director
@@ -23,4 +23,4 @@ Mason Donahue ([@r4v5](https://twitter.com/r4v5)) is a systems administrator at 
 ## Candice Ahlstrand, CFO
 ![Candice](/images/candice.jpg)
 
-Candice has over 5 years of experience organizing direct action for various grassroots organizations. Before joining the board of LPL she was one of our most dedicated volunteers.
+Candice ([@misscandiceone](https://twitter.com/misscandiceone)) has over 5 years of experience organizing direct action for various grassroots organizations. Before joining the board of LPL she was one of our most dedicated volunteers.
