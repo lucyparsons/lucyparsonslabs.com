@@ -8,13 +8,13 @@ permalink: /about/contributors/index.html
 ## Travis McDermott
 ![Travis](/images/Travis.jpg)
 
-Travis McDermott ([@2gether_we_rise](https://twitter.com/2gether_we_rise)) is a systems engineer in Chicago who lends his professional experience to the community in his spare time. Travis has helped to grow LPL's digital security training events and our partnership with the EFA. He has been an ad-hoc volunteer since the inception of LPL.
+Travis McDermott ([@2gether_we_rise](https://twitter.com/2gether_we_rise)) is a systems engineer in Chicago who lends his professional experience to the community in his spare time. Travis has helped to grow LPL's digital security training events and its partnership with the EFA. He has been an ad-hoc volunteer since the inception of LPL.
 
 
 ## Michael Henning
 ![Michael](/images/Henning.jpg)
 
-Michael Henning ([@killminusnine](https://twitter.com/killminusnine)) Michael Henning is a Chicago based software engineer with a background in Linux systems and information security. Henning is interested in community availability of digital resources as it pertains to activism, and data liberation. He also occasionally serves as LPL's bartender.
+Michael Henning ([@killminusnine](https://twitter.com/killminusnine)) is a Chicago-based software engineer with a background in Linux systems and information security. Henning is interested in community availability of digital resources as it pertains to activism, and data liberation. He also occasionally serves as LPL's bartender.
 
 
 ## Jake Ader
