@@ -22,6 +22,6 @@ The Department of Justice's 2015--2016 investigation of the Chicago Police found
 
 Based on this information, Lucy Parsons Labs was able to send [two](https://www.muckrock.com/foi/chicago-169/cpd-contact-cards-2012-2014-38540/) more specific [requests](https://www.muckrock.com/foi/chicago-169/cpd-contact-cards-2014-2016-34241/) and finally obtain over six years of data.
 
-Today we are releasing the full data set as part of the [Chicago Data Collaborative](https://chicagodatacollaborative.org/). We have also made some preliminary [data visualizations](https://dataforjustice.github.io/chicagostopandfrisk/) available and [open sourced](https://github.com/DataForJustice/chicagostopandfrisk) the analysis. The original documents are available for [download](https://www.dropbox.com/sh/f1aa18osfmdcary/AAC4WnzTpbKz9sjT1pik04vwa?dl=0) online.
+Today we are releasing the full data set as part of the [Chicago Data Collaborative](https://chicagodatacollaborative.org/). We have also made available some preliminary [data visualizations](https://dataforjustice.github.io/chicagostopandfrisk/) and an [open-source](https://github.com/DataForJustice/chicagostopandfrisk) analysis. The original documents are available for [download](https://www.dropbox.com/sh/f1aa18osfmdcary/AAC4WnzTpbKz9sjT1pik04vwa?dl=0).
 
 Lucy Parsons Labs owes a deep debt to [Paola Villarreal](https://twitter.com/paw) for volunteering her time and effort to analyze the data and publishing the preliminary visualizations.
