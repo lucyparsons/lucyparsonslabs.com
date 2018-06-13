@@ -22,7 +22,7 @@ The best way to support us is to setup a recurring donation. This allows us to s
 
 ## Physical Check or Cash
 
-If you wish to remain anonymous, you can donate us cash in an envelope. Sending a physical check is also an option: you may mail either to our Executive Director:
+If you wish to remain anonymous, you can send cash in an envelope. We also accept physical checks. Send cash or check to
 
 ```
 Lucy Parsons Labs
