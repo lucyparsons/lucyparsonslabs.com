@@ -20,7 +20,7 @@ He made the dataset of all 1595 responsive profiles, which included names, title
 
 But at the URL where the dataset was hosted is now just a page that reads: “This repository has been disabled. Access to this repository has been disabled by GitHub staff.” And in place of Lavigne’s explainer on Medium is simply, “This page is unavailable.”
 
-GitHub and Medium aren’t the only entities that scrubbed Lavigne’s work from their platforms. Twitter also suspended @iceHRgov, an account that tweeted profiles from the dataset.
+GitHub and Medium aren’t the only entities that scrubbed Lavigne’s work from their platforms. Twitter also suspended ``@iceHRgov``, an account that tweeted profiles from the dataset.
 
 A spokesperson for GitHub stated that the repository was removed because it violated its community guidelines—specifically, those that prohibit doxxing, harassment, and violating a third party’s privacy.
 
