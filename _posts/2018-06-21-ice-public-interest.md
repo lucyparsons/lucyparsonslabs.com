@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In Defense of Sam Lavigne, and why publishing LinkedIn data on ICE employees is in the public interest"
+title: "In defense of Sam Lavigne, and why publishing LinkedIn data on ICE employees is in the public interest"
 image: "images/blogimages/Ice_smart_r_80.png"
 author: camille_fassett and jennifer_helsby
 teaser: "Sharing information about government agents related to the execution of their public duties for the purposes of government accountability and transparency should never be considered doxxing or harassment."
