@@ -28,3 +28,7 @@ Jake Ader ([@rooneymcnibnug](https://twitter.com/rooneymcnibnug)) comes from a b
 
 Camille Fassett ([@camfassett](https://twitter.com/camfassett)) is a journalist with the Freedom of the Press Foundation interested in digital security and public records. She's helped Lucy Parsons Labs with several FOIA projects.
 
+
+## Will Pierce
+
+Will Pierce ([pierwill](https://pierwill.com)) is a writer, editor, and researcher currently completing a dissertation on surveillance and theology in Reformation England. In addition to his work with LPL, he is a frequent contributor to the open-source whistleblower platform [SecureDrop](https://securedrop.org).
