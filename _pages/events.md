@@ -7,8 +7,11 @@ permalink: /about/events/index.html
 
 ## Conferences
 
-### Surveillance Studies Network / Surveillance & Society Biannual Conference (June 2018)
-At [SSN 2018](http://conferences.au.dk/ssn2018/) in Aarhus, Denmark, William Pierce gave a presentation on "Predestination and Prediction: State Surveillance in Reformation England," exploring the relationships between historical forms of surveillance and present-day issues like predictive policing and the racialized impact of algorithmic decision-making.
+### Resisting the Chicago Heat List (September 2018)
+Will Pierce will discuss LPL's work shedding light on the Chicago Police Department's algorithmic mass surveillance at the University of Ottawa Department of Criminology in Ontario, Canada. The event is part of a week of special events celebrating the department's 50th anniversary.
+
+### Surveillance Studies Network / *Surveillance & Society* Biannual Conference (June 2018)
+At [SSN 2018](http://conferences.au.dk/ssn2018/) in Aarhus, Denmark, Will Pierce gave a presentation on "Predestination and Prediction: State Surveillance in Reformation England," exploring the relationships between historical forms of surveillance and present-day issues like predictive policing and the racialized impact of algorithmic decision-making.
 
 ### Aaron Swartz Day (November 2017)
 LPL members attended this conference—held in memory of the late Aaron Swartz at the Internet Archive in San Fransisco—where they led and participated in a SecureDrop hackathon.
