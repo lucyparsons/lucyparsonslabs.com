@@ -15,6 +15,11 @@ The best way to support us is to setup a recurring donation. This allows us to s
 <script src="https://donorbox.org/install-popup-button.js" type="text/javascript" defer></script>
 <a class="dbox-donation-button" href="https://donorbox.org/donate-to-lucy-parsons-labs" style="background:#cc2027 url(https://d1iczxrky3cnb2.cloudfront.net/red_logo.png) no-repeat 37px center; color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 38px 15px 75px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; text-shadow: 0 1px rgba(0, 0, 0, 0.3);">DONATE NOW</a>
 
+## Workplace Giving
+
+Many employers offer pre-tax charitable contributions with employer matching up to a certain yearly cap. LPL is registered at Benevity,
+a company that administrates these types of donations in the US.
+
 ## Bitcoin
 
 ![bitcoin](/images/BTCWalletQR.jpg)
