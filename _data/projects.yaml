@@ -34,11 +34,16 @@
   completed: true
 
 - title: Data Liberation
-  url: 
+  url:
   image: images/datalib2.jpg
   completed: false
 
 - title: FOIA Your Own Adventure
-  url: 
+  url:
   image: images/gen.jpg
   completed: false
+
+- title: CPD's FOIA violations
+  url: /projects/foiaviolations/
+  image: images/blogimages/stack_of_records.jpg
+  completed: true
