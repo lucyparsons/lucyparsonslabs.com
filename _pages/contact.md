@@ -7,10 +7,9 @@ permalink: /contact/index.html
 
 Our members use a variety of messaging protocols, so if you are
 uncomfortable using email please attempt to contact us over another
-method (Signal, Pond, OTR...etc). *Disclaimer*: not all details of all
-our members modes of communications are not available here...
+method (Signal, Wire, OTR...etc). *Disclaimer*: The contact information for all of the possible platforms our members use is not listed here. 
 
-If you are an activist who would like to get in contact with Lucy Parsons Labs to do a security training for your group, please email us at info AT lucyparsonslabs DOT com.
+If you are an activist who would like to get in contact with Lucy Parsons Labs to do a security training for your group, please email us at info AT lucyparsonslabs DOT com or send us a request on Signal or Whatsapp at three one two - seven two zero - three five nine four. 
 
 **MEDIA INQUIRIES**  
 All media inquiries should be sent to media AT lucyparsonslabs DOT com. We hope to answer all requests within one week. However, if you are on deadline, please let us know. Our consensus-based approach can sometimes slow our response time to media requests.
