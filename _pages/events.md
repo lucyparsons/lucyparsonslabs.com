@@ -4,15 +4,15 @@ title: LPL Press
 image: images/gen.jpg
 permalink: /about/events/index.html
 ---
-## Upcoming Events
+### Upcoming Events
 
 Check back soon! 
 
-## Upcoming Conferences 
+### Upcoming Conferences 
 
 Check back soon!
 
-## Past Conferences
+### Past Conferences
 
 ### Resisting the Chicago Heat List (September 2018)
 Member Will Pierce discussed LPL's work shedding light on the Chicago Police Department's algorithmic mass surveillance at the University of Ottawa Department of Criminology in Ontario, Canada. Pierce was invited as part of a week of special events celebrating the department's 50th anniversary.
@@ -35,11 +35,11 @@ At [DEF CON 23](https://www.defcon.org/), Jennifer Helsby presented in the Crypt
 ### THOTCON 0x5 (April 2014)
 At [THOTCON 0x5](http://thotcon.org/), a Chicago-area information security conference, Freddy Martinez discussed the technical workings of IMSI Catchers and his work to uncover their use by police in Chicago.
 
-## Past Community Events
+### Past Community Events
 
-Lucy Parsons Labs along with Free Our Info hosted a free FOIA workshop on November 12th where they covered how to craft a FOIA request for the first time, what to expect in response, and several tips and tricks on how to get the information quicker. 
+Lucy Parsons Labs along with Free Our Info hosted a free FOIA workshop on November 12th where they covered how to craft a FOIA request for the first time, what to expect in response, and several tips and tricks on how to get the information quicker. The slides can be seen [here](/foiapresentation/index.html). 
 
-[Thotcon] (https://www.thotcon.org/) hosted a [Cybersecurity Security Action Day] (https://www.chipublib.org/blogs/post/guest-blog-cyber-security-take-action-saturday-october-13/) on October 13th, 2018 that mobilized volunteers over 150 locations in Chicago. Many Lucy Parsons Labs members volunteered at over four libraries on the day of action to assist librarians & the general public with their digital security concerns. 
+[Thotcon](https://www.thotcon.org/) hosted a [Cybersecurity Security Action Day](https://www.chipublib.org/blogs/post/guest-blog-cyber-security-take-action-saturday-october-13/), on October 13th, 2018 that mobilized volunteers over 150 locations in Chicago. Many Lucy Parsons Labs members volunteered at over four libraries on the day of action to assist librarians & the general public with their digital security concerns. 
 
 [Chi Hack Night](https://chihacknight.org/) is Chicago’s weekly event to build, share, and learn about civic tech. In June of 2016, Jennifer Helsby and Freddy Martinez presented on the deployment of LPL’s [SecureDrop](/securedrop) system. ([Video](https://www.youtube.com/watch?v=XKY_Sgv9ej8))
 
