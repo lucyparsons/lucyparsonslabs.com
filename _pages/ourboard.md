@@ -26,5 +26,6 @@ Mason Donahue ([@r4v5](https://twitter.com/r4v5)) is a systems administrator at 
 Candice ([@misscandiceone](https://twitter.com/misscandiceone)) has over 5 years of experience organizing direct action for various grassroots organizations. Before joining the board of LPL she was one of our most dedicated volunteers.
 
 ## Camille Fassett, Director of Research
-![Camille] (/images/Camille.jpg)
+![Camille](/images/Camille.jpg)
+
 Camille ([@camfassett](https://twitter.com/camfassett)) is a reporter and researcher. By day, she covers civil liberties, surveillance, and press freedom for the Freedom of the Press Foundation and co-runs a data project tracking attacks on the press. At Lucy Parsons Labs, she oversees research projects and issues such as police misconduct and government relationships with lobbyist groups, based on data and public records. 
