@@ -9,7 +9,7 @@ permalink: /projects/openoversight/
 
 The Lucy Parsons Labs has launched [OpenOversight](https://openoversight.lucyparsonslabs.com/), an interactive web tool that makes it easier for Chicago residents to file complaints against police officers. Using OpenOversight, members of the public can search for the names and badge numbers of those officers with whom they have negative interactions based on estimated age, race, and gender. Using this information, the OpenOversight web application returns a digital gallery of potential matches and, when possible, includes pictures of officers in uniform to assist in identification.
 
-![OpenOversight](/images/oo_gallery.png)
+![OpenOversight](/images/oo_main.png)
 
 "The deck is stacked against people harmed by Chicago police," says Jennifer Helsby, CTO of the Lucy Parsons Labs and lead developer on the OpenOversight project. "Despite a long history of proven abuses, including torture, Chicago police are almost never held accountable for misconduct or crimes they commit. To file a misconduct complaint, the burden is on the public to provide as much detailed data about the officer as possible. OpenOversight aims to empower Chicagoans with tools that make it easier to identify officers and hold them accountable."
 
