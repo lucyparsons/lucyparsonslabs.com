@@ -4,21 +4,34 @@ title: Contact LPL
 image: images/disdenied-noise2.png
 permalink: /contact/index.html
 ---
+### Get in touch ###
 
-Our members use a variety of messaging protocols, so if you are
-uncomfortable using email please attempt to contact us over another
-method (Signal, Wire, OTR...etc). *Disclaimer*: The contact information for all of the possible platforms our members use is not listed here. 
+General inquiries for Lucy Parsons Labs can be sent to info AT lucyparsonslabs DOT com. For queries specific to OpenOversight, use openoversight AT lucyparsonslabs DOT com.
 
-If you are an activist who would like to get in contact with Lucy Parsons Labs to do a security training for your group, please email us at info AT lucyparsonslabs DOT com or send us a request on Signal or Whatsapp at three one two - seven two zero - three five nine four. 
+Our individual members use a variety of messengers, including Signal, Wire, WhatsApp, OTR, and Twitter. All possible ways of connecting with individual LPL members will not be listed on this page, so you may find additional ways of contacting individual members, such as Twitter messages.
 
-**MEDIA INQUIRIES**  
-All media inquiries should be sent to media AT lucyparsonslabs DOT com. We hope to answer all requests within one week. However, if you are on deadline, please let us know. Our consensus-based approach can sometimes slow our response time to media requests.
+If you are an activist who would like to request a digital security training by Lucy Parsons Labs for your group, please email us at info AT lucyparsonslabs DOT com or send us a request on Signal or Whatsapp at three one two - seven two zero - three five nine four.
 
+### Media inquiries ###
+All media inquiries should be sent to media AT lucyparsonslabs DOT com. Please send us an email that includes your name, outlet, questions, and deadline, and we will get back to you as soon as possible.
+
+### Leak to us ###
+If you have information that you would like to share with Lucy Parsons Labs—including, but not limited to, police misconduct, government corruption, fraud, or abuse—we want to hear from you.
+
+We take great care to protect our sources and reporting partners. We will fight any and all legal orders for information about our sources or reporting materials.
+
+We offer several channels by which anyone can share tips or documents with us securely.
+
+You can reach us on Signal or WhatsApp at: three one two - seven two zero - three five nine four.
+
+We also maintain an instance of SecureDrop: an open-source whistleblower platform built for anonymity through the Tor network and using strong encryption. [For detailed instructions to leak to us using SecureDrop, click here.](/SecureDrop)
+
+Leak us secrets, and we will publish them to the world.
 
 ### You can contact the Director of LPL, Freddy Martinez using his GPG key
- 
-GPG Fingerprint: `A712 B1DB 9076 2931 4565 0DA6 34FB 06F1 E80A 64A1` using his GPG key for `freddymartinez9 AT gmail DOT com`. You may also send an unencrypted email there as well. 
- 
+
+GPG Fingerprint: `A712 B1DB 9076 2931 4565 0DA6 34FB 06F1 E80A 64A1` using his GPG key for `freddymartinez9 AT gmail DOT com`. You may also send an unencrypted email there as well.
+
 ~~~~~~~~
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -298,4 +311,3 @@ GuCieGxx66OrQod5YwZHvXN0dT/kF+2yzeG+AFAHMZOqmSpHIkSb+juUs2R/hA==
 =icJS
 -----END PGP PUBLIC KEY BLOCK-----
 ~~~~~~~~
-
