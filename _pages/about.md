@@ -45,7 +45,7 @@ We invite all those who participate in our events & physical or online spaces to
 Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community, either physically or online, at all related events and in one-on-one communications carried out in the context of community business. 
 
 Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence; deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
-Research that discusses topics of violence must use content warnings in order to not be considered innappropriate. 
+Research that discusses topics of violence must use content warnings in order to not be considered inappropriate. 
 
 Additionally, Lucy Parsons Labs prohibits the following:
 
