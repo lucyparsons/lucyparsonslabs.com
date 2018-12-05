@@ -77,4 +77,4 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 ### License and attribution
 
-The Lucy Parsons Labs Code of Conduct is distributed under a Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0) license. It is based on the Berlin code of conduct.
+The Lucy Parsons Labs Code of Conduct is distributed under a Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0) license. It is based on the Berlin Code of Conduct https://berlincodeofconduct.org/.
