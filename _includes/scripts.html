@@ -1,5 +1,6 @@
 <!-- JS -->
 <script src="{{ site.url }}/assets/js/main.min.js"></script>
+<script src="{{ site.url }}/assets/js/modernizr-custom.js"></script>
 {% if site.google-analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -7,7 +8,7 @@
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', '{{ site.google-analytics }}', 'auto');  
+  ga('create', '{{ site.google-analytics }}', 'auto');
   ga('require', 'linkid', 'linkid.js');
   ga('send', 'pageview');
 </script>
