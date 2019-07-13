@@ -1,4 +1,4 @@
-# Lucy Parsons Lab
+# Lucy Parsons Labs
 
 This is the main repository for the core website of the Lucy Parsons Labs.
 
