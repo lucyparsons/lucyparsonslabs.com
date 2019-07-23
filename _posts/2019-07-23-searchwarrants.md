@@ -57,13 +57,11 @@ is also providing a data visualization tool, allowing the public to analyze the
 data. It can be [viewed online](https://viz.mchap.io/search_warrants) and
 includes census-tract level of detail. In a statement, Chapman said:  
 
-```
-Our hope with this app is that it helps others understand the deep seeded
-dynamics of inequality across Chicago even just a little bit more. We have
-submitted a series of FOIA requests for significantly more search warrant
-information. Once Chicago gives us the records from those requests, we'll be
-able to add more to the application and making it that much more useful.
-```
+> Our hope with this app is that it helps others understand the deep seeded dynamics
+> of inequality across Chicago even just a little bit more. We have submitted a series
+> of FOIA requests for significantly more search warrant information. Once Chicago
+> gives us the records from those requests, we'll be able to add more to the application
+> and making it that much more useful.
 
 The application lets viewers analyze the activities of the police in their
 neighborhood by filtering the data by specific wards in Chicago. Feedback and
