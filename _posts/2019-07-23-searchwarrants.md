@@ -45,11 +45,12 @@ repeating similar patterns found in our [asset forfeiture
 investigation](/posts/HitsThePoor/) and [stop and frisk data
 set](/posts/stop-and-frisk/).
 
-As noted today’s article at *Reason.com*, "a lack of an accompanying arrest is
-not necessarily an indicator of a botched raid. For example, the police may
-obtain warrants to search phones and other electronics". The requirement to
-obtain a warrant to search a cell phone follows the _Riley v California_
-Supreme Court decision.
+As noted today’s
+[article](https://reason.com/2019/07/23/chicago-police-executed-more-than-11000-search-warrants-in-mostly-poor-neighborhoods-over-5-year-period/)
+at *Reason.com*, "a lack of an accompanying arrest is not necessarily an
+indicator of a botched raid. For example, the police may obtain warrants to
+search phones and other electronics". The requirement to obtain a warrant to
+search a cell phone follows the _Riley v California_ Supreme Court decision.
 
 Working alongside FOIA expert and data scientist Matt Chapman, Lucy Parsons Labs
 is also providing a data visualization tool, allowing the public to analyze the
