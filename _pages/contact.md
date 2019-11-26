@@ -24,7 +24,7 @@ We offer several channels by which anyone can share tips or documents with us se
 
 You can reach us on Signal or WhatsApp at: three one two - seven two zero - three five nine four.
 
-We also maintain an instance of SecureDrop: an open-source whistleblower platform built for anonymity through the Tor network and using strong encryption. [For detailed instructions to leak to us using SecureDrop, click here.](/SecureDrop)
+We also maintain an instance of SecureDrop: an open-source whistleblower platform built for anonymity through the Tor network and using strong encryption. [For detailed instructions to leak to us using SecureDrop, click here.](/securedrop)
 
 Leak us secrets, and we will publish them to the world.
 
