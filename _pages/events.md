@@ -6,9 +6,9 @@ permalink: /about/events/index.html
 ---
 ### Upcoming Events
 
-Check back soon! 
+Check back soon!
 
-### Upcoming Conferences 
+### Upcoming Conferences
 
 Check back soon!
 
@@ -37,14 +37,14 @@ At [THOTCON 0x5](http://thotcon.org/), a Chicago-area information security confe
 
 ### Past Community Events
 
-Lucy Parsons Labs along with Free Our Info hosted a free FOIA workshop on November 12th where they covered how to craft a FOIA request for the first time, what to expect in response, and several tips and tricks on how to get the information quicker. The slides can be seen [here](/foiapresentation/index.html). 
+Lucy Parsons Labs hosted a small training in Chicago on January 9th to teach attendees how to use digital privacy tools. Presenters covered topics such as the perils of surveillance, the importance of operational security, and how to use both the Tor Browser and TAILS operating system. Food was served. ([Slides](https://lucyparsonslabs.com/torpresentation/index.html))
 
-[Thotcon](https://www.thotcon.org/) hosted a [Cybersecurity Security Action Day](https://www.chipublib.org/blogs/post/guest-blog-cyber-security-take-action-saturday-october-13/), on October 13th, 2018 that mobilized volunteers over 150 locations in Chicago. Many Lucy Parsons Labs members volunteered at over four libraries on the day of action to assist librarians & the general public with their digital security concerns. 
+Along with Free Our Info, Lucy Parsons Labs hosted a free FOIA workshop on November 12th where they covered how to craft a FOIA request for the first time, what to expect in response, and several tips and tricks on how to get the information quicker. The slides can be seen [here](/foiapresentation/index.html).
+
+[Thotcon](https://www.thotcon.org/) hosted a [Cybersecurity Security Action Day](https://www.chipublib.org/blogs/post/guest-blog-cyber-security-take-action-saturday-october-13/), on October 13th, 2018 that mobilized volunteers over 150 locations in Chicago. Many Lucy Parsons Labs members volunteered at over four libraries on the day of action to assist librarians & the general public with their digital security concerns.
 
 [Chi Hack Night](https://chihacknight.org/) is Chicago’s weekly event to build, share, and learn about civic tech. In June of 2016, Jennifer Helsby and Freddy Martinez presented on the deployment of LPL’s [SecureDrop](/securedrop) system. ([Video](https://www.youtube.com/watch?v=XKY_Sgv9ej8))
 
 The [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance) (EFA) hosted a workshop on surveillance self-defense in Chicago in March, 2016. Jennifer Helsby presented on the current state of local police surveillance. Groups from across the city participated, including [Chicago GNU/Linux Users Group](https://chicagolug.org/), [Restore the Fourth-Chicago](http://rt4chicago.com/index.html), and the National Lawyers Guild [Chicago Chapter](http://nlgchicago.org/). [Learn more](https://www.eff.org/deeplinks/2016/04/community-groups-come-together-across-us-promote-digital-rights).
 
 In partnership with Chicago [CryptoParty](https://www.cryptoparty.in/chicago), Lucy Parsons Labs organizes privacy and digital security trainings. In these hands-on workshops, participants are encouraged to bring their own devices to get personalized advice.
-
-
