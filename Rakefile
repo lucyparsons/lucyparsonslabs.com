@@ -71,7 +71,7 @@ def publish_to_server(site_config)
     else
       config = '_config.yml'
     end
-    sh "rm -r _site"
+    sh "mkdir -p _site && rm -fr _site"
     sh "bundle exec jekyll build --config #{config}"
     puts 'Publishing the contents of _site'
     user = 'lpldeploy'
@@ -91,7 +91,7 @@ def publish_to_s3(site_config)
     else
       config = '_config.yml'
     end
-    sh "rm -r _site"
+    sh "rm -r _site || true"
     sh "bundle exec jekyll build --config #{config}"
     puts "Publishing the contents of _site to s3 bucket #{s3_bucket}"
     sh "aws s3 sync _site s3://#{s3_bucket}/ --delete --cache-control max-age=#{cache_control_timeout}"
