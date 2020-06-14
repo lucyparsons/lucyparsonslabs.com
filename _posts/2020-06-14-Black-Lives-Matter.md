@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Supporting Chicago's Activists"
 image: images/blogimages/blm_wh_glitch.png
 author: lucyparsonslabs
-teaser: "The Chicago Police Department executed an average of six search warrants per day. Here's what we know:"
+teaser: "Lucy Parsons Labs has been supporting Black Lives Matter in Chicago. More on our efforts:"
 tags:
   - Chicago
   - Black Lives Matter
@@ -43,4 +43,6 @@ officer images, [OpenOversight](https://openoversight.com/). Our members have
 sent a surge of Freedom of Information Act requests to learn more about the
 police's aggressive response to the recent protests. We remain engaged with our
 community, partners, friends, and allies so we can deliver the tools they need
-to meet the moment. Black Lives Matter.
+to meet the moment.
+
+Black Lives Matter.
