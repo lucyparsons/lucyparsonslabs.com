@@ -8,7 +8,7 @@ permalink: /about/ourboard/index.html
 ## Freddy Martinez, Director
 ![Freddy](/images/Martinez.jpg)
 
-Freddy Martinez ([@B_meson](https://twitter.com/B_meson)) is currently a Ford-Mozilla Open Web Fellow. During his fellowship he is working on democratizing access to public records requests with a focus on police accountability and transparency. A long-time Chicagoan, his focus for the future includes issues around cell phone privacy, working with marginalized communities and the intersection of digital rights and activism.
+Freddy was previously a Ford-Mozilla Open Web Fellow hosted at Freedom of the Press Foundation. During his fellowship he worked on democratizing access to public records requests with a focus on police accountability and transparency. A long-time Chicagoan, his focus for the future includes issues around cell phone privacy, working with marginalized communities and the intersection of digital rights and activism.
 
 ## Jennifer Helsby, CTO
 ![Jennifer](/images/Helsby.jpg)
