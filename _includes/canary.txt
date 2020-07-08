@@ -7,19 +7,19 @@ information about our workshop attendees or website visitors.
 
 This post will be updated monthly.
 
-Last updated June  6, 2020.
+Last updated July  8, 2020.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEKI3tED0zs9qGQk0BBbEYc9t0osQFAl7b9UsACgkQBbEYc9t0
-osT4pgv/ZJYJQJk7Lq5sqj/sNciQl1dDxhMpwTzjasFpkcE87RcQPKxVZK1NcuI9
-ab/taS7GFvbIAsa/rgxMab1X6ymQGHUq3OwmFTCcP6ubkddp+MjVTyPcwF1gmoOO
-N9rwR+pEEAZtzP1ScPvIlqV8i1Q2lP/aJrC0rBxYiX3wnfiFWpsWrFPy+KCZHso0
-CKuf4omYkuMYIsceDQnNjQOlyOX1EIwrbxWxy3JjUoPG+rk0OT80VMaM+WPjILN9
-r1DK6EC4hGiwwinM4sEnoP5TUZC5QAsAOZXs9c5LmdEyyo1cLCr4lzP+JeyfmssY
-wYJxHx13fGAGm+oZ1Hdh74bzdLgSq9/FfmkzyZIp1qbxBem48srvg9WCh2VJk5OO
-t1kfi6oRjGiQwLOv16fntOjIjqBNTj7g4uknoM0+dw7r29ZQ3XgHpT/hI6Rs5V5H
-ee7AmQ5TksgcOoVX/YrUZBagUgWOO/2oRTchYQA2wvFQkMT/IuZ0MiDwKx0Zv3jx
-J0OAbMTX
-=+APX
+iQGzBAEBCAAdFiEEKI3tED0zs9qGQk0BBbEYc9t0osQFAl8Fz8oACgkQBbEYc9t0
+osRMMwwAtZgDhPS6vOcqXpU8i5dyu8zgRsbGMs5tzKNCqdfp0xFchlj5n8Aumf7s
+37t6wdZpMY9aoPfJMROdGMpCQH4oGid3sBzGBarzVfksdlsTA6946b51pe6YNlzN
+e/dM0F4Bdjiw4TN0rQEcBvMuGPMN3zespZPR4ytPazOA2Vq1HhmCZGRB6FaYygey
+dN/3OTOIz7QlwhDf3URxeSkJsFBNwPXFuWh1rQFQ0u6AHtCJCmIxix+xxCfzktjn
+VrhCElySa+abaZ8p3SguVPeDaYlgNtQKBwVcjUHV5XUoNEtXr3jPS2UunALld3ht
+/AECHQy3hlQsjFR2DdY4vbKGbz4ExrgsyAET4AMJQnIMUnreVR3QbeQ3Bm2PEN4u
+mG7ZhRGPC12wu44gIzC1vvISB43A7tnGqFy3LcPY1oL/xYQhuPDPOz8DQDM2jXUv
+Ux2cBrgR4qXxTV16xeb1wgrE4KjXl0psbKrISoKlP3FiHpIen1oNZXDFj7eAMFgM
+FxuFcSS1
+=Rodt
 -----END PGP SIGNATURE-----
