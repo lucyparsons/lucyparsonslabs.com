@@ -23,27 +23,17 @@
   image: images/target2.png
   completed: true
 
+- title: Biometrics Privacy
+  url: /projects/biometrics/
+  image: images/biometrics/project_header.jpg
+  completed: true
+
 - title: Asset Forfeiture
   url: /projects/assetforfeiture/
   image: images/blogimages/forfeiture-map856-bw.jpg
-  completed: true
-
-- title: The Narcotics Audit
-  url: /projects/narcoticsaudit/
-  image: images/harrisequip-rot2.png
   completed: true
 
 - title: Data Liberation
   url:
   image: images/datalib2.jpg
   completed: false
-
-- title: FOIA Your Own Adventure
-  url:
-  image: images/gen.jpg
-  completed: false
-
-- title: CPD's FOIA violations
-  url: /projects/foiaviolations/
-  image: images/blogimages/stack_of_records.jpg
-  completed: true
