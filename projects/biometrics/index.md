@@ -13,11 +13,11 @@ permalink: /projects/biometrics/
 
 Lucy Parsons Labs (LPL) is committed to protecting the civil liberties of
 Chicagoans and the people of Illinois by shining light on the dangers of
-biometric surveillance and facial recognition technology, which should be
-banned immediately.  
+biometric surveillance and facial recognition technology. This technology should
+be banned immediately.
 
 Emerging technologies such as facial recognition, biometric identification,
-social media monitoring, license plate monitoring, and predictive policing, are
+social media monitoring, license plate monitoring, and predictive policing are
 often used as a panacea for disrupting violence and securing our communities.
 Police officers claim that these technologies help resolve crime, prevent
 terrorism, and locate missing children. However, as the Chicago Police
@@ -26,7 +26,7 @@ victims](https://onezero.medium.com/chicago-cops-use-social-media-to-track-griev
 of violent crimes, they solved less than 16 percent of murders during the first
 half of 2018.
 
-Since our founding in October 2015, this Chicago-based non-profit has filed
+Since our founding in Chicago on October 2015, this non-profit has filed
 hundreds of public record requests under the Illinois Freedom of Information
 Act. These public records significantly increase the transparency of how police
 departments utilize personal information. As this information is often not
@@ -101,21 +101,21 @@ of facial and fingerprint identifiers of current and former residents of
 Illinois. This landmark ruling is critical because while other cities have
 introduced bills to curb [the use of facial recognition
 technology(https://www.eff.org/aboutface/bans-bills-and-moratoria), a facial
-recognition vendor, —Clearview AI– illicitly collected [three billion
+recognition vendor called Clearview AI illicitly collected [three billion
 images](https://chicago.suntimes.com/crime/2020/1/29/21080729/clearview-ai-facial-recognition-chicago-police-cpd)
 scraped from social media and other online sources. Clearview claims not to be
 [constricted](https://www.muckrock.com/foi/atlanta-325/facial-recognition-atlanta-ga-76491/)
-by state biometric privacy laws yet our coalition’s advocacy will allow
+by state biometric privacy laws. However, our work defended the right for
 [anyone](https://www.aclu.org/press-releases/aclu-sues-clearview-ai) in Illinois
 to bring monetary claims against Clearview and vendors like it.
 
 LPL continues to drive action to dismantle the utilization of inaccurate face
 geometry data so we may one day live in a world free of discrimination due to
-biometric and facial recognition technology. These goals will prohibit the
-actions of companies from capturing personal data for profit and police who
-collect biometric data through inaccurate racially biased algorithms. Therefore,
-we would live in a safer world as civil liberties will be better protected, and
-police officers will not arrest innocent people for crimes they did not commit
-due to inaccurate algorithms.
+biometric and facial recognition technology. These goals will prohibit companies
+from capturing personal data for profit and police from collecting biometric
+data for inaccurate and racially biased algorithms. By pressing pause on the
+disturbing trends in biometric surveillance, we help create a safer world where
+civil liberties will be better protected, and police officers will not arrest
+innocent people for crimes they did not commit due to inaccurate algorithms.
 
 ![gif](/images/biometrics/gifs/slower/Face-rotate-vectorpunk_s.gif)
