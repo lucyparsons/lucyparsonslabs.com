@@ -22,3 +22,6 @@ However, in September, Illinois adopted a new law titled the Seizure and Forfeit
 Lucy Parsons Labs supported [a previous effort](https://lucyparsonslabs.com/posts/Seizure-And-Forfeiture-Act/) to reform civil forfeiture in Illinois that would have been significantly stronger—forcing the state to convict a person of a crime before being able to forfeit their property and pooling all of the forfeited assets into an account run by the state. As it stands, even after the Seizure and Forfeiture Reporting Act takes effect, people in Illinois can and will still lose their cash, cars, or other assets without ever being convicted of a crime. Prosecutors will still only have to meet a low legal standard to justify forfeiture. And individual police departments like CPD will be able to use forfeiture money in any way they see fit. While LPL is happy to see that its work has helped bring some changes to the civil forfeiture process, there is still much work to be done.
 
 [Check out the data we've collected here.](https://lucyparsonslabs.com/fullaudit/)
+
+
+{% include_relative graph.html %}
