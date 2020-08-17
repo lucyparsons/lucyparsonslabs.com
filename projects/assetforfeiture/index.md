@@ -24,4 +24,6 @@ Lucy Parsons Labs supported [a previous effort](https://lucyparsonslabs.com/post
 [Check out the data we've collected here.](https://lucyparsonslabs.com/fullaudit/)
 
 
+{% include_relative head.html %}
 {% include_relative graph.html %}
+{% include_relative table.html %}
