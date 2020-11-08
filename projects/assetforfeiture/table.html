@@ -1,0 +1,36 @@
+<h3>The Raw Data</h3>
+<div id='table-container'></div>
+
+<footer class='footer'>
+<div class='container-fluid'>
+    <hr />
+    <p class='pull-right'>
+    <a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table created  </a> by <a href='http://derekeder.com'>Derek Eder</a>
+    </p>
+</div>
+</footer>
+
+<!-- Placed at the end of the document so the pages load faster -->
+
+<!-- JQuery and all the stuff wie apparently need to draw the table. -->
+<script src="../../fullaudit/js/jquery.min.js"></script>
+<script src="../../fullaudit/js/bootstrap.min.js"></script>
+<script src="../../fullaudit/js/jquery.csv.min.js"></script>
+<script src="../../fullaudit/js/jquery.dataTables.min.js"></script>
+<script src="../../fullaudit/js/dataTables.bootstrap.js"></script>
+<script src='../../fullaudit/js/csv_to_html_table.js'></script>
+
+<!-- Actually draw the table -->
+<script>
+    init_table({
+    csv_path: 'data/1505Export.csv',
+    element: 'table-container',
+    allow_download: true,
+    csv_options: {separator: ',', delimiter: '"'},
+    datatables_options: {"paging": true}
+    });
+
+    $(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+    })
+</script>
