@@ -5,3 +5,4 @@ gem 'jekyll-feed'
 gem "jekyll-gist"
 gem 'modernizr-rails'
 gem 'pxlsrt'
+gem 'rake'
