@@ -10,7 +10,5 @@ permalink: "/about/canary/"
 ~~~~~
 {%include canary.txt %}
 ~~~~~
-> This message can be updated with any LPL member's GPG key. [What the heck is this?](https://canarywatch.org)
+> This message can be updated with any LPL member's GPG key. [What the heck is this?](https://en.wikipedia.org/wiki/Warrant_canary)
 
-
-![Canary Watch](/images/canary-logo.png)
