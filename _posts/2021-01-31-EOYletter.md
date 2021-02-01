@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Lucy Parsons Labs 2020 Year in Review"
-image: images/surveillancescreenshot.png
 author: lucyparsonslabs
 teaser: "Donate to Lucy Parsons Labs to Support Our Work"
 tags:
@@ -26,6 +25,7 @@ Hundreds of donors across the country raised hundreds of thousands of dollars fo
 The collaboration between CCBF and LPL helped quickly release activists from detention and pushed back on repression by the state. 
 
 **Educational Resource**
+![](images/blobimages/surveillancescreenshot.png)
 
 We are incredibly happy to announce a rebooted resource — [ChicagoPoliceSurveillance.com](http://ChicagoPoliceSurveillance.com) — which details many of the known ways police track people in Chicago. 
 The website aims to educate the public on all the tools purchased in secret by CPD. This work was done in collaboration with Yoni Maltsman, 
