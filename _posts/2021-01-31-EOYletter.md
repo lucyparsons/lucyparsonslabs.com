@@ -47,8 +47,6 @@ Freddy Martinez<br>
 Executive Director, Lucy Parsons Labs
 
 
-Psst... before you go… LPL was recently featured in Defenders of Digital, a series exploring the defense of communities against surveillance. You can view it on YouTube below.
-
-[https://www.youtube.com/watch?v=ad9maB1LZLw&t=330s](https://www.youtube.com/watch?v=ad9maB1LZLw&t=330s)
+Psst... before you go… LPL was recently featured in Defenders of Digital, a series exploring the defense of communities against surveillance. You can [view it on YouTube](https://www.youtube.com/watch?v=ad9maB1LZLw).
 
 
