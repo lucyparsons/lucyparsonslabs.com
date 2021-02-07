@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 We have not been contacted by any government agencies requesting
 
@@ -7,19 +7,21 @@ information about our workshop attendees or website visitors.
 
 This post will be updated monthly.
 
-Last updated January  7, 2021.
+Last updated February  7, 2021.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEpr4N97j7BL7U4kRTh35kYjmpB+gFAl/32SAACgkQh35kYjmp
-B+gL3Av/aEl9Z2U/2LbvcGfg4xzEicmTpdETFfN4WDKgSpgi7J01hCEIBx7ooqUi
-3yi78V+u84I7lJpsTcCEfy2+8UarKGpixQmOv9uozKhT7eC1E+hSvu/J+NBNOVcu
-qiasdVCpPzIszAnFR4N7ICejpcv2+jRmza2ZydYaQyR9XUAc4f+geTsk09WxRBs0
-YKLCxGl5opq/cRaIN9Mk6U+219QhXQ0BgRIu505krXFQYQmqdrMonqIZJiBK6xST
-UkZAp0f9O8N0wul9ritYfR9EOoli4AnROc+RC8tOENBS9tf8/P/RrR15/YTWNw0o
-ukjN6WQhs12OwZTQiyI/et5ifEmW5wVyqarvllxq6Ct/63QnCTrkINQes8TbWez+
-BWE5zYNrdNy+pjy0Mi7AkWmDwrk2O04ex9JRZql/WvTgNVuavOef4SNp/+BFYslD
-mmjzifsHLUHoPo65+CPyKWE3IGyDUYcxq8sFOrLElItdMeCCGfnas34rIHENfhrV
-UNrIUubc
-=Clui
+iQIzBAEBCgAdFiEEjTyg7vN6reHFFDqJxwWKrT9quDcFAmAgJX8ACgkQxwWKrT9q
+uDdAZRAAlfcbUT0rf5izrWWUbSiQ9pSGqLoLDoOwwy3Y8mRw/1aBlkeT21LoJtRR
+UhJ3lWmhXkJyjUWBN5aW/0j8Rj5BPrXhcF5i2oWPapmMyG2OGktK73pJJ3T10139
+pduNPu49vMIdAVzpJtVH7hu7KIpSC3yY1yqZc53YjGr1qZd+v2VwP76C1bgz2ajh
+hqtxO2gmmVuH6EqEerPA2UOdWJuQFm4JEP7mE/GGpmXgPHGRiIoi+0/TlGz8bwnp
+EAC/UWBvt0v+elCvNP6L/tB+uGNvaYuq6v66MKbhJwcnMrdUBbEWhWP1nyRxVnTR
+gCflAWdGqR3XiXNKyKVlIerwbL9wUujzPS9SC2iXJRjRRk2BBnBEAZWQA/FyczL0
+8fwYj+VRx+Tylj36RGludLS7qD/7FEd9zP5ev31P9Rcc2V3wLLxX0uDFdGzirQYs
+O/a0Jve+Rwv9v5FIT4DVoO3HCiZeGRC67Fw6dqUMigQxVufd0d/VMTxcu+QjFNql
+cdKnCLUc94YlvmmXjhNyHHX/Gl9gK0vO8AyHas7ostflj1xOrvfo4l/Zc6RPTWxD
+t0Ou4SyiSQYCx8n0ff0jONigiGgcavwHGDrhGys3PDMBF4u9Yq8m3kRAjc9eoDC0
+BAIJY6OLBWng/Uf8VviB95KKFejHoWMJ//JGeL1/RVTwNi2Ja6U=
+=+CLP
 -----END PGP SIGNATURE-----
