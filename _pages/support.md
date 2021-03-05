@@ -6,7 +6,7 @@ image: images/money-crop.jpg
 permalink: /support/index.html
 ---
 
-Lucy Parsons Labs is entirely volunteer funded and directed. You can support Lucy Parsons Labs through DonorBox or Bitcoin or even a physical check. We are a registered IRS 501(c)3 not-for-profit so all donations are tax deductible. Our EIN is 81-3046769.
+Lucy Parsons Labs is entirely volunteer funded and directed. You can support Lucy Parsons Labs through DonorBox or a physical check. We are a registered IRS 501(c)3 not-for-profit so all donations are tax deductible. Our EIN is 81-3046769.
 
 ## One-time or Monthly Recurring Donations
 
@@ -19,14 +19,9 @@ The DonorBox button below allows you to donate one time or set up a monthly recu
 
 Many employers offer pre-tax charitable contributions with employer matching up to a certain yearly cap. LPL is registered at Benevity, a company that administrates these types of donations in the US.
 
-## Bitcoin
-
-![bitcoin](/images/BTCWalletQR.jpg)
-[1JEwcx2gK5GYpFC1SAeXBCTX9mj2MjqSdE](https://blockchain.info/address/1JEwcx2gK5GYpFC1SAeXBCTX9mj2MjqSdE)
-
 ## Physical Check or Cash
 
-If you wish to remain anonymous, you can send cash in an envelope. We also accept physical checks. Send cash or checks to either one of our mailboxes in Chicago. 
+If you wish to remain anonymous, you can send cash in an envelope. We also accept physical checks. Send cash or checks to either one of our mailboxes in Chicago.
 
 ```
 Lucy Parsons Labs
