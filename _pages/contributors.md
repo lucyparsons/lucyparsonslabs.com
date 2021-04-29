@@ -19,4 +19,4 @@ J. Ader ([@rooneymcnibnug](https://twitter.com/rooneymcnibnug)) comes from a bac
 
 ## Will Pierce
 
-Will Pierce ([pierwill](https://pierwill.com)) is a writer, researcher, and journalist living near Chicago. He is currently completing a dissertation on surveillance and theology in Reformation England. In addition to his work with LPL, he is a frequent contributor to the open-source whistleblower platform [SecureDrop](https://securedrop.org).
+Will Pierce is a writer living in Evanston, Illinois.
