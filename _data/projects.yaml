@@ -8,11 +8,6 @@
   image: images/alpr2.png
   completed: true
 
-- title: SecureDrop
-  url: /securedrop/
-  image: images/blackrose2.png
-  completed: true
-
 - title: OpenOversight
   url: /projects/openoversight/
   image: images/nonatocrop.jpg
