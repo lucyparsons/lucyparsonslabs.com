@@ -25,6 +25,22 @@ Lucy Parsons Labs worked with a journalist to obtain public records that confirm
 
 ## In the News
 
+[Chicago Cops Use Social Media to Track Grieving Families of Gunshot Victims](https://onezero.medium.com/chicago-cops-use-social-media-to-track-grieving-families-of-gunshot-victims-e68e5a6dc40c)   
+_OneZero, December 2019_   
+Records retreived via FOIA by Lucy Parsons Labs reveal the Chicago Police Department spying on the victims - and their families - of gun violence
+
+[This Predictive Policing Company Compares Its Software to ‘Broken Windows’ Policing](https://www.vice.com/en/article/d3k5pv/predpol-predictive-policing-broken-windows-theory-chicago-lucy-parsons)   
+_Vice, June 2018_   
+Responsive records from a Lucy Parsons Labs public records request provide details of predictive policing software   
+
+[Advocating for Change: How Lucy Parsons Labs Defends Transparency in Chicago](https://www.eff.org/deeplinks/2018/03/advocating-change-how-lucy-parsons-labs-defends-transparency-chicago)   
+_Electronic Frontier Foundation, March 2018_   
+Spotlight on the work Lucy Parsons Labs does within Chicago - an interview with Freddy Martinez
+
+[Lucy Parsons Labs sues Chicago over refusal to release #AmazonHQ2 proposal](https://www.muckrock.com/news/archives/2018/feb/05/lpl-chicago-amazon/)   
+_MuckRock, February 2018_   
+Lucy Parsons Labs fights to release documents regarding the bidding for the Amazon HQ2 Headquarters by the City of Chicago
+
 [New website helps public identify Chicago police officers in misconduct complaints](http://www.washingtontimes.com/news/2016/oct/20/openoversight-helps-public-identify-chicago-police/)  
 _Washington Times, October 2016_  
 Freddy Martinez on [OpenOversight](https://lucyparsonslabs.com/projects/openoversight/)
