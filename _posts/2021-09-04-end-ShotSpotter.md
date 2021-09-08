@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Chicago: Cancel the ShotSpotter contract now"
+image: images/blogimages/shotspotter.png
+teaser: "CPD's use of ShotSpotter is dangerous and the contract must be cancelled."
+categories:
+  - surveillance
+tags:
+  - ShotSpotter
+  - surveillance
+  - CPD
+
+---
+
+On Tuesday, August 24th, the Chicago Office of Inspector General (OIG) [released a report](https://igchicago.org/2021/08/24/oig-finds-that-shotspotter-alerts-rarely-lead-to-evidence-of-a-gun-related-crime-and-that-presence-of-the-technology-changes-police-behavior/) on ShotSpotter - the controversial “gunshot detection” service - deployed across the city of Chicago. Lucy Parsons Labs along with more than 50 other community organizations have been long at work to create awareness by voicing the dangers of the ShotSpotter system and its use by departments like CPD. This OIG report brings forth even more evidence for concerned community members: this system is extremely faulty, dangerous, and should not be used.
+
+Shotspotter’s CEO [claims the technology accomplishes a “97% accuracy rate” in detecting gunshots](https://www.shotspotter.com/company/ ). However, in their report, the OIG determined that “Of (the total 50,176 ShotSpotter-related) dispositions, a total of 4,556 indicate that evidence of a gun-related criminal offense was found, representing 9.1% of CPD responses to ShotSpotter alerts.” This means that despite CPD and the company claiming a 97% accuracy rate, only 1 out of every 10 alerts is there evidence of a use of a gun - the reality is that 90% of the time there is no real threat of gunfire.
+
+This scathing report also comes after the Chicago Police Department (CPD) [quietly renewed their contract](https://chicago.cbslocal.com/2021/08/11/cbs2-investigators-shotspotter-contract-extended/) with Shotspotter in December of last year. This came without any public oversight, due to the intentionally opaque and deceptive nature of the City of Chicago's annual budgeting process. The renewal of this contract not only retains an expensive and incredibly inefficient system, it also maintains a real and present threat through the police presence it triggers. Three months after this under-the-radar renewal, 13-year-old Adam Toledo was shot dead by a Chicago Police officer after a dangerous foot chase following a ShotSpotter alert. Toledo complied with the orders of the officer but was still killed on the scene.
+
+Lucy Parsons Labs has continued to work with community organizers to provide information and work towards the abolition of this dangerous technology. Our [research](https://chicagopolicesurveillance.com/ ) into ShotSpotter is critical because CPD Superintendent Brown called the recent external research into understanding the ShotSpotter system “flawed”. He then also claimed that their department uses “other important data” that they retain internally and have not shared publicly.
+
+Lucy Parsons Labs used the Freedom of Information Act statute in Illinois to compel disclosure of this “important data” to make it available to the public. What we found within [the document responsive to the request](https://www.documentcloud.org/documents/21046588-shot-spotter-chicago-performance-overview-2021 ) was CPD’s “Incident Scorecard”, which was taking the incidents that it could not actually attribute as gunshots and classifying them _towards_ accuracy rates by defining them as “Possible Gunshots” - a clear statistical bias. It should also be noted that these accuracy numbers don’t actually mean a gunshot _was_ fired, but rather that the police _classify_ the detection as so.
+
+There were also zero false positives alleged within this “Scorecard”, which is arguably impossible in terms of probability for a total statistic of over 20,000 total alerts triggered by ShotSpotter.
+
+The fact is ShotSpotter _is_ flawed - it has been triggered continually by outside noise from garbage trucks, fireworks, and other loud “bangs” from sources besides gunshots. Its inaccuracy even plays out in the criminal court system. Recently, [ShotSpotter was subpoenaed](https://apnews.com/article/artificial-intelligence-algorithm-technology-police-crime-7e3345485aa668c97606d4b54f9b6220 ) for key details on relevant data captured through its system, which prosecutors claimed incriminated the defendant. Rather than reveal the flawed methodology, the State withdrew the evidence, dropped the case, and released the person after they had been locked in a cage for a year already.
+
+This system’s flaws lead to a deadly course of action. As mentioned by activists, researchers, reporters, and finally the OIG, ShotSpotter puts Black and brown community members in extremely dangerous situations. Officers are called to situations where they expect a gun was fired and could be fired again, even when the reality is there is little evidence for this response. This enables the police to use deadly force under the guise of a tool that claims an absurd level of accuracy - an accuracy which appears to be fabricated. Further, the report by the inspector general noted that police were using historical ShotSpotter alerts as the basis to conduct [illegal and suspicionless stops](https://www.eff.org/deeplinks/2021/08/chicago-inspector-general-police-use-shotspotter-justify-illegal-stop-and-frisks ) and stop and frisk searches. In short, this technology is being used to further criminalize our Black and brown neighbors through racist police tactics.
+
+However, even if this technology was completely accurate (which it is not) we still believe this contract should be canceled. We are committed to ending gun violence in Chicago but we do not believe that surveillance technology makes anyone safer. Taxpayers in the City of Chicago should know that [ShotSpotter’s contract with CPD](https://webapps1.chicago.gov/vcsearch/city/vendors/102512086A/contracts ) costs over $10 million a year. While that might seem like a drop in the bucket to CPD’s massively bloated budget, we insist this money should be better spent on programs that truly keep people safe instead. We note that Chicago closed half of its mental health clinics to save several millions of dollars a year and that investments in public health are crucial for addressing the root causes of intercommunal violence. Rather than investing in tools which are designed to monitor and control Black and brown communities, we believe that the city should invest in the resources that communities beset by gun violence have long been demanding, such as more funding for public schools, mental health clinics, living wage jobs, after-school programs, and violence interruption programs.
+
+The continual funding of dysfunctional and dystopian technology must be addressed before more lives are put at risk. The City Council must cancel the Chicago Police Department’s contract with ShotSpotter and implement a ban on the use of such technology against its citizens. 
+
+To join the movement against Shotspotter, sign [Defund CPD’s petition](https://actionnetwork.org/petitions/cancel-shotspotter-and-support-community-led-solutions-to-address-gun-violence-in-chicago) to cancel ShotSpotter and support community-led solutions to address gun violence in Chicago. [Follow Defund CPD](https://twitter.com/defundcpdchi ) on social media to stay plugged in for future actions.
+
+###
