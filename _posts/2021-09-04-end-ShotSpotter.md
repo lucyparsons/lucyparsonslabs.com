@@ -33,5 +33,3 @@ However, even if this technology was completely accurate (which it is not) we st
 The continual funding of dysfunctional and dystopian technology must be addressed before more lives are put at risk. The City Council must cancel the Chicago Police Department’s contract with ShotSpotter and implement a ban on the use of such technology against its citizens. 
 
 To join the movement against Shotspotter, sign [Defund CPD’s petition](https://actionnetwork.org/petitions/cancel-shotspotter-and-support-community-led-solutions-to-address-gun-violence-in-chicago) to cancel ShotSpotter and support community-led solutions to address gun violence in Chicago. [Follow Defund CPD](https://twitter.com/defundcpdchi ) on social media to stay plugged in for future actions.
-
-###
