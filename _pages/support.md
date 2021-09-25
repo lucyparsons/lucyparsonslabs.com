@@ -25,7 +25,7 @@ If you wish to remain anonymous, you can send cash in an envelope. We also accep
 
 ```
 Lucy Parsons Labs
-332 S. Michigan Avenue
-Suite 1032 #L537
-Chicago, Illinois, 60604
+1055 W. Bryn Mawr Ave
+Suite F #131
+Chicago, Illinois, 60660
 ```
