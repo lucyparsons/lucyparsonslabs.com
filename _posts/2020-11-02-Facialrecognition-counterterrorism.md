@@ -11,7 +11,7 @@ tags:
 ---
 
 Documents obtained exclusively by Lucy Parsons Labs reveal Chicago-area police
-entered into a $50,000 dollar contact with a controversial facial recognition
+entered into a $50,000 dollar contract with a controversial facial recognition
 company, Clearview AI, using counter-terrorism funds. Chicago Police obtained
 the [funding](https://beta.documentcloud.org/documents/20400239-cpic_clearview_ai_refund_check_and_cancellation_memo) under the Urban Areas Security Initiative (UASI) which the
 Department of Homeland Security’s (DHS) funnels to local police in order to
