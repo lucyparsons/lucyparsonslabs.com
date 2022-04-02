@@ -6,3 +6,6 @@ gem "jekyll-gist"
 gem 'modernizr-rails'
 gem 'pxlsrt'
 gem 'rake'
+gem 'kramdown-parser-gfm'
+
+gem "webrick", "~> 1.7"
