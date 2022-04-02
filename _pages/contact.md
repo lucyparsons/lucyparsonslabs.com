@@ -6,14 +6,14 @@ permalink: /contact/index.html
 ---
 ### Get in touch ###
 
-General inquiries for Lucy Parsons Labs can be sent to info AT lucyparsonslabs DOT com. For queries specific to OpenOversight, use openoversight AT lucyparsonslabs DOT com.
+General inquiries for Lucy Parsons Labs can be sent to info@lucyparsonslabs.com. For queries specific to OpenOversight, use openoversight@lucyparsonslabs.com.
 
 Our individual members use a variety of messengers, including Signal, Wire, WhatsApp, OTR, and Twitter. Not all possible ways of connecting with individual LPL members will be listed on this page, so you may find additional ways of contacting individual members, such as Twitter messages.
 
-If you are an activist who would like to request a digital security training by Lucy Parsons Labs for your group, please email us at info AT lucyparsonslabs DOT com or send us a request on Signal or Whatsapp.
+If you are an activist who would like to request a digital security training by Lucy Parsons Labs for your group, please email us at info@lucyparsonslabs.com or send us a request on Signal or Whatsapp.
 
 ### Media inquiries ###
-All media inquiries should be sent to media AT lucyparsonslabs DOT com. Please send us an email that includes your name, outlet, questions, and deadline, and we will get back to you as soon as possible.
+All media inquiries should be sent to media@lucyparsonslabs.com. Please send us an email that includes your name, outlet, questions, and deadline, and we will get back to you as soon as possible.
 
 ### Leak to us ###
 If you have information that you would like to share with Lucy Parsons Labs—including, but not limited to, police misconduct, government corruption, fraud, or abuse—we want to hear from you.
