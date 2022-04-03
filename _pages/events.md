@@ -7,13 +7,14 @@ permalink: /about/events/index.html
 
 ### Upcoming Events
 
-Lucy Parsons Labs, in partnership with the Harold Washington Library's Maker Lab, is hosting a 9 week series on Digital Security every Thursday from 6p.m.-8p.m. between February 13th, 2020 through April, 9th, 2020. The topics and dates are listed [here](https://chipublib.bibliocommons.com/events/search/q=digital%20security). 
+Check back soon! 
 
 ### Upcoming Conferences
 
 Check back soon!
 
 ### Past Community Events
+In 2020, we hosted several digital security trainings at the Harold Washington Library- and then the COVID-19 pandemic began and we discontinued in person meetings. With restrictions lifting, we anticipate more FOIA workshops, digital security trainings, and Tacos & Tor events in the future. 
 
 On 01/15/2020, Lucy Parsons Labs held a public "Tacos and Tor" event where we discussed anonymous web browsing, the legacy of Tor, doing research and whistleblowing using the TAILS operating system, and more. The slides for the event can be seen [here](/torpresentation/index.html). 
 

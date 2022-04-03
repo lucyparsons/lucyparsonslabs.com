@@ -21,7 +21,7 @@ Many employers offer pre-tax charitable contributions with employer matching up 
 
 ## Physical Check or Cash
 
-If you wish to remain anonymous, you can send cash in an envelope. We also accept physical checks. Send cash or checks to either one of our mailboxes in Chicago.
+If you wish to remain anonymous, you can send cash in an envelope. We also accept physical checks. Send cash or checks to our mailbox in Chicago.
 
 ```
 Lucy Parsons Labs
