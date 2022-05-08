@@ -82,6 +82,7 @@ GEM
 
 PLATFORMS
   universal-darwin-17
+  x86_64-linux
 
 DEPENDENCIES
   jekyll
@@ -95,4 +96,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.3.10
+   2.3.13
