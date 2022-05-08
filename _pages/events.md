@@ -19,7 +19,7 @@ If you are looking for slides for previous trainings, they are all available [he
 
 In 2020, we hosted several digital security trainings at the Harold Washington Library- and then the COVID-19 pandemic began and we discontinued in person meetings. With restrictions lifting, we anticipate more FOIA workshops, digital security trainings, and Tacos & Tor events in the future. 
 
-Lucy Parsons Labs held a public "Tacos and Tor" event where we discussed anonymous web browsing, the legacy of Tor, doing research and whistleblowing using the TAILS operating system, and more. The slides for the event can be seen [here](/torpresentation/index.html). 
+Lucy Parsons Labs held a public "Tacos and Tor" event where we discussed anonymous web browsing, the legacy of Tor, doing research and whistleblowing using the TAILS operating system, and more.
 
 Lucy Parsons Labs along with Free Our Info hosted a free FOIA workshop where they covered how to craft a FOIA request for the first time, what to expect in response, and several tips and tricks on how to get the information quicker.
 
