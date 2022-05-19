@@ -1,8 +1,8 @@
-name: Deploy dev
+name: Deploy prod
 
 on:
   push:
-    branches: [ develop ]
+    branches: [ main ]
 permissions:
   contents: read
 env:
@@ -24,4 +24,4 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: us-east-1
     - name: Run build
-      run: bundle exec rake deploy
+      run: bundle exec rake deploy_prod
