@@ -1,6 +1,6 @@
-name: Ruby
+name: Build site
 
-on: [push, pull_request]
+on: push
 
 permissions:
   contents: read
@@ -14,7 +14,6 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: "2.7"
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Run build
       run: bundle exec rake build

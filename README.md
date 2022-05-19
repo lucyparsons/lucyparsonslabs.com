@@ -15,7 +15,12 @@ Our members have a variety of projects and collaborations in the works. Some exa
 We are a transparency non-profit that seeks to engage our community in a horizontal manner while organizing around digital rights issues, supporting free and open source projects and seeking the free flow of information globally.
 
 ## How to Develop On This Site
-It's a reasonably simply jekyll site. You'll want to get a modern version of Ruby installed, via rbenv or rvm if you prefer. You should `gem install bundler` of some variety if you haven't already, and `bundle install` will provide the versions of Rake and Jekyll that this project currently uses. From there, `rake dev` will start a local env that you can reach at http://localhost:4000/ with any changes you wish to test. To deploy to the website, you need access to our S3 bucket.
+It's a reasonably simply jekyll site. You'll want to get a modern version of Ruby installed, via rbenv or rvm if you prefer. You should `gem install bundler` of some variety if you haven't already, and `bundle install` will provide the versions of Rake and Jekyll that this project currently uses. From there, `rake dev` will start a local env that you can reach at http://localhost:4000/ with any changes you wish to test. 
+
+## Deployment
+The site is deployed through Github Actions. There are two branches that get deployed when commits are added to them:
+* `develop` gets deployed to https://staging.lucyparsonslabs.com
+* `main` gets deployed to https://lucyparsonslabs.com
 
 ## Style Guide
 Our website art was created using [pxlsrt](https://github.com/czycha/pxlsrt), a Ruby gem. For more information, see the [style guide](STYLE.md).
