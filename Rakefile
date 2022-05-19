@@ -45,7 +45,6 @@ task :deploy_prod do
   puts 'New content copied to https://lucyparsonslabs.com'
 end
 
-
 desc "Update the warrant canary with your gpg key"
 task :updatecanary do
   # note: if you include any shell-special characters here, you get to fix the sh command
@@ -58,25 +57,6 @@ END
 
   Dir.chdir(File.dirname(__FILE__)) do
     sh "echo \"#{canarytext}\" | gpg --clearsign > _includes/canary.txt"
-  end
-end
-
-def publish_to_server(site_config)
-  # This isn't used anymore, but is left here in case we ever need it again.
-  additional_configs = site_config['additional_configs']
-  server = site_config['webserver']
-  Dir.chdir(File.dirname(__FILE__)) do
-    if additional_configs
-      config = ['_config.yml', additional_configs].join(',')
-    else
-      config = '_config.yml'
-    end
-    sh "mkdir -p _site && rm -fr _site"
-    sh "bundle exec jekyll build --config #{config}"
-    puts 'Publishing the contents of _site'
-    user = 'lpldeploy'
-    path = '/var/www/lucyparsonslabs.com'
-    sh "rsync -rtzh --delete _site/ #{user}@#{server}:#{path}"
   end
 end
 
@@ -100,14 +80,5 @@ def publish_to_s3(site_config)
 end
 
 def invalidate_cloudfront_distro(distribution_id)
-  sh "aws cloudfront create-invalidation --distribution-id #{distribution_id} \
-          --paths #{get_listed_files.map{|x| "\"/#{x}\""}.join(' ')}" # note to whoever comes next:
-                                                                      # this ugly-looking map/join surrounds individual files
-                                                                      # with quotes after adding a leading slash
-end
-
-def get_listed_files()
-  Dir.chdir(File.join(File.dirname(__FILE__),'_site')) do
-    files = Dir.glob("**/*").select{|entry| File.file?(entry) }
-  end
+  sh "aws cloudfront create-invalidation --distribution-id #{distribution_id} --paths '/*'"
 end
