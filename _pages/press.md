@@ -19,6 +19,22 @@ To build a map of ShotSpotter locations, the Reader and the independent research
 _Amsterdam News, May 2022_
 One thing demonstrators should be aware of before they head out is that their cellphones may subject them to surveillance tactics by law enforcement. If your cellphone is on and unsecured, not only can your location be tracked, but your messages and the content of your phone may also be retrieved by police either if they take custody of your phone or later by warrant or subpoena.
 
+[Abolitionists Are Fighting Against the Surveillance State in Their Neighborhoods](https://truthout.org/audio/abolitionists-are-fighting-against-the-surveillance-state-in-their-neighborhoods/)
+_Truthout, December 2021_
+Kelly Hayes: Welcome to “Movement Memos,” a Truthout podcast about things you should know if you want to change the world. I’m your host, writer and organizer, Kelly Hayes. We talk a lot on this show about building the relationships and analysis we need to create movements that can win. Today, we are talking about the surveillance state, and how a coalition of activists in Chicago is seeking to interrupt its work. The surveillance technology known as ShotSpotter sounds like something out of a modern dystopian novel: a sea of microphones, scattered across oppressed communities, supposedly to detect gunshots, for the purpose of community safety.
+
+[Beneath the Surface is a project that investigates gender-based violence at the hands of the police](https://invisible.institute/beneath-the-surface)
+_Invisible Institute, November 2021_
+Beneath the Surface uses machine learning and narrative justice to better understand how marginalized communities experience police violence. The Invisible Institute has worked to make police complaint data public for years, but even when complaint data is public, significant information remains inaccessible. We hope this investigative journalism will strengthen the testimonies of, and advocacy efforts for, people most affected by advancing public conversation about policing, safety, and gender, while holding data science research accountable to lived experience and increasing the accessibility of public data. 
+
+[Private Eyes: CPD pays for access to private security cameras](https://southsideweekly.com/private-eyes/)
+_South Side Weekly, May 2021_
+Those cameras are part of a network the City has quietly expanded since at least 2009 by subsidizing security cameras for renters, homeowners, and businesses who connect them to the department’s surveillance centers.  
+
+[Op-Ed: End the City’s ShotSpotter Contract](https://southsideweekly.com/end-the-citys-shotspotter-contract/)
+_South Side Weekly, April 2021_
+ShotSpotter is only a single part of the surveillance network CPD and the City have built under the guise of public safety. The City similarly claims its automatic license plate readers deter carjackings (carjackings are up); says its gang database is effective (it’s woefully unreliable); promised its Summer Operations Center’s network of cameras and gunshot detectors would deter shootings (gun murders exploded, and the SOC surveilled a school during last year’s protests). 
+
 [“That’s Bogus as Hell!”: Getting Under the Hood of Surveillance
 Technologies in an Out of School STEM Learning Environment](https://par.nsf.gov/servlets/purl/10207166)
 _International Conferences of the Learning Sciences, June 2020_
@@ -40,6 +56,10 @@ science and civics.
 _Block Museum Presents, June 2020_
 In partnership with the TREE Lab in Northwestern’s School of Education and Social Policy, the Block Museum presented a special online screening, on June 17, 2020, of three documentaries produced by students of the Young People’s Race, Power, and Technology (YPRPT) project. YPRPT is an afterschool program, developed in partnership with community partners including Evanston Township High School, Family Matters, Endangered Peace, and the Lucy Parsons Labs, that brings together NU undergraduate students with youth and community members to jointly investigate the ethical and social dimensions of specific law enforcement technologies such as facial recognition and gang databases.
 
+[Identifiers of Detained Children Have Implications for Data Security and Estimation](https://hrdag.org/2020/01/29/identifiers-detained-children/)
+_Humans Rights Data Analysis Group, January 2020_
+This report details the dataset used for this analysis, the investigative steps taken to understand the relationship between alien numbers and dates of entry into detention facilities, possibilities for estimation, and the potential leakage of sensitive data. Read the full report [here](https://hrdag.org/wp-content/uploads/2020/01/osprey-anum-blogpost-1.pdf).
+
 [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 _The New York Times, January 2020_
 Photos “could be covertly taken with telephoto lens and input into the software, without ‘burning’ the surveillance operation,” the detective wrote in the email, provided to The Times by two researchers, Beryl Lipton of MuckRock and Freddy Martinez of Open the Government. They discovered Clearview late last year while looking into how local police departments are using facial recognition.
@@ -55,10 +75,6 @@ Data obtained through a Freedom of Information Act request filed by Lucy Parson 
 [This Predictive Policing Company Compares Its Software to ‘Broken Windows’ Policing](https://truthout.org/audio/abolitionists-are-fighting-against-the-surveillance-state-in-their-neighborhoods/)
 _Vice, June 2018_
 Police training documents from PredPol, a company that sells predictive policing software, shows that the company considers its software to be comparable to a “broken windows” policing strategy that has led to overpolicing of minority communities and is widely believed to be ineffective. The documents, obtained through a freedom of information request by digital rights group Lucy Parsons Labs from the Elgin, Illinois Police Department, include police training materials produced by PredPol and contracts between the city—a suburb of Chicago—and the company. 
-
-[Abolitionists Are Fighting Against the Surveillance State in Their Neighborhoods](https://truthout.org/audio/abolitionists-are-fighting-against-the-surveillance-state-in-their-neighborhoods/)
-_Truthout, December 2021_
-Kelly Hayes: Welcome to “Movement Memos,” a Truthout podcast about things you should know if you want to change the world. I’m your host, writer and organizer, Kelly Hayes. We talk a lot on this show about building the relationships and analysis we need to create movements that can win. Today, we are talking about the surveillance state, and how a coalition of activists in Chicago is seeking to interrupt its work. The surveillance technology known as ShotSpotter sounds like something out of a modern dystopian novel: a sea of microphones, scattered across oppressed communities, supposedly to detect gunshots, for the purpose of community safety.
 
 [How Police Are Watching You on Social Media](http://www.citylab.com/crime/2016/12/how-police-are-watching-on-social-media/508991/)  
 _City Lab from the Atlantic, December 2016_  
@@ -88,7 +104,6 @@ Now, the only reason that we know Clearview AI exists is because a couple of res
 [The FOILies: recognizing the year’s worst in government transparency.](https://www.montereycountyweekly.com/news/cover/the-foilies-recognizing-the-year-s-worst-in-government-transparency/article_fab4a796-aaec-11ec-905d-d7c4b7c43437.html)
 _Monterey County Weekly, March 2022_
 Clearview’s existence was initially revealed via public records requests filed by Open the Government and MuckRock. In September 2021, as it faced still-ongoing litigation in Illinois, Clearview made an unusual and worrying move against transparency and journalism: it served subpoenas on Open the Government, its researcher Freddy Martinez, and Chicago-based Lucy Parsons Labs (none of whom are involved in the lawsuit).
-
 
 [Rogers Park Alderwoman Opposes Controversial Crime Ordinance](https://loyolaphoenix.com/2022/03/chicago-city-council-delays-vote-on-controversial-crime-ordinance-in-face-of-opposition-from-ald-hadden-and-others/)
 _Loyola Phoenix, March 2022_
@@ -201,7 +216,6 @@ How do police officers lockdown their online presence? A document recently relea
 [Public records shed little light on Chicago Police’s bizarre choice of profile picture](https://www.muckrock.com/news/archives/2018/apr/30/cpd-profile-pic/)
 _Muckrock, April 2018_
 A public records request by Lucy Parsons Labs for more information on the “development, design, and creation” of this image resulted in a brief reply from the department.
-
 
 [Advocating for Change: How Lucy Parsons Labs Defends Transparency in Chicago](https://www.eff.org/deeplinks/2018/03/advocating-change-how-lucy-parsons-labs-defends-transparency-chicago)   
 _Electronic Frontier Foundation, March 2018_   
