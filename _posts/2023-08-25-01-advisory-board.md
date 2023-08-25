@@ -8,7 +8,10 @@ tags:
   - applications
   - advisory-board
 ---
-# Join our team
+
+![](/images/advisory-board-app-banner.png)
+*Banner image of LPL logo with the text "apply for our advisory board today"*
+
 *Final date for applications: September 5th, 2023 by 11:59PM CT*<br>
 **Note**: This is not a paid position
 ## We're revitalizing our board!
