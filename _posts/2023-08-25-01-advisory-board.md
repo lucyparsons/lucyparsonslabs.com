@@ -15,12 +15,14 @@ tags:
 Lucy Parsons Labs is seeking candidates to revitalize its advisory board. Board members will be appointed for an initial one-year term with the option to continue and its term-length decided collectively during initial meetings.
 
 Lucy Parsons Labs is committed to diversity, inclusion, and building towards collective liberation with folks impacted by systemic violence. The diversity of the resulting board's composition will be considered when selecting new board members.
+
 ## Lucy Parsons Labs
 Lucy Parsons Labs (LPL) is an expert on technology’s role in creating harm in our society and counters it through education, investigation, and litigation. Initially a collaborative of technologists and transparency activists named after the 19th-century Chicago labor organizer, agitator, and anarchist, LPL is currently structured as a 501(c)3. We believe that liberation comes from sustained community relationship-building and are continuously working alongside our co-travelers to deepen each other’s work. 
 
 Chicago is widely considered as a site for law enforcement experimentation and development. Because its violent carceral innovations are often exported out, Chicago is a canary in the coalmine to organizers actively shaping community defense against ever-evolving state violence and tyranny. We leverage our extensive technical experience as researchers and technologists, have a demonstrated commitment to building tools, supporting campaigns, and sharing knowledge with those most impacted by police violence to support Chicago’s racial justice movement ecosystem and carve pathways towards material change.
 
 *We work to reduce the size, scope, and power of police and the carceral state using three core program areas: **Investigation, Education, Litigation**. [Read more about our program areas by following this link.](/posts/00-program-areas/)*
+
 ## The Advisory Board
 The advisory board will have the exciting opportunity to deepen and shape LPL's strategy moving forward. While the advisory board’s input will influence the progression and development of LPL, day-to-day operational responsibilities remain in the hands of LPL members and staff. The advisory board’s initial responsibilities fall under:
 
@@ -38,6 +40,7 @@ The following skills and qualities are desired among board member candidates, th
 - A commitment to undoing and preventing systemic injustices related to the innovation and deployment of technology
 - Basic familiarity with nonprofit governance
 - Ability to leverage a network of contacts within grassroots, industry, academic, or nonprofit domains to create new opportunities for LPL
+
 ## How to Apply
 To apply for the LPL advisory board, please submit a current resume to [advisoryboard at lucyparsonslabs dot com](mailto:advisoryboard@lucyparsonslabs.com). The deadline for applications is September 5th, 2023 by 11:59PM CT. 
 
