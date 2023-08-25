@@ -19,7 +19,7 @@ tags:
 ![](/images/lpl-iel-banner.png)
 *Glitched banner with words "investigation, education, and litigation".*
 
-# Greetings and solidarity,
+# Greetings and solidarity
 
 From 2022 to today, LPL strives to sharpen its strategic approach in understanding and countering technologically-amplified carceral violence. From continued discussion, we've begun to consider our work as fitting into three, overlapping program areas: *investigation, education, and litigation.*
 
