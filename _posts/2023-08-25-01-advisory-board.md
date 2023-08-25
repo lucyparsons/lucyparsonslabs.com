@@ -20,7 +20,7 @@ Lucy Parsons Labs (LPL) is an expert on technology’s role in creating harm in 
 
 Chicago is widely considered as a site for law enforcement experimentation and development. Because its violent carceral innovations are often exported out, Chicago is a canary in the coalmine to organizers actively shaping community defense against ever-evolving state violence and tyranny. We leverage our extensive technical experience as researchers and technologists, have a demonstrated commitment to building tools, supporting campaigns, and sharing knowledge with those most impacted by police violence to support Chicago’s racial justice movement ecosystem and carve pathways towards material change.
 
-*We work to reduce the size, scope, and power of police and the carceral state using three core program areas: **Investigation, Education, Litigation**. [Read more about our program areas by following this link.](/program-areas/)*
+*We work to reduce the size, scope, and power of police and the carceral state using three core program areas: **Investigation, Education, Litigation**. [Read more about our program areas by following this link.](/posts/00-program-areas/)*
 ## The Advisory Board
 The advisory board will have the exciting opportunity to deepen and shape LPL's strategy moving forward. While the advisory board’s input will influence the progression and development of LPL, day-to-day operational responsibilities remain in the hands of LPL members and staff. The advisory board’s initial responsibilities fall under:
 
