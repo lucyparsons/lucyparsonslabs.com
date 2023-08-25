@@ -35,5 +35,7 @@ Through litigation, LPL challenges technologies that disproportionately violate 
 This framework meets our needs at the moment, but we also understand the need to iterate and adapt as time moves forward. We hope this brief introduction to the program areas helps clarify some of our approaches, and LPL will update accordingly as we continue to modify our strategies moving forward.
 
 Con mucho amor,
+
 Alejandro Ruizesparza
+
 Co-Director, Lucy Parsons Labs
