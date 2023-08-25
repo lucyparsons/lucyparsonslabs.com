@@ -12,7 +12,7 @@ tags:
 ![](/images/advisory-board-app-banner.png)
 *Banner image of LPL logo with the text "apply for our advisory board today"*
 
-*Final date for applications: September 5th, 2023 by 11:59PM CT*<br>
+***Final date for applications: September 5th, 2023 by 11:59PM CT***<br>
 ***Note: This is not a paid position***
 
 ## Join our team!
@@ -36,7 +36,8 @@ The advisory board will have the exciting opportunity to deepen and shape LPL's 
 
 **Advisory Support & Mutual Aid:** The advisory board will support LPL through being available to advise LPL membership, expanding the network, acting as stewards of communication, and promoting sustainability. This may involve lending credibility to the ideas that LPL raises as important and serving as critical allies to the work. This may also involve leveraging existing networks of contacts to create opportunities and supporting fundraising efforts.
 
-**Roles and responsibilities will be collectively finalized by advisory board members and LPL leadership during initial meetings.**
+***Roles and responsibilities will be collectively finalized by advisory board members and LPL leadership during initial meetings.***
+
 ## Desired Skills or Experience
 The following skills and qualities are desired among board member candidates, though possessing all is not required for application:
 
