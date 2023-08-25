@@ -39,7 +39,7 @@ The advisory board will have the exciting opportunity to deepen and shape LPL's 
 ***Roles and responsibilities will be collectively finalized by advisory board members and LPL leadership during initial meetings.***
 
 ## Desired Skills or Experience
-The following skills and qualities are desired among board member candidates, though possessing all is not required for application:
+The following skills and qualities are desired among board member candidates, though possessing all is not required for application. Further, so-called _professional_ experience is not required for this role. Broadly, here are the skills or experiences we are interested in seeing among applicants:
 
 - A commitment to countering systems of violence relevant to and including the prison-industrial complex 
 - A commitment to undoing and preventing systemic injustices related to the innovation and deployment of technology
