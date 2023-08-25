@@ -32,7 +32,7 @@ Our educational programming allows us to share our research and develop deeper k
 ## Litigation
 Through litigation, LPL challenges technologies that disproportionately violate the civil liberties and rights of Black and brown people. We have established a strong relationship with the civil rights law firms Loevy & Loevy and the MacArthur Justice Center, who support us in litigating cases to expose misconduct, negligence, and harm. We have participated in the filing of multiple amicus briefs with other Chicago-based organizations. We consistently submit public records requests related to policing and surveillance and force release of documents via litigation when necessary.
 
-# Adapting as we move
+# Adapting as we go
 This framework meets our needs at the moment, but we also understand the need to iterate and adapt as time moves forward. We hope this brief introduction to the program areas helps clarify some of our approaches, and LPL will update accordingly as we continue to modify our strategies moving forward.
 
 Con mucho amor,<br>
