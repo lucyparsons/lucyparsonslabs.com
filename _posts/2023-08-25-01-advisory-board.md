@@ -13,8 +13,9 @@ tags:
 *Banner image of LPL logo with the text "apply for our advisory board today"*
 
 *Final date for applications: September 5th, 2023 by 11:59PM CT*<br>
-**Note**: This is not a paid position
-## We're revitalizing our board!
+***Note: This is not a paid position***
+
+## Join our team!
 Lucy Parsons Labs is seeking candidates to revitalize its advisory board. Board members will be appointed for an initial one-year term with the option to continue and its term-length decided collectively during initial meetings.
 
 Lucy Parsons Labs is committed to diversity, inclusion, and building towards collective liberation with folks impacted by systemic violence. The diversity of the resulting board's composition will be considered when selecting new board members.
