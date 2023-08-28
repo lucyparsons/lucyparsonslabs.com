@@ -6,7 +6,7 @@ image: images/money-crop.jpg
 permalink: /support/index.html
 ---
 
-Lucy Parsons Labs is entirely volunteer funded and directed. You can support Lucy Parsons Labs through DonorBox or a physical check. We are a registered IRS 501(c)3 not-for-profit so all donations are tax deductible. Our EIN is 81-3046769.
+Lucy Parsons Labs is primarily volunteer funded and directed. You can support Lucy Parsons Labs through DonorBox or a physical check. We are a registered IRS 501(c)3 not-for-profit so all donations are tax deductible. Our EIN is 81-3046769.
 
 ## One-time or Monthly Recurring Donations
 
